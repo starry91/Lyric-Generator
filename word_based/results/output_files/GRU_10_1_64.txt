@@ -1,0 +1,813 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"sing and dance all night, and wrong all the right"
+----- Generated lyrics:
+sing and dance all night, and wrong all the right 
+ and the world to the other of the rain 
+ and the world of the road 
+ and the road 
+ and the do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do,
+
+----- Diversity:0.4
+----- Generating with seed:
+"sing and dance all night, and wrong all the right"
+----- Generated lyrics:
+sing and dance all night, and wrong all the right 
+ and i can't be the rain 
+ 
+ i know that i want to know 
+ and i can't go 
+ to the dawn 
+ and the road of the road 
+ and the world of the road 
+ and the world of the road 
+ and the world
+
+----- Diversity:0.5
+----- Generating with seed:
+"sing and dance all night, and wrong all the right"
+----- Generated lyrics:
+sing and dance all night, and wrong all the right 
+ the road in the world 
+ the world in the night 
+ and i love for the water 
+ and the road of the road 
+ and the world of the road 
+ and we can't be and the wind 
+ and the world 
+ and i could make
+
+----- Diversity:0.6
+----- Generating with seed:
+"sing and dance all night, and wrong all the right"
+----- Generated lyrics:
+sing and dance all night, and wrong all the right for me 
+ and my mind 
+ and that i can't go 
+ 
+ and i know how to drive 
+ in the morning 
+ and the road 
+ on the world 
+ and i crazy just a a little bit of your heart 
+ just a little bit of
+
+----- Diversity:0.7
+----- Generating with seed:
+"sing and dance all night, and wrong all the right"
+----- Generated lyrics:
+sing and dance all night, and wrong all the right 
+ world right and for a lady and i fall 
+ and those man's to the down 
+ and i'm in the hear of down 
+ 
+ that the day 
+ in the desert down in the road 
+ and the day and the world 
+ and and and day
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"can you hear him call you now 
+ can you"
+----- Generated lyrics:
+can you hear him call you now 
+ can you hear a summer calling you can can you hear you call now now now can can make your summer 
+ look for me can help make a dream 
+ 
+ [chorus] 
+ and every dream in the road 
+ but i can't remember 
+ that i think that i think
+
+----- Diversity:0.4
+----- Generating with seed:
+"can you hear him call you now 
+ can you"
+----- Generated lyrics:
+can you hear him call you now 
+ can you hear the summer calling you can can tell you now 
+ you've got to go on the valley 
+ to the mexico 
+ and the evening to the lights 
+ and the fire is the lights 
+ 
+ and the one of the lights 
+ 
+ the music and watch
+
+----- Diversity:0.5
+----- Generating with seed:
+"can you hear him call you now 
+ can you"
+----- Generated lyrics:
+can you hear him call you now 
+ can you hear summer summer calling you can can can make you feel the summer can can can help make it 
+ it's a little can help that that we can help for a ride ride together 
+ the outside outside the giddy-up, giddy-up, giddy-up, let's go, let's look at the show
+
+----- Diversity:0.6
+----- Generating with seed:
+"can you hear him call you now 
+ can you"
+----- Generated lyrics:
+can you hear him call you now 
+ can you hear a summer calling you can can turn you 
+ can you now 
+ though we need your own 
+ and we can see the light no one 
+ and you'll know my pain 
+ 
+ and the road is hard to the wind 
+ the night in the night
+
+----- Diversity:0.7
+----- Generating with seed:
+"can you hear him call you now 
+ can you"
+----- Generated lyrics:
+can you hear him call you now 
+ can you hear a summer calling you can can you hear a summer you now can can help you hear the summer world can can be 
+ now you've got enough to go out 
+ the new blue 
+ and the middle of the road 
+ baby and the wind music and
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"get excited 
+ you can see me look right through"
+----- Generated lyrics:
+get excited 
+ you can see me look right through your heart 
+ 
+ i really love you and i know that i really want to show 
+ but i really want to see you 
+ i really want to see you 
+ i really want to see you 
+ i really want to see you 
+ (hallelujah) 
+ i
+
+----- Diversity:0.4
+----- Generating with seed:
+"get excited 
+ you can see me look right through"
+----- Generated lyrics:
+get excited 
+ you can see me look right through your heart 
+ now i don't try to tell me what i know 
+ i know that i've had way too much tonight 
+ 
+ [chorus] 
+ i've had way too much tonight 
+ i just like to die 
+ 
+ and i can't get with no more 
+ i
+
+----- Diversity:0.5
+----- Generating with seed:
+"get excited 
+ you can see me look right through"
+----- Generated lyrics:
+get excited 
+ you can see me look right through your heart 
+ 
+ i always try to tell me that they really got 
+ to the morning 
+ and the fire in the world 
+ in the road 
+ just a little bit is all i'm asking for 
+ oh, oh, (just a little little is 2] 
+ i
+
+----- Diversity:0.6
+----- Generating with seed:
+"get excited 
+ you can see me look right through"
+----- Generated lyrics:
+get excited 
+ you can see me look right through your heart is all right 
+ i hear a little love you 
+ i really want to see you 
+ i really want to see 
+ i dream in the evening 
+ that brings me and i go and i don't know 
+ that i know you know 
+ i
+
+----- Diversity:0.7
+----- Generating with seed:
+"get excited 
+ you can see me look right through"
+----- Generated lyrics:
+get excited 
+ you can see me look right through 
+ i been there like i used to do 
+ make it to the border 
+ do, do, do make it to the border 
+ if do, do, do and do to live with no man 
+ to hide in your eyes 
+ and over the world 
+ in a
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"an angel when i hit my low 
+ when your"
+----- Generated lyrics:
+an angel when i hit my low 
+ when your heart and soul 
+ it is where we both start 
+ and we both go day, to know my name 
+ and part don't know what to say anymore 
+ and i'm that alone 
+ even the time comes my way back to you 
+ to the things i've do
+
+----- Diversity:0.4
+----- Generating with seed:
+"an angel when i hit my low 
+ when your"
+----- Generated lyrics:
+an angel when i hit my low 
+ when your heart and soul are it right 
+ tell that i'm right here to stay 
+ every hour, every day. 
+ every every good day needs you helping good 
+ it's true 
+ and i try to try to hide 
+ like na na na na na na na na na
+
+----- Diversity:0.5
+----- Generating with seed:
+"an angel when i hit my low 
+ when your"
+----- Generated lyrics:
+an angel when i hit my low 
+ when your heart is soul 
+ it is just a dream of a good night 
+ just a little bit of your heart 
+ just a little bit of your heart 
+ just a little bit of your heart 
+ just a little bit of your heart 
+ just a little bit
+
+----- Diversity:0.6
+----- Generating with seed:
+"an angel when i hit my low 
+ when your"
+----- Generated lyrics:
+an angel when i hit my low 
+ when your heart and soul that it is where we both start 
+ and it is there, where we both go back to set out there, where we go now 
+ i try and music where we live to dream 
+ that i dream in my heart 
+ and i dream of
+
+----- Diversity:0.7
+----- Generating with seed:
+"an angel when i hit my low 
+ when your"
+----- Generated lyrics:
+an angel when i hit my low 
+ when your heart begins to open it i'll be so close to you 
+ and if you have to go away 
+ i'll leave loving shoes 
+ and i'll live to see the other 
+ yeah, i don't mind waiting to fight 
+ i need to say this is lord 
+ (hallelujah)
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"high we can sing alone, 
+ bring us back in"
+----- Generated lyrics:
+high we can sing alone, 
+ bring us back in time, what to we belong 
+ when we all need it most, it honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon
+
+----- Diversity:0.4
+----- Generating with seed:
+"high we can sing alone, 
+ bring us back in"
+----- Generated lyrics:
+high we can sing alone, 
+ bring us back in time, what to we belong 
+ when we all need it most, it honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon
+
+----- Diversity:0.5
+----- Generating with seed:
+"high we can sing alone, 
+ bring us back in"
+----- Generated lyrics:
+high we can sing alone, 
+ bring us back in time, to what we all belong 
+ when we all need it most, we honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"high we can sing alone, 
+ bring us back in"
+----- Generated lyrics:
+high we can sing alone, 
+ bring us back in time, what to we belong 
+ when we always need to keep us honeymoon avenue 
+ honeymoon avenue my honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon
+
+----- Diversity:0.7
+----- Generating with seed:
+"high we can sing alone, 
+ bring us back in"
+----- Generated lyrics:
+high we can sing alone, 
+ bring us back in time, what to be belong 
+ when i have to say it all that i still believe in the love 
+ where we all belong 
+ as i need to believe in my heart 
+ i just want to see you 
+ i can't want to be with you 
+
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"
+ each and every time i turn around to leave"
+----- Generated lyrics:
+
+ each and every time i turn around to leave you and feel my heart begin 
+ and i'll show you feel from the heart of the door 
+ it's there are a us of the world 
+ and music would turn around 
+ and they would my shining 
+ the made a blind a hill i'm alive, alive, alive,
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ each and every time i turn around to leave"
+----- Generated lyrics:
+
+ each and every time i turn around to leave you and feel my heart begin 
+ and i'll show you feel the more of all the things that you 
+ 
+ but i know my love 
+ don't you know my mama 
+ don't stop up fast 
+ my baby, and don't stop up 
+ don't see my baby,
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ each and every time i turn around to leave"
+----- Generated lyrics:
+
+ each and every time i turn around to leave you and feel my heart begin to see it all through 
+ but it must all have to go 
+ and just live without the sun 
+ i'll be my own 
+ cause i'm so glad 
+ i'm never make you alone 
+ so long, little long, so 
+ you
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ each and every time i turn around to leave"
+----- Generated lyrics:
+
+ each and every time i turn around to leave you and feel my heart begin to see it through all you 
+ to make it in the border 
+ do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do, do,
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ each and every time i turn around to leave"
+----- Generated lyrics:
+
+ each and every time i turn around to leave you and feel my heart begin 
+ and take it all of nothing 
+ but now there's nothing left to be 
+ i've had my heart in the door 
+ i've got to try to see my little woman or what i want 
+ to see you lord 
+ my
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"valley 
+ lies one that i love so well 
+"
+----- Generated lyrics:
+valley 
+ lies one that i love so well 
+ she don't look your only love i love you 
+ that only love is falling 
+ i love you falling in love with love 
+ and i can't believe what i say 
+ i know i doesn't really believe 
+ i say i forgive the strength inside of heart 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"valley 
+ lies one that i love so well 
+"
+----- Generated lyrics:
+valley 
+ lies one that i love so well 
+ she don't look your only love and i can feel like the touch me 
+ i can't stop and i don't stop 
+ i don't know what i don't do 
+ i don't know where i don't do 
+ i know the reason why 
+ i really love you like
+
+----- Diversity:0.5
+----- Generating with seed:
+"valley 
+ lies one that i love so well 
+"
+----- Generated lyrics:
+valley 
+ lies one that i love so well 
+ she don't look your girl and i love you 
+ that i love you know 
+ i love you like a love a friend of mine 
+ but i know it's all over we all belong 
+ still just right my 
+ 
+ and i know i doesn't mean to
+
+----- Diversity:0.6
+----- Generating with seed:
+"valley 
+ lies one that i love so well 
+"
+----- Generated lyrics:
+valley 
+ lies one that i love so well 
+ she don't look your girl and i love 
+ when that i love you, 
+ i love you 
+ and i love you in the morning 
+ the same old eyes would welcome me home 
+ and the moon would rise way over my head 
+ and get through the
+
+----- Diversity:0.7
+----- Generating with seed:
+"valley 
+ lies one that i love so well 
+"
+----- Generated lyrics:
+valley 
+ lies one that i love so well 
+ she don't look your only and i love you 
+ that you're not here for me 
+ i don't know what to say anymore 
+ and i don't know how to even the score with you, oh, oh, oh, with you 
+ 
+ oh, with you 
+ oh, oh, oh,
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"you and i 
+ 
+ seems to me now 
+"
+----- Generated lyrics:
+you and i 
+ 
+ seems to me now 
+ that i could see the stars above love, 
+ is the times of your love 
+ but i never see of your love 
+ and i love you so and i know 
+ i need to live on the own 
+ that we're here in the spell of 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"you and i 
+ 
+ seems to me now 
+"
+----- Generated lyrics:
+you and i 
+ 
+ seems to me now 
+ when i look around you 
+ i really know how to drive in rain 
+ and you decide not to make a change 
+ stuck in the same old song and dance, my life 
+ it's the same old time is all the radio 
+ and the lights and go
+
+----- Diversity:0.5
+----- Generating with seed:
+"you and i 
+ 
+ seems to me now 
+"
+----- Generated lyrics:
+you and i 
+ 
+ seems to me now 
+ that i could tell you now that i've been 
+ i love the first time and i try to find love again 
+ it's only a woman in the game 
+ a little girl of you 
+ i need no place to go 
+ and if the goes just by
+
+----- Diversity:0.6
+----- Generating with seed:
+"you and i 
+ 
+ seems to me now 
+"
+----- Generated lyrics:
+you and i 
+ 
+ seems to me now 
+ i'm in the kind of love and in the middle of the here ending noise 
+ there is a reason for the long 
+ i'll never be all i am be 
+ i've got a never ending i know how to drive 
+ but i can't believe in what could
+
+----- Diversity:0.7
+----- Generating with seed:
+"you and i 
+ 
+ seems to me now 
+"
+----- Generated lyrics:
+you and i 
+ 
+ seems to me now 
+ that i could tell you now that i look 
+ cause i don't want my love 
+ stronger don't i've been before 
+ now i don't know why some break free 
+ cause i can't let it be 
+ wrong 
+ and i dream in the morning 
+ that she
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"just what you need to make you feel 
+ 
+"
+----- Generated lyrics:
+just what you need to make you feel 
+ 
+ just what i need to make 
+ feel just my heart 
+ don't need to 
+ i feel like you 
+ then i stop in my heart 
+ i don't want to be my girl 
+ i want to be a week 
+ who only want to be a me,
+
+----- Diversity:0.4
+----- Generating with seed:
+"just what you need to make you feel 
+ 
+"
+----- Generated lyrics:
+just what you need to make you feel 
+ 
+ just what i'm need to make you feel 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just
+
+----- Diversity:0.5
+----- Generating with seed:
+"just what you need to make you feel 
+ 
+"
+----- Generated lyrics:
+just what you need to make you feel 
+ 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"just what you need to make you feel 
+ 
+"
+----- Generated lyrics:
+just what you need to make you feel 
+ 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+ just what you need to make you feel better 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"just what you need to make you feel 
+ 
+"
+----- Generated lyrics:
+just what you need to make you feel 
+ 
+ just a little bit of your heart is just a little bit of your heart is just a little bit of your heart is just a little bit of your heart is just a little bit of your heart is just a little bit of your heart is just a
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"you made me come alive 
+ 
+ [chorus] 
+ i'll"
+----- Generated lyrics:
+you made me come alive 
+ 
+ [chorus] 
+ i'll never find enough, never get enough 
+ never get enough of it 
+ 
+ and i'm enough, never get enough 
+ never get enough of it 
+ 
+ and i'm enough, never get enough 
+ never get the of it 
+ that i don't let it snow, 
+ and it
+
+----- Diversity:0.4
+----- Generating with seed:
+"you made me come alive 
+ 
+ [chorus] 
+ i'll"
+----- Generated lyrics:
+you made me come alive 
+ 
+ [chorus] 
+ i'll never come home 
+ and i think i'll get my love 
+ 'cause i love you. 
+ and i know i was never in 
+ 
+ i can't take it from you 
+ i know it's not worth trying 
+ so long, so long, so long 
+ 
+ so long,
+
+----- Diversity:0.5
+----- Generating with seed:
+"you made me come alive 
+ 
+ [chorus] 
+ i'll"
+----- Generated lyrics:
+you made me come alive 
+ 
+ [chorus] 
+ i'll never find enough, never get enough 
+ never know for a long, long 
+ 
+ [chorus] 
+ and i must have a good time. 
+ all my friends to be my heart 
+ the ring is magic 
+ the ring is power 
+ and it can be a reason for
+
+----- Diversity:0.6
+----- Generating with seed:
+"you made me come alive 
+ 
+ [chorus] 
+ i'll"
+----- Generated lyrics:
+you made me come alive 
+ 
+ [chorus] 
+ i'll never get enough, never get enough 
+ never get enough of it 
+ take it was enough, never get enough 
+ never get enough of it 
+ 
+ and i'm enough, never get enough 
+ never get told of you 
+ that you were always said 
+ and i'll be
+
+----- Diversity:0.7
+----- Generating with seed:
+"you made me come alive 
+ 
+ [chorus] 
+ i'll"
+----- Generated lyrics:
+you made me come alive 
+ 
+ [chorus] 
+ i'll never come enough, never get enough 
+ never get you like 
+ 
+ get it get it get it 
+ get it get it get it get it get it get it get it get it get it get it get it get it get it get it get it
+
+================================================================================

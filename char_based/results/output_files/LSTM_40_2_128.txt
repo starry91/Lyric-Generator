@@ -1,0 +1,330 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"an 'cause you're the lucky one well, you"
+----- Generated lyrics:
+an 'cause you're the lucky one well, you got the sand i left the mountain to the gal i want to down the side i got the fiddle i was you left
+
+----- Diversity:0.4
+----- Generating with seed:
+"an 'cause you're the lucky one well, you"
+----- Generated lyrics:
+an 'cause you're the lucky one well, you say the part in the gal the streets i could do i got of the down and on the streets the ride the pl
+
+----- Diversity:0.5
+----- Generating with seed:
+"an 'cause you're the lucky one well, you"
+----- Generated lyrics:
+an 'cause you're the lucky one well, you just to down the more some words of the power and and the motore and the trail and i want to the lo
+
+----- Diversity:0.6
+----- Generating with seed:
+"an 'cause you're the lucky one well, you"
+----- Generated lyrics:
+an 'cause you're the lucky one well, you're been out eyes in the land to the ease the rand down bring on the sound and a little gan and the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"an 'cause you're the lucky one well, you"
+----- Generated lyrics:
+an 'cause you're the lucky one well, you come i don't world the pal of my trailing back and out she those somedidg the room side die don't s
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+" squeeze me real tight. and when the lig"
+----- Generated lyrics:
+ squeeze me real tight. and when the light i was the saddle you don't say the start the soul and the song and the way i say i thought the st
+
+----- Diversity:0.4
+----- Generating with seed:
+" squeeze me real tight. and when the lig"
+----- Generated lyrics:
+ squeeze me real tight. and when the light i got the grain and i was was for a strong and i know the stard and i was there and i can't be a 
+
+----- Diversity:0.5
+----- Generating with seed:
+" squeeze me real tight. and when the lig"
+----- Generated lyrics:
+ squeeze me real tight. and when the light so on the rolling me that away and the only in the mind i want to see the did i left peida hard a
+
+----- Diversity:0.6
+----- Generating with seed:
+" squeeze me real tight. and when the lig"
+----- Generated lyrics:
+ squeeze me real tight. and when the light are i say i'm lonely the mornin', living the mast the honey on the light that last ridin' to the 
+
+----- Diversity:0.7
+----- Generating with seed:
+" squeeze me real tight. and when the lig"
+----- Generated lyrics:
+ squeeze me real tight. and when the lights are the same on the fiddle we nare on a chose i feel to know that we just a choss let the same i
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"hat i won't say the words then take them"
+----- Generated lyrics:
+hat i won't say the words then take them and i know i got the day i was the reason and the same the stars and i was the words and i say you 
+
+----- Diversity:0.4
+----- Generating with seed:
+"hat i won't say the words then take them"
+----- Generated lyrics:
+hat i won't say the words then take them the day some other memories of a passed the trail the last of the day i have to me in the road of t
+
+----- Diversity:0.5
+----- Generating with seed:
+"hat i won't say the words then take them"
+----- Generated lyrics:
+hat i won't say the words then take them would to the promise and i was this not and make a birds and i baby i can see that i'll never leave
+
+----- Diversity:0.6
+----- Generating with seed:
+"hat i won't say the words then take them"
+----- Generated lyrics:
+hat i won't say the words then take them the more of the side a side for the graving even said rail, the stars are ray to tell a conduranisi
+
+----- Diversity:0.7
+----- Generating with seed:
+"hat i won't say the words then take them"
+----- Generated lyrics:
+hat i won't say the words then take them all don't want to see me that you didn't feel on the clouds everywhere she feel and give it all and
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"e neon light dazzled by the crazy magic "
+----- Generated lyrics:
+e neon light dazzled by the crazy magic in the side there ain't got to the way to me and the stars and i was so the walkin' in the moonlight
+
+----- Diversity:0.4
+----- Generating with seed:
+"e neon light dazzled by the crazy magic "
+----- Generated lyrics:
+e neon light dazzled by the crazy magic when i was the miss and the gal i was a little little gal the thing i don't know i am the land some 
+
+----- Diversity:0.5
+----- Generating with seed:
+"e neon light dazzled by the crazy magic "
+----- Generated lyrics:
+e neon light dazzled by the crazy magic the songs of the storm were only one are words and i'll be a people think the starton come on around
+
+----- Diversity:0.6
+----- Generating with seed:
+"e neon light dazzled by the crazy magic "
+----- Generated lyrics:
+e neon light dazzled by the crazy magic the doubt of mine lord and me in a from and of the countain a side that we are as i can't be waste t
+
+----- Diversity:0.7
+----- Generating with seed:
+"e neon light dazzled by the crazy magic "
+----- Generated lyrics:
+e neon light dazzled by the crazy magic to me that i roams dancing the heart all they miss my last but i am a powern somebody here i find it
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"e years you'd like to meet, to go over e"
+----- Generated lyrics:
+e years you'd like to meet, to go over every song the did i can see the way to be there to the world the stars and i don't want to go all th
+
+----- Diversity:0.4
+----- Generating with seed:
+"e years you'd like to meet, to go over e"
+----- Generated lyrics:
+e years you'd like to meet, to go over ease and the midnight and the words of the door who can see the chorus land and i loved it i say we w
+
+----- Diversity:0.5
+----- Generating with seed:
+"e years you'd like to meet, to go over e"
+----- Generated lyrics:
+e years you'd like to meet, to go over every daddy i thought it was the town is a day on the river that a house when i fly and the words and
+
+----- Diversity:0.6
+----- Generating with seed:
+"e years you'd like to meet, to go over e"
+----- Generated lyrics:
+e years you'd like to meet, to go over east to be showing and i could refull but my ride and then no more some kiss for alone the world laug
+
+----- Diversity:0.7
+----- Generating with seed:
+"e years you'd like to meet, to go over e"
+----- Generated lyrics:
+e years you'd like to meet, to go over every neleging to the land got some of miss the time is mouth me you have to make a left that the lig
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+" to my arms and give me a kiss and nothi"
+----- Generated lyrics:
+ to my arms and give me a kiss and nothing in the stars i thought i'm strangers to the way, i said that i stand the search to the rain the t
+
+----- Diversity:0.4
+----- Generating with seed:
+" to my arms and give me a kiss and nothi"
+----- Generated lyrics:
+ to my arms and give me a kiss and nothing at a gal i said to the wind and i looked to the morning the come are in the morning in the rain t
+
+----- Diversity:0.5
+----- Generating with seed:
+" to my arms and give me a kiss and nothi"
+----- Generated lyrics:
+ to my arms and give me a kiss and nothing left to me and i am in the ray and i saw the way to the feeling and i can't find the way we want 
+
+----- Diversity:0.6
+----- Generating with seed:
+" to my arms and give me a kiss and nothi"
+----- Generated lyrics:
+ to my arms and give me a kiss and nothing in the rung and i took a bound to the wind playin' back and hold the gal let me hang and i was de
+
+----- Diversity:0.7
+----- Generating with seed:
+" to my arms and give me a kiss and nothi"
+----- Generated lyrics:
+ to my arms and give me a kiss and nothing on a way on the time we love you to the pain i can't rolling me away and can change to see the an
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"so sad and you're only smiling when you "
+----- Generated lyrics:
+so sad and you're only smiling when you want to go with you i said the stars and i can see you some of a boy can take the strong the way the
+
+----- Diversity:0.4
+----- Generating with seed:
+"so sad and you're only smiling when you "
+----- Generated lyrics:
+so sad and you're only smiling when you want to say i was living my train it seemed to come and i don't know that i don't need a pain and th
+
+----- Diversity:0.5
+----- Generating with seed:
+"so sad and you're only smiling when you "
+----- Generated lyrics:
+so sad and you're only smiling when you want to see me that i got that the feeling of the river and they say the missouri in the sun in a li
+
+----- Diversity:0.6
+----- Generating with seed:
+"so sad and you're only smiling when you "
+----- Generated lyrics:
+so sad and you're only smiling when you got the world so got a hold, we got to cry i made i know if i can say i dreamed me may make a little
+
+----- Diversity:0.7
+----- Generating with seed:
+"so sad and you're only smiling when you "
+----- Generated lyrics:
+so sad and you're only smiling when you want to come home on the plain i join down you can be there are i don't be under on the troubled may
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+" mo yaring kahabag habag puhunang buhay "
+----- Generated lyrics:
+ mo yaring kahabag habag puhunang buhay and i say that i was a little gal when you'll try and the time somebody was some man how to the morn
+
+----- Diversity:0.4
+----- Generating with seed:
+" mo yaring kahabag habag puhunang buhay "
+----- Generated lyrics:
+ mo yaring kahabag habag puhunang buhay baby i want to live that life in the air walles and i was going and the trail and all over the warm 
+
+----- Diversity:0.5
+----- Generating with seed:
+" mo yaring kahabag habag puhunang buhay "
+----- Generated lyrics:
+ mo yaring kahabag habag puhunang buhay we are maybe and i say it seemed in the more i don't want a window of a children still for the power
+
+----- Diversity:0.6
+----- Generating with seed:
+" mo yaring kahabag habag puhunang buhay "
+----- Generated lyrics:
+ mo yaring kahabag habag puhunang buhay baby i don't find me alone i don't know that i know they can forgive the lost way and i feel the sun
+
+----- Diversity:0.7
+----- Generating with seed:
+" mo yaring kahabag habag puhunang buhay "
+----- Generated lyrics:
+ mo yaring kahabag habag puhunang buhay wound rose in the wide answer i'll be made the night when i'm a part of the things shadows of my kin
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"ngayon lang nadamang may pagtingin pala "
+----- Generated lyrics:
+ngayon lang nadamang may pagtingin pala i gotta say that i got to go on the sand of the sand i don't know what the strange in the start i ha
+
+----- Diversity:0.4
+----- Generating with seed:
+"ngayon lang nadamang may pagtingin pala "
+----- Generated lyrics:
+ngayon lang nadamang may pagtingin pala so don't turn the walls down was the only love and i saw the wind we said and i would be some passin
+
+----- Diversity:0.5
+----- Generating with seed:
+"ngayon lang nadamang may pagtingin pala "
+----- Generated lyrics:
+ngayon lang nadamang may pagtingin pala i'm so its the sun i left behind him i was dancin' to be a star in the black all the sand and there'
+
+----- Diversity:0.6
+----- Generating with seed:
+"ngayon lang nadamang may pagtingin pala "
+----- Generated lyrics:
+ngayon lang nadamang may pagtingin pala is someone that we're gonna right to be long to room when i got to tell you to the dispend but the s
+
+----- Diversity:0.7
+----- Generating with seed:
+"ngayon lang nadamang may pagtingin pala "
+----- Generated lyrics:
+ngayon lang nadamang may pagtingin pala on the passong and there's no named that mine to the door everything i should i just want a mate sor
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+" the mother mother touched, and dude ain"
+----- Generated lyrics:
+ the mother mother touched, and dude ain't gonna saw the sailing and i can say i love you and i was walkin' on the dawn the start of the sta
+
+----- Diversity:0.4
+----- Generating with seed:
+" the mother mother touched, and dude ain"
+----- Generated lyrics:
+ the mother mother touched, and dude ain't around and the wind of the sun we got to come in the rain the sails of love of a song that i saw 
+
+----- Diversity:0.5
+----- Generating with seed:
+" the mother mother touched, and dude ain"
+----- Generated lyrics:
+ the mother mother touched, and dude ain't too late to the time was with me to the thing i said the woman i never leave it to the more and i
+
+----- Diversity:0.6
+----- Generating with seed:
+" the mother mother touched, and dude ain"
+----- Generated lyrics:
+ the mother mother touched, and dude ain't too roam when you i don't show the nation and the fiddlin' son oon i don't be some more golden ti
+
+----- Diversity:0.7
+----- Generating with seed:
+" the mother mother touched, and dude ain"
+----- Generated lyrics:
+ the mother mother touched, and dude ain't down to hear a look is so bad with you so dead to help and we know that i ride my read or on our 
+
+================================================================================

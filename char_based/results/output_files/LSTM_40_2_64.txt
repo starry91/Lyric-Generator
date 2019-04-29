@@ -1,0 +1,330 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"t i love you enough to let you go i lay "
+----- Generated lyrics:
+t i love you enough to let you go i lay aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"t i love you enough to let you go i lay "
+----- Generated lyrics:
+t i love you enough to let you go i lay aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"t i love you enough to let you go i lay "
+----- Generated lyrics:
+t i love you enough to let you go i lay aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"t i love you enough to let you go i lay "
+----- Generated lyrics:
+t i love you enough to let you go i lay aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"t i love you enough to let you go i lay "
+----- Generated lyrics:
+t i love you enough to let you go i lay aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"of hair my voice is changing what does i"
+----- Generated lyrics:
+of hair my voice is changing what does iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"of hair my voice is changing what does i"
+----- Generated lyrics:
+of hair my voice is changing what does iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"of hair my voice is changing what does i"
+----- Generated lyrics:
+of hair my voice is changing what does iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"of hair my voice is changing what does i"
+----- Generated lyrics:
+of hair my voice is changing what does iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"of hair my voice is changing what does i"
+----- Generated lyrics:
+of hair my voice is changing what does iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"on, running through my veins you're pois"
+----- Generated lyrics:
+on, running through my veins you're poisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"on, running through my veins you're pois"
+----- Generated lyrics:
+on, running through my veins you're poisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"on, running through my veins you're pois"
+----- Generated lyrics:
+on, running through my veins you're poisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"on, running through my veins you're pois"
+----- Generated lyrics:
+on, running through my veins you're poisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"on, running through my veins you're pois"
+----- Generated lyrics:
+on, running through my veins you're poisaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"ver made me feel the way when you call o"
+----- Generated lyrics:
+ver made me feel the way when you call oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"ver made me feel the way when you call o"
+----- Generated lyrics:
+ver made me feel the way when you call oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"ver made me feel the way when you call o"
+----- Generated lyrics:
+ver made me feel the way when you call oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"ver made me feel the way when you call o"
+----- Generated lyrics:
+ver made me feel the way when you call oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"ver made me feel the way when you call o"
+----- Generated lyrics:
+ver made me feel the way when you call oaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"song god knows that we've been trying da"
+----- Generated lyrics:
+song god knows that we've been trying daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"song god knows that we've been trying da"
+----- Generated lyrics:
+song god knows that we've been trying daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"song god knows that we've been trying da"
+----- Generated lyrics:
+song god knows that we've been trying daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"song god knows that we've been trying da"
+----- Generated lyrics:
+song god knows that we've been trying daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"song god knows that we've been trying da"
+----- Generated lyrics:
+song god knows that we've been trying daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+" there's gonna be a party, and i'd love "
+----- Generated lyrics:
+ there's gonna be a party, and i'd love aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+" there's gonna be a party, and i'd love "
+----- Generated lyrics:
+ there's gonna be a party, and i'd love aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+" there's gonna be a party, and i'd love "
+----- Generated lyrics:
+ there's gonna be a party, and i'd love aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+" there's gonna be a party, and i'd love "
+----- Generated lyrics:
+ there's gonna be a party, and i'd love aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+" there's gonna be a party, and i'd love "
+----- Generated lyrics:
+ there's gonna be a party, and i'd love aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"le fool and one day we said to her we do"
+----- Generated lyrics:
+le fool and one day we said to her we doaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"le fool and one day we said to her we do"
+----- Generated lyrics:
+le fool and one day we said to her we doaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"le fool and one day we said to her we do"
+----- Generated lyrics:
+le fool and one day we said to her we doaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"le fool and one day we said to her we do"
+----- Generated lyrics:
+le fool and one day we said to her we doaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"le fool and one day we said to her we do"
+----- Generated lyrics:
+le fool and one day we said to her we doaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"he shopping mall and made the children c"
+----- Generated lyrics:
+he shopping mall and made the children caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"he shopping mall and made the children c"
+----- Generated lyrics:
+he shopping mall and made the children caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"he shopping mall and made the children c"
+----- Generated lyrics:
+he shopping mall and made the children caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"he shopping mall and made the children c"
+----- Generated lyrics:
+he shopping mall and made the children caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"he shopping mall and made the children c"
+----- Generated lyrics:
+he shopping mall and made the children caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"little longer, baby you and me, we got a"
+----- Generated lyrics:
+little longer, baby you and me, we got aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+"little longer, baby you and me, we got a"
+----- Generated lyrics:
+little longer, baby you and me, we got aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+"little longer, baby you and me, we got a"
+----- Generated lyrics:
+little longer, baby you and me, we got aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+"little longer, baby you and me, we got a"
+----- Generated lyrics:
+little longer, baby you and me, we got aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+"little longer, baby you and me, we got a"
+----- Generated lyrics:
+little longer, baby you and me, we got aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+" future would look bright if it wasn't f"
+----- Generated lyrics:
+ future would look bright if it wasn't faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.4
+----- Generating with seed:
+" future would look bright if it wasn't f"
+----- Generated lyrics:
+ future would look bright if it wasn't faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.5
+----- Generating with seed:
+" future would look bright if it wasn't f"
+----- Generated lyrics:
+ future would look bright if it wasn't faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.6
+----- Generating with seed:
+" future would look bright if it wasn't f"
+----- Generated lyrics:
+ future would look bright if it wasn't faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+----- Diversity:0.7
+----- Generating with seed:
+" future would look bright if it wasn't f"
+----- Generated lyrics:
+ future would look bright if it wasn't faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+================================================================================

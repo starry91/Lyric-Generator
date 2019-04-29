@@ -1,0 +1,330 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"e by your side, never be afraid. and i w"
+----- Generated lyrics:
+e by your side, never be afraid. and i want i land was and i said life and i don't land the some and the see of the some world some on the s
+
+----- Diversity:0.4
+----- Generating with seed:
+"e by your side, never be afraid. and i w"
+----- Generated lyrics:
+e by your side, never be afraid. and i was and on all me and i know i and i know i was down the down find me the some to for me on she bean 
+
+----- Diversity:0.5
+----- Generating with seed:
+"e by your side, never be afraid. and i w"
+----- Generated lyrics:
+e by your side, never be afraid. and i wonly lother, some i want just and the for more on play i and of and was i can the fill down the ligh
+
+----- Diversity:0.6
+----- Generating with seed:
+"e by your side, never be afraid. and i w"
+----- Generated lyrics:
+e by your side, never be afraid. and i was left on the lide that me and and the dume on the side the sade was and me thoughts of le the same
+
+----- Diversity:0.7
+----- Generating with seed:
+"e by your side, never be afraid. and i w"
+----- Generated lyrics:
+e by your side, never be afraid. and i wornin' wind for are you won't go the mays mounto sometimes long stars my to my silif're and late som
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"yin, concentrating on dyin', yeah you're"
+----- Generated lyrics:
+yin, concentrating on dyin', yeah you're man and all the say when you some and love you and the play for for the play on the play the good t
+
+----- Diversity:0.4
+----- Generating with seed:
+"yin, concentrating on dyin', yeah you're"
+----- Generated lyrics:
+yin, concentrating on dyin', yeah you're on the line to do show mother be say the mind i for the was love i song and the stand some on the s
+
+----- Diversity:0.5
+----- Generating with seed:
+"yin, concentrating on dyin', yeah you're"
+----- Generated lyrics:
+yin, concentrating on dyin', yeah you're come on love to the song to some when the sand the sing on the got the friend i love and the belong
+
+----- Diversity:0.6
+----- Generating with seed:
+"yin, concentrating on dyin', yeah you're"
+----- Generated lyrics:
+yin, concentrating on dyin', yeah you're got the that so the beft friend up la let be the was on the land left to so my sing up all now the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"yin, concentrating on dyin', yeah you're"
+----- Generated lyrics:
+yin, concentrating on dyin', yeah you're my fills in the sideli'n. of many some and you like from the bay may where me was last sade for sur
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"at lonesome valley he had to walk it by "
+----- Generated lyrics:
+at lonesome valley he had to walk it by i was the last i world i was and i say i was the sand i was some to the wind and the day i was a lit
+
+----- Diversity:0.4
+----- Generating with seed:
+"at lonesome valley he had to walk it by "
+----- Generated lyrics:
+at lonesome valley he had to walk it by i so the door and with you want to the some of the boy long a long the to love to some and the sun t
+
+----- Diversity:0.5
+----- Generating with seed:
+"at lonesome valley he had to walk it by "
+----- Generated lyrics:
+at lonesome valley he had to walk it by say to know you and i though and you the say that fay somebody the smile and i was i love you some m
+
+----- Diversity:0.6
+----- Generating with seed:
+"at lonesome valley he had to walk it by "
+----- Generated lyrics:
+at lonesome valley he had to walk it by i was on the was my only sayes of man before they last if i don't the dear the love to the chorus th
+
+----- Diversity:0.7
+----- Generating with seed:
+"at lonesome valley he had to walk it by "
+----- Generated lyrics:
+at lonesome valley he had to walk it by i bone the world so on by we was page long on smile to say with the steal in got on the more to s al
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"n in houston we were puttin' on a show w"
+----- Generated lyrics:
+n in houston we were puttin' on a show we song to the so the standin' like a don't want to the wind and the sand and i don't know i was the 
+
+----- Diversity:0.4
+----- Generating with seed:
+"n in houston we were puttin' on a show w"
+----- Generated lyrics:
+n in houston we were puttin' on a show we come song to the only and a so side to say on the love in the saddle some to so her the stand ride
+
+----- Diversity:0.5
+----- Generating with seed:
+"n in houston we were puttin' on a show w"
+----- Generated lyrics:
+n in houston we were puttin' on a show wish and play when a this of the traw somebody we here and she sade before and in the fire for the fr
+
+----- Diversity:0.6
+----- Generating with seed:
+"n in houston we were puttin' on a show w"
+----- Generated lyrics:
+n in houston we were puttin' on a show water some and the spend i don't last the sils dassare to say no where the ride now we rollin' play f
+
+----- Diversity:0.7
+----- Generating with seed:
+"n in houston we were puttin' on a show w"
+----- Generated lyrics:
+n in houston we were puttin' on a show when you got i don't know i was and tracking of the gal me fear the wait she mome and for the is a sa
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+" feeling it's her voice that's calling i"
+----- Generated lyrics:
+ feeling it's her voice that's calling in the for the storm care to the things and i say the say i love you some of the sun the sun the same
+
+----- Diversity:0.4
+----- Generating with seed:
+" feeling it's her voice that's calling i"
+----- Generated lyrics:
+ feeling it's her voice that's calling in a stop the said i say life i can be and i was be i was may a my the golden i broken a bother was a
+
+----- Diversity:0.5
+----- Generating with seed:
+" feeling it's her voice that's calling i"
+----- Generated lyrics:
+ feeling it's her voice that's calling i'm chorus i'm so got a sing on the moonlight the sun some on see the light on my face soon the sun h
+
+----- Diversity:0.6
+----- Generating with seed:
+" feeling it's her voice that's calling i"
+----- Generated lyrics:
+ feeling it's her voice that's calling i really is come playing is my life on my play my never was clouds and daddy for walk in our only on 
+
+----- Diversity:0.7
+----- Generating with seed:
+" feeling it's her voice that's calling i"
+----- Generated lyrics:
+ feeling it's her voice that's calling in the moonlight i say so my away long side inside gently call i my polues a man and i thought before
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"t be here one day when i am returning? m"
+----- Generated lyrics:
+t be here one day when i am returning? made i don't want to for the light for the sound i fool never for the light i can see it some of from
+
+----- Diversity:0.4
+----- Generating with seed:
+"t be here one day when i am returning? m"
+----- Generated lyrics:
+t be here one day when i am returning? made i say the true. out don't the passing to long to me song on the from the could side me to for a 
+
+----- Diversity:0.5
+----- Generating with seed:
+"t be here one day when i am returning? m"
+----- Generated lyrics:
+t be here one day when i am returning? my don't for a my gone and out the moonlight in and some and you man the time in the for the light if
+
+----- Diversity:0.6
+----- Generating with seed:
+"t be here one day when i am returning? m"
+----- Generated lyrics:
+t be here one day when i am returning? make it to the best road life don't want me don't want to my moon feel in not i can now you don't go 
+
+----- Diversity:0.7
+----- Generating with seed:
+"t be here one day when i am returning? m"
+----- Generated lyrics:
+t be here one day when i am returning? miss loves the sand the soon when you surkles won't have to for for you song the words soft a day now
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"into the wind i fall in love again, i'm "
+----- Generated lyrics:
+into the wind i fall in love again, i'm a find on a little bit and i know i was and the for you follow me and i say i say i really and i som
+
+----- Diversity:0.4
+----- Generating with seed:
+"into the wind i fall in love again, i'm "
+----- Generated lyrics:
+into the wind i fall in love again, i'm a filled of the singin' place don't an the morning for so man at your life on out of my feelin' in t
+
+----- Diversity:0.5
+----- Generating with seed:
+"into the wind i fall in love again, i'm "
+----- Generated lyrics:
+into the wind i fall in love again, i'm like the moonlight with i don't make my find the play i follow so by come me my born i can come on t
+
+----- Diversity:0.6
+----- Generating with seed:
+"into the wind i fall in love again, i'm "
+----- Generated lyrics:
+into the wind i fall in love again, i'm late but my love i see day mind i found where i follow coming may on my longer can you got me face w
+
+----- Diversity:0.7
+----- Generating with seed:
+"into the wind i fall in love again, i'm "
+----- Generated lyrics:
+into the wind i fall in love again, i'm down have me and sand where out from holden the hound falling of or the way. if i was walkin' on my 
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"to do to turn me on, yeah [chorus] baby "
+----- Generated lyrics:
+to do to turn me on, yeah [chorus] baby i love you some he say i say you love you make it make it to the sky i know i know i was the sing bo
+
+----- Diversity:0.4
+----- Generating with seed:
+"to do to turn me on, yeah [chorus] baby "
+----- Generated lyrics:
+to do to turn me on, yeah [chorus] baby i never long comin' on my find i'm still be in the boy find that for and me some now the love we som
+
+----- Diversity:0.5
+----- Generating with seed:
+"to do to turn me on, yeah [chorus] baby "
+----- Generated lyrics:
+to do to turn me on, yeah [chorus] baby i was you got a do one for me on but on now the lonely so one some of you find the would we and of w
+
+----- Diversity:0.6
+----- Generating with seed:
+"to do to turn me on, yeah [chorus] baby "
+----- Generated lyrics:
+to do to turn me on, yeah [chorus] baby and be some pretty, with and you know i'm world stand the most for you fiddle when the was some time
+
+----- Diversity:0.7
+----- Generating with seed:
+"to do to turn me on, yeah [chorus] baby "
+----- Generated lyrics:
+to do to turn me on, yeah [chorus] baby i never we biss black to flow the on go make it home you can old livin' over of light it for my the 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"e through all new mexico until we crosse"
+----- Generated lyrics:
+e through all new mexico until we crossed in the way to was to the line and the last of the mountain the seat the time can do i know i want 
+
+----- Diversity:0.4
+----- Generating with seed:
+"e through all new mexico until we crosse"
+----- Generated lyrics:
+e through all new mexico until we crossed in the was to the say with you some down we the wind the smoke in the morning and let me and i sto
+
+----- Diversity:0.5
+----- Generating with seed:
+"e through all new mexico until we crosse"
+----- Generated lyrics:
+e through all new mexico until we crossed a while bring the some of my heart some so to say i'll be seek of my see i was i all for longer me
+
+----- Diversity:0.6
+----- Generating with seed:
+"e through all new mexico until we crosse"
+----- Generated lyrics:
+e through all new mexico until we crossed in the should so many boys and for and i love you only and light if a so you long to the way won't
+
+----- Diversity:0.7
+----- Generating with seed:
+"e through all new mexico until we crosse"
+----- Generated lyrics:
+e through all new mexico until we crossed on the summer so blow be left show can and like a cold walked and desert do the side of you some t
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"the chance on you chorus the first noel "
+----- Generated lyrics:
+the chance on you chorus the first noel the sayin' for a little boy and i can't follow baby i was some to my search that i say i was long an
+
+----- Diversity:0.4
+----- Generating with seed:
+"the chance on you chorus the first noel "
+----- Generated lyrics:
+the chance on you chorus the first noel the sallight on the good all you in the storm to so but i was the light for you so find the sand i f
+
+----- Diversity:0.5
+----- Generating with seed:
+"the chance on you chorus the first noel "
+----- Generated lyrics:
+the chance on you chorus the first noel the sast the power of home that's she don't so long i could make it for you love on of the door. onl
+
+----- Diversity:0.6
+----- Generating with seed:
+"the chance on you chorus the first noel "
+----- Generated lyrics:
+the chance on you chorus the first noel blind on up on you not for the wind of find my said you don't in a little love to go for about of mi
+
+----- Diversity:0.7
+----- Generating with seed:
+"the chance on you chorus the first noel "
+----- Generated lyrics:
+the chance on you chorus the first noel bomb someone you day you for i'm come on the born of somebody you leave been gonna take me one corne
+
+================================================================================

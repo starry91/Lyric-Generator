@@ -1,0 +1,725 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"the summer 
+ place your"
+----- Generated lyrics:
+the summer 
+ place your eyes 
+ and the world of the time 
+ and the world of the world 
+ and the world of the road 
+ and i want to the time 
+ i know i can't be 
+ 
+ i know that i don't want to the way 
+ 
+ and the
+
+----- Diversity:0.4
+----- Generating with seed:
+"the summer 
+ place your"
+----- Generated lyrics:
+the summer 
+ place your can be a day 
+ i got the same old time 
+ and the world of the rain 
+ 
+ the time of your heart 
+ 
+ i can be so loving 
+ 
+ i try to the wind to the rain 
+ 
+ the world of the desert 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"the summer 
+ place your"
+----- Generated lyrics:
+the summer 
+ place your eyes 
+ in the world of the night 
+ 
+ the time of the road 
+ and the last of the night 
+ the day is the time of the world and i know 
+ the moon and i feel like a broken heart 
+ just a little bit of
+
+----- Diversity:0.6
+----- Generating with seed:
+"the summer 
+ place your"
+----- Generated lyrics:
+the summer 
+ place your life 
+ and the day that i couldn't feel like a love 
+ and i know my way to the other 
+ 
+ and the world of the time 
+ i can feel my mind 
+ the day to the end of the rain 
+ and i feel the pick
+
+----- Diversity:0.7
+----- Generating with seed:
+"the summer 
+ place your"
+----- Generated lyrics:
+the summer 
+ place your world 
+ and the middle of the blind 
+ 
+ i really want to the same 
+ everybody gets a always hard 
+ 
+ the moon spent a lady in your hand in the night 
+ cause i never do the time 
+ 
+ when i love me and to
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"it's to remind you, if"
+----- Generated lyrics:
+it's to remind you, if you were my last to hear the station 
+ an old time song 
+ i babe, i love you so 
+ and jesus i want you 
+ but i know the time 
+ i've been thinkin' of the day 
+ the last night i met the dawn and i can
+
+----- Diversity:0.4
+----- Generating with seed:
+"it's to remind you, if"
+----- Generated lyrics:
+it's to remind you, if i am 
+ and if i don't want to see you lord 
+ that i want to go 
+ and i think about the evening 
+ and the earth be there 
+ i'll be there to be right there 
+ if you listen too long, you'll make my love 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"it's to remind you, if"
+----- Generated lyrics:
+it's to remind you, if you 
+ my dead or poor s a hard road, dead or dead or dead or s a dead or dead or s a hard road, dead or dead or dead or s a hard road, dead or dead or s a hard road, dead or dead or s a
+
+----- Diversity:0.6
+----- Generating with seed:
+"it's to remind you, if"
+----- Generated lyrics:
+it's to remind you, if i know 
+ if it is coming home 
+ and i can't sleep at night 
+ 
+ and the clothes are the shining and the country 
+ the sun goes down to the water tonight 
+ for a picture the other way 
+ 
+ and you go back to the
+
+----- Diversity:0.7
+----- Generating with seed:
+"it's to remind you, if"
+----- Generated lyrics:
+it's to remind you, if 
+ and the one thing to make me a ways 
+ to just a little bit of your heart (just a little bit of your heart (just just a little bit of your heart (just a little bit of your heart (just a little bit of your heart (just a
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"even open up the door"
+----- Generated lyrics:
+even open up the door 
+ there ain't lots of other places 
+ in this world that i can't be living like a legend before my time 
+ forget about living like a legend before my time 
+ forget about living like a legend before my time 
+ forget about living like a legend before
+
+----- Diversity:0.4
+----- Generating with seed:
+"even open up the door"
+----- Generated lyrics:
+even open up the door 
+ a new smile every little day 
+ 
+ turn, turn, turn again 
+ but the time i'll try to say it words they only only could only go 
+ 
+ 
+ [chorus] 
+ and i know the road 
+ this is the part when i say i don't want
+
+----- Diversity:0.5
+----- Generating with seed:
+"even open up the door"
+----- Generated lyrics:
+even open up the door 
+ see the great hot desert 
+ can remember your name 
+ cause there ain't no one for 
+ to see the load up the road 
+ and the words must come to out come on out come out out come out out come out out come out out come
+
+----- Diversity:0.6
+----- Generating with seed:
+"even open up the door"
+----- Generated lyrics:
+even open up the door 
+ then you're living like a mighty legend before my turn 
+ forget the road is a day 
+ we need a hope, people need people people people have trust 
+ now i can't seem to know that i know that i can't be 
+ my time is coming home
+
+----- Diversity:0.7
+----- Generating with seed:
+"even open up the door"
+----- Generated lyrics:
+even open up the door 
+ see it, i'm gonna stay right there 
+ i'll always be there to be with you 
+ 
+ the clock will be young and he's back to the way to see 
+ 
+ but if we try and pretend 
+ we all must come out we come out out
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"be, oh no 
+ i"
+----- Generated lyrics:
+be, oh no 
+ i hope you know that i got 
+ to the way that i do 
+ 
+ i know that i can't go 
+ and i can't get the other side 
+ i'll be thinkin' 'bout the days of the world of the road 
+ and the road again 
+ and the
+
+----- Diversity:0.4
+----- Generating with seed:
+"be, oh no 
+ i"
+----- Generated lyrics:
+be, oh no 
+ i hope that you do 
+ 
+ anytime you're feelin' lonely lonely anytime you're feelin' lonely 
+ anytime you're feelin' lonely lonely anytime you're feelin' lonely lonely anytime you're feelin' lonely lonely anytime you're feelin' lonely lonely anytime you're feelin' lonely lonely anytime you're feelin' lonely lonely anytime you're feelin' lonely
+
+----- Diversity:0.5
+----- Generating with seed:
+"be, oh no 
+ i"
+----- Generated lyrics:
+be, oh no 
+ i hope that something's wrong 
+ you'll hear your cowboy sing an old time song 
+ last babe, i love the way that i want 
+ let's just go back to the way that i want 
+ let's just go back to the way it was 
+ 
+ when we were
+
+----- Diversity:0.6
+----- Generating with seed:
+"be, oh no 
+ i"
+----- Generated lyrics:
+be, oh no 
+ i hope that the road is hard and die 
+ but with the music of the road 
+ and the road we must be a wind in the road you make my heart 
+ stuck in the eye of the storm 
+ but you don't miss the water 
+ 
+ well,
+
+----- Diversity:0.7
+----- Generating with seed:
+"be, oh no 
+ i"
+----- Generated lyrics:
+be, oh no 
+ i hope you find no reason 
+ and i'm just here in the mood for all your hopes and fears 
+ just no matter what i do 
+ i won't do to be the one to be the time now 
+ i don't think that i could not hear a laugh
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"you do cause you do"
+----- Generated lyrics:
+you do cause you do 
+ and so now we thank for the end of the road 
+ 
+ and the road, dead or alive dead dead or alive, dead or dead or alive, dead or dead or alive, dead or dead or alive, dead or dead or alive, dead or alive, dead or dead
+
+----- Diversity:0.4
+----- Generating with seed:
+"you do cause you do"
+----- Generated lyrics:
+you do cause you do 
+ what you are 
+ and you're so all alone 
+ and i can't find the way that i want 
+ let's just go back to the way it was 
+ 
+ when we were on honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue 
+ honeymoon avenue
+
+----- Diversity:0.5
+----- Generating with seed:
+"you do cause you do"
+----- Generated lyrics:
+you do cause you do for a long day goes where can i be 
+ now it's much too late 
+ to try and make a way 
+ and if you're only forever 
+ i said to you 
+ the bad way down the road 
+ 
+ and the day of your life is all
+
+----- Diversity:0.6
+----- Generating with seed:
+"you do cause you do"
+----- Generated lyrics:
+you do cause you do you 
+ and you are smiling and old smiling dead 
+ and the world dead or alive, yes, dead or 
+ 
+ dead or alive, if s a hard road dead or alive 
+ dead or alive, if s a hard road dead or alive 
+ dead or alive, if
+
+----- Diversity:0.7
+----- Generating with seed:
+"you do cause you do"
+----- Generated lyrics:
+you do cause you do 
+ and so you come back and home 
+ i know the time to be 
+ i am the city 
+ and the evening air 
+ that brings me water 
+ and i dream in the morning 
+ that she brings me water 
+ 
+ i dream in the morning
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"my lips are bringing 
+"
+----- Generated lyrics:
+my lips are bringing 
+ lord, let in my thy new streets 
+ and i'd love to live on a mountain top 
+ 'cause i sure to know my own 
+ that i don't wanna know 
+ i'm in the mood for all your body and feel the move to those years 
+ 
+ and
+
+----- Diversity:0.4
+----- Generating with seed:
+"my lips are bringing 
+"
+----- Generated lyrics:
+my lips are bringing 
+ lord, let in my thy will be done 
+ 
+ [chorus] 
+ and if the world won't go away 
+ the time is coming soon i'll find you 
+ time is coming soon i'll find 
+ she's too high 
+ and stars above at night 
+ well, he said he
+
+----- Diversity:0.5
+----- Generating with seed:
+"my lips are bringing 
+"
+----- Generated lyrics:
+my lips are bringing 
+ lord, let in my thy new streets 
+ and i'd love to live on a mountain top 
+ 'cause i want to know 
+ it ain't right, it ain't wrong 
+ to hear a cowboy sing an old time song 
+ last night i sat till the final word and
+
+----- Diversity:0.6
+----- Generating with seed:
+"my lips are bringing 
+"
+----- Generated lyrics:
+my lips are bringing 
+ lord, let in my thy new streets 
+ going nowhere to go 
+ now you're back back 
+ it seems [verse 1] 
+ every day i'm till there are you living here in love, still not right for me 
+ 
+ 'cause nothing is beyond you 
+ nothing is beyond
+
+----- Diversity:0.7
+----- Generating with seed:
+"my lips are bringing 
+"
+----- Generated lyrics:
+my lips are bringing 
+ lord, let in my thy new streets and these train to the heart of the flower 
+ the heart of the flower 
+ and heart the living in the air 
+ up the morning with the sun brings a phone 
+ and a hard day for a year 
+ 
+
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"see 
+ it's your touch"
+----- Generated lyrics:
+see 
+ it's your touch my eyes 
+ 
+ when the world is wrong, better right yourself 
+ it'll make the dark clouds fly 
+ nobody tall can put out the lights 
+ just don't let the spirit die 
+ 
+ well, i'm sorry but i can't come, come, 
+ come, come, come, come, come,
+
+----- Diversity:0.4
+----- Generating with seed:
+"see 
+ it's your touch"
+----- Generated lyrics:
+see 
+ it's your touch my eyes 
+ 
+ when the world is wrong, why we all play the things we do for love, the things we do for love, the things we do for love, the things we do for love, the things we do for love, the things we do for love, the
+
+----- Diversity:0.5
+----- Generating with seed:
+"see 
+ it's your touch"
+----- Generated lyrics:
+see 
+ it's your touch my eyes 
+ and jesus i want you to know 
+ all you've done for me to set me free 
+ i'll never let you go (i got you) 
+ you should know 
+ i'm never gonna change 
+ i'm gonna stay right there 
+ i'll always be right there
+
+----- Diversity:0.6
+----- Generating with seed:
+"see 
+ it's your touch"
+----- Generated lyrics:
+see 
+ it's your touch my eyes 
+ and i don't know which way to turn 
+ sometimes lovers don't act like they should 
+ and i'm so far away 
+ but i lose a hard road, dead or alive 
+ dead or alive, if s a hard road 
+ 
+ well, he said he
+
+----- Diversity:0.7
+----- Generating with seed:
+"see 
+ it's your touch"
+----- Generated lyrics:
+see 
+ it's your touch my feet 
+ when i don't want to go 
+ you got to go outside 
+ much i can never change 
+ i'm gonna stay right there 
+ i'll always be right there 
+ 
+ (if you wanna run to me now 
+ tell me what she would have to
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"heard 
+ how we rock"
+----- Generated lyrics:
+heard 
+ how we rock heaven 
+ we to live for the time to see 
+ the same old time 
+ i walked up every day 
+ i need to know where we start 
+ 
+ oh baby, i feel my i) 
+ oh baby, i feel my i) 
+ oh baby, i feel my
+
+----- Diversity:0.4
+----- Generating with seed:
+"heard 
+ how we rock"
+----- Generated lyrics:
+heard 
+ how we rock and leave your death 
+ 
+ i think that i could take it) 
+ 
+ even the nights are better 
+ since my baby and you 
+ i know that i can't go 
+ i can't live without the love i left behind 
+ there is nothing left worth keeping
+
+----- Diversity:0.5
+----- Generating with seed:
+"heard 
+ how we rock"
+----- Generated lyrics:
+heard 
+ how we rock heaven 
+ but now to find a way home 
+ 
+ i feel like i'm in the dark 
+ when we were on honeymoon avenue 
+ honeymoon avenue 
+ baby, baby, baby 
+ [verse i) 
+ all our ever come and me 
+ and my heart is down, yes, he
+
+----- Diversity:0.6
+----- Generating with seed:
+"heard 
+ how we rock"
+----- Generated lyrics:
+heard 
+ how we rock heaven 
+ why 
+ to the desert that sun can go 
+ there's a mountain of the hell 
+ now i'm standing here spinning around 
+ in the fields of freedom 
+ and i'm still alive and reaching out 
+ and i can feel the same old mountain 
+ the
+
+----- Diversity:0.7
+----- Generating with seed:
+"heard 
+ how we rock"
+----- Generated lyrics:
+heard 
+ how we rock and why 
+ i must be every last 
+ all over the world 
+ because we know that what we do is right 
+ hey hey 
+ i'm not a man 
+ and a woman wants to go home 
+ i miss the day we get the chance to the
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"see that man with a"
+----- Generated lyrics:
+see that man with a fat of the land 
+ 
+ the great music 
+ 
+ i'm just alone, i forgive the wall that it had 
+ 
+ and i'm gonna stick by you 
+ i'm a gonna hang around, wait around 
+ hope she'll love me again some day 
+ they say a broken
+
+----- Diversity:0.4
+----- Generating with seed:
+"see that man with a"
+----- Generated lyrics:
+see that man with a fat of the land 
+ 
+ the great from the end 
+ here we are as we hate going 
+ and all over and the sky is a falling in love with love is falling for make believe 
+ falling in love with love is playing the fool 
+ playing
+
+----- Diversity:0.5
+----- Generating with seed:
+"see that man with a"
+----- Generated lyrics:
+see that man with a fat of the land 
+ so many miles away from home 
+ and there's no one left to say 
+ and i think you'll never see this way 
+ and i can't fall asleep to a man 
+ 
+ i'm on a plane tonight for we we don't know it
+
+----- Diversity:0.6
+----- Generating with seed:
+"see that man with a"
+----- Generated lyrics:
+see that man with a fat of the land 
+ 
+ the great light up can stick by you, you want a feeling that you don't belong 
+ 
+ but that's what we do today 
+ the first time we seem to get right there 
+ always wanted a there, where i go now 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"see that man with a"
+----- Generated lyrics:
+see that man with a fat of the land 
+ the fire in your eyes 
+ and there are no lady 
+ and your man out on the road 
+ and feel the wind blow 
+ across the sands of time 
+ 'cause that's the simple life 
+ you know i'd like to make it
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"sand 
+ walking with someone"
+----- Generated lyrics:
+sand 
+ walking with someone and holding his hand 
+ i should walk with me 
+ 
+ it seems i stood and forget all sometimes lovers don't do all they could 
+ sometimes lovers hide in the cover 
+ of innocence and blame 
+ i know that we act just the same 
+ your heart's
+
+----- Diversity:0.4
+----- Generating with seed:
+"sand 
+ walking with someone"
+----- Generated lyrics:
+sand 
+ walking with someone and holding his hand 
+ and we'll be sorry boy until that day 
+ she's gonna break away 
+ 
+ remember all times you know there are no lady 
+ and your dream on the way that they 
+ 
+ when the world is wrong, better right yourself 
+ it'll
+
+----- Diversity:0.5
+----- Generating with seed:
+"sand 
+ walking with someone"
+----- Generated lyrics:
+sand 
+ walking with someone and holding his hand 
+ and we'll be the answer to the man 
+ i lay the guy 
+ he takes he has to get away, 
+ it doesn't matter what i gates 
+ say it words and music by arlo guthrie 
+ living now here but for fortune 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"sand 
+ walking with someone"
+----- Generated lyrics:
+sand 
+ walking with someone and holding his hand 
+ i should walk with like 
+ 
+ we all must find a place to live in the free of hours 
+ and i'm so lonesome i could cry 
+ i'm no lonesome i could cry 
+ i'm no lonesome day 
+ baby i don't know
+
+----- Diversity:0.7
+----- Generating with seed:
+"sand 
+ walking with someone"
+----- Generated lyrics:
+sand 
+ walking with someone and holding his hand 
+ and the lord jesus my want has to come true 
+ and you ease me with 
+ 
+ she just keeps on be right 
+ when i'm right there 
+ 
+ oh right right here and now i'm in tune 
+ and you've been through
+
+================================================================================

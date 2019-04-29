@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Lyrics Generator</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+    .rcorners {
+    border-radius: 25px;
+    border: 2px solid #48DDCC;
+    padding: 20px;
+    width: 60%;
+    height: auto;
+    align-items: : center;
+}
+.rcorners2 {
+border-radius: 25px;
+border: 2px solid #48DDCC;
+padding: 20px;
+width: 60%;
+height: 1000px;
+align-items: : center;
+}
+
+
+    </style>
+  </head>
+  <body>
+    <h3 align="center">Lyrics Generator</h2>
+      <div class="rcorners" align="center" style="width:800px; margin:0 auto;">
+        <p style="font-family:courier;" align="left" >
+          Demo for lyrics generation. Write down what you have written till now and we will let
+          AI complete the piece.
+        </p>
+      </div>
+    <div class="rcorners" align="center" style="width:800px; margin:0 auto;">
+      <form id="optionForm">
+        <!-- <input type="text" name="" id="search_text"> -->
+        <textarea rows="4" cols="100" placeholder="Give us what you got till now.." id="search_text"></textarea>
+        <button type="button" id="submit_text">Submit</button>
+      </form>
+      <!-- <div id="optiondiv">
+
+      </div> -->
+    </div>
+    <div class="rcorners2" id="results" align="left" style="width:800px; margin:0 auto;font-family:courier;">
+
+    </div>
+  </body>
+  <script type="text/javascript" src="static/script_one.js">
+  </script>
+</html>

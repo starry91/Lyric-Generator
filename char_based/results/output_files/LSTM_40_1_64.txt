@@ -1,0 +1,330 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"d meets the gulf stream bridge down on l"
+----- Generated lyrics:
+d meets the gulf stream bridge down on like in the she looking in the was and i was the down and and i say lift the some of you some the som
+
+----- Diversity:0.4
+----- Generating with seed:
+"d meets the gulf stream bridge down on l"
+----- Generated lyrics:
+d meets the gulf stream bridge down on land the man and he words and i see my strang me i for the fill and my day the see i see this be i sa
+
+----- Diversity:0.5
+----- Generating with seed:
+"d meets the gulf stream bridge down on l"
+----- Generated lyrics:
+d meets the gulf stream bridge down on like that side a playe left me the words off the some fall when you can find the play should i'm come
+
+----- Diversity:0.6
+----- Generating with seed:
+"d meets the gulf stream bridge down on l"
+----- Generated lyrics:
+d meets the gulf stream bridge down on life she sun the sides to ride on my he the be lone of a love you gonna lonely we as love so may i wa
+
+----- Diversity:0.7
+----- Generating with seed:
+"d meets the gulf stream bridge down on l"
+----- Generated lyrics:
+d meets the gulf stream bridge down on little road and there on the blain some i go down you some to is gal so life you from the on the down
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"ll, ports-of-call and everyday as the su"
+----- Generated lyrics:
+ll, ports-of-call and everyday as the sun i see the say for my left the say be a she said the light so life i see some i want to see you so 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ll, ports-of-call and everyday as the su"
+----- Generated lyrics:
+ll, ports-of-call and everyday as the sun so may land and i fall you love you down the world when i don't the hold and left the ridin' in th
+
+----- Diversity:0.5
+----- Generating with seed:
+"ll, ports-of-call and everyday as the su"
+----- Generated lyrics:
+ll, ports-of-call and everyday as the sun see the spent the ride and and and i know in the day and i'm a stop so the with you got the was to
+
+----- Diversity:0.6
+----- Generating with seed:
+"ll, ports-of-call and everyday as the su"
+----- Generated lyrics:
+ll, ports-of-call and everyday as the sure forgot say lother of your life you say you want and you say it's a can lay and and my heart and s
+
+----- Diversity:0.7
+----- Generating with seed:
+"ll, ports-of-call and everyday as the su"
+----- Generated lyrics:
+ll, ports-of-call and everyday as the sure on the day my weath the moon in the rome and shoot this say have me the side missing how you some
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+" want a catcher in the rye i wanna sop u"
+----- Generated lyrics:
+ want a catcher in the rye i wanna sop us long find on the last of the stone in the sen the sound the rand i can so the sun the sad some of 
+
+----- Diversity:0.4
+----- Generating with seed:
+" want a catcher in the rye i wanna sop u"
+----- Generated lyrics:
+ want a catcher in the rye i wanna sop under the sun and i know me ride and some and the the day and me on the know off in the sand the flow
+
+----- Diversity:0.5
+----- Generating with seed:
+" want a catcher in the rye i wanna sop u"
+----- Generated lyrics:
+ want a catcher in the rye i wanna sop us what we say i love you and i'll so the sun i think on my land some the mountains on your she down 
+
+----- Diversity:0.6
+----- Generating with seed:
+" want a catcher in the rye i wanna sop u"
+----- Generated lyrics:
+ want a catcher in the rye i wanna sop unters can come and and i've got i was got to stars to lose the only last too ride on the lord of my 
+
+----- Diversity:0.7
+----- Generating with seed:
+" want a catcher in the rye i wanna sop u"
+----- Generated lyrics:
+ want a catcher in the rye i wanna sop us the friend i was the rain souri. i was and when you touch, sweet the got a still blow i'm slow it 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"irouette 'round and 'round i'm a marione"
+----- Generated lyrics:
+irouette 'round and 'round i'm a marione for some on a little both of i love you so man a little both and my song and i was a come the light
+
+----- Diversity:0.4
+----- Generating with seed:
+"irouette 'round and 'round i'm a marione"
+----- Generated lyrics:
+irouette 'round and 'round i'm a marione of the mornin' on the bady the side a foolin' and see when you the teles of the love on forever tha
+
+----- Diversity:0.5
+----- Generating with seed:
+"irouette 'round and 'round i'm a marione"
+----- Generated lyrics:
+irouette 'round and 'round i'm a marione and for me me on my with a life you like you sometimes i last to ches on my with you can my look wh
+
+----- Diversity:0.6
+----- Generating with seed:
+"irouette 'round and 'round i'm a marione"
+----- Generated lyrics:
+irouette 'round and 'round i'm a marione and i'm so to come on my only we're hear the sing of the ready the sleep of the love so say i left 
+
+----- Diversity:0.7
+----- Generating with seed:
+"irouette 'round and 'round i'm a marione"
+----- Generated lyrics:
+irouette 'round and 'round i'm a marione make it get and on your arms in my love i can't let see like no manothin' with a set i knew our and
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"u turn it into honesty, you promised me "
+----- Generated lyrics:
+u turn it into honesty, you promised me you when you some standing for you some the see you can i can't for a find my life in the side a lon
+
+----- Diversity:0.4
+----- Generating with seed:
+"u turn it into honesty, you promised me "
+----- Generated lyrics:
+u turn it into honesty, you promised me and i see you follow the long we down to the sand some for a show you and i see some of my hear a so
+
+----- Diversity:0.5
+----- Generating with seed:
+"u turn it into honesty, you promised me "
+----- Generated lyrics:
+u turn it into honesty, you promised me some go now... i was i knew it say in the got a sade i felt the rain the stars to the words to the o
+
+----- Diversity:0.6
+----- Generating with seed:
+"u turn it into honesty, you promised me "
+----- Generated lyrics:
+u turn it into honesty, you promised me and of my life and me be you see the air to the gonna for me when i said of the winter and the fool 
+
+----- Diversity:0.7
+----- Generating with seed:
+"u turn it into honesty, you promised me "
+----- Generated lyrics:
+u turn it into honesty, you promised me is fly that i melling i see rolling and in hard to feel to love my heart whip i was the dream of me 
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"u open up your heart to receive 'cause i"
+----- Generated lyrics:
+u open up your heart to receive 'cause i love you so live is love is an your some and i see i was don't stop my for me the down the sun to m
+
+----- Diversity:0.4
+----- Generating with seed:
+"u open up your heart to receive 'cause i"
+----- Generated lyrics:
+u open up your heart to receive 'cause i got the long of a down on the words and i took on the beat some of the dawn to me on the line so th
+
+----- Diversity:0.5
+----- Generating with seed:
+"u open up your heart to receive 'cause i"
+----- Generated lyrics:
+u open up your heart to receive 'cause i don't can go say that i was and i was the road the way and i know i don't want to the baby i don't 
+
+----- Diversity:0.6
+----- Generating with seed:
+"u open up your heart to receive 'cause i"
+----- Generated lyrics:
+u open up your heart to receive 'cause i portal i'm on the side in the moonlight i say all the from a filled that you have to all like it sa
+
+----- Diversity:0.7
+----- Generating with seed:
+"u open up your heart to receive 'cause i"
+----- Generated lyrics:
+u open up your heart to receive 'cause i port you sall of bire i say goin' so fallin' again of your heaven and see my make a standing feel t
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+" is waiting here for you oh, it's a trop"
+----- Generated lyrics:
+ is waiting here for you oh, it's a trophe our fool and like to me and i was the light on the wind the saw i was i don't seem to the light i
+
+----- Diversity:0.4
+----- Generating with seed:
+" is waiting here for you oh, it's a trop"
+----- Generated lyrics:
+ is waiting here for you oh, it's a trop lady i can't know what i see of the ride with a stop my fall sing is the find of a little boy of my
+
+----- Diversity:0.5
+----- Generating with seed:
+" is waiting here for you oh, it's a trop"
+----- Generated lyrics:
+ is waiting here for you oh, it's a trope fooling for you know i'll be so fine i don't be my time be blue just a pied but nothing to our las
+
+----- Diversity:0.6
+----- Generating with seed:
+" is waiting here for you oh, it's a trop"
+----- Generated lyrics:
+ is waiting here for you oh, it's a trophelp and my fall say and in the come with my down but i'm so good of i don't stop we when you make a
+
+----- Diversity:0.7
+----- Generating with seed:
+" is waiting here for you oh, it's a trop"
+----- Generated lyrics:
+ is waiting here for you oh, it's a trophat i'm a complast of the sand i far the time off your missous of my side with the ride old sing die
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"goodbye little betty goodbye little bett"
+----- Generated lyrics:
+goodbye little betty goodbye little bettle like a paint of a shame of life the land i can be a standing for you are the sea maybe the stars 
+
+----- Diversity:0.4
+----- Generating with seed:
+"goodbye little betty goodbye little bett"
+----- Generated lyrics:
+goodbye little betty goodbye little bettle like the free before here i don't know i was the sound so so go so on the words in the song of th
+
+----- Diversity:0.5
+----- Generating with seed:
+"goodbye little betty goodbye little bett"
+----- Generated lyrics:
+goodbye little betty goodbye little bettle me so like we behind me and i'm the same cowboy of the moon the light of somebody i know that i c
+
+----- Diversity:0.6
+----- Generating with seed:
+"goodbye little betty goodbye little bett"
+----- Generated lyrics:
+goodbye little betty goodbye little bettle you left for ned on the words of your heart of a sometimes on a fool and for a shadow and you son
+
+----- Diversity:0.7
+----- Generating with seed:
+"goodbye little betty goodbye little bett"
+----- Generated lyrics:
+goodbye little betty goodbye little bettle you live all of the words and all the hard on love and i'm lonely look not lonely lay my life in 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"i'd rather be a man than sin my soul lik"
+----- Generated lyrics:
+i'd rather be a man than sin my soul like a minute be all my friend a sing i can't see you can an the seale the first and i love i was runni
+
+----- Diversity:0.4
+----- Generating with seed:
+"i'd rather be a man than sin my soul lik"
+----- Generated lyrics:
+i'd rather be a man than sin my soul like a comple a sun the fire of here long on so sense ber heart of your mass ride the form of find and 
+
+----- Diversity:0.5
+----- Generating with seed:
+"i'd rather be a man than sin my soul lik"
+----- Generated lyrics:
+i'd rather be a man than sin my soul like a while my fall the sun some days me i stard my battle play walkin' on out it all the last we the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"i'd rather be a man than sin my soul lik"
+----- Generated lyrics:
+i'd rather be a man than sin my soul like you and i was he find me as every life to she maybe of the find of a from fire sometimes in the so
+
+----- Diversity:0.7
+----- Generating with seed:
+"i'd rather be a man than sin my soul lik"
+----- Generated lyrics:
+i'd rather be a man than sin my soul like the call only the maybe so long here through the mank i could she live to smile like a new if you 
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+" work this treacherous road for all the "
+----- Generated lyrics:
+ work this treacherous road for all the same so chorus and i was no more than out on my but world may and bone manze to be so chorus for my 
+
+----- Diversity:0.4
+----- Generating with seed:
+" work this treacherous road for all the "
+----- Generated lyrics:
+ work this treacherous road for all the world me she same i don't seem day the side i love on my own the shadows of i was me not the show we
+
+----- Diversity:0.5
+----- Generating with seed:
+" work this treacherous road for all the "
+----- Generated lyrics:
+ work this treacherous road for all the land we're go wanted words boy passin' the world on the day it so much for a last for you lay flowas
+
+----- Diversity:0.6
+----- Generating with seed:
+" work this treacherous road for all the "
+----- Generated lyrics:
+ work this treacherous road for all the side is that some could i don't know on was and but of your down and when i thought the light of i a
+
+----- Diversity:0.7
+----- Generating with seed:
+" work this treacherous road for all the "
+----- Generated lyrics:
+ work this treacherous road for all the from is should if the is with me fall my flide.... christmas to the streets of hine clear the seath 
+
+================================================================================
