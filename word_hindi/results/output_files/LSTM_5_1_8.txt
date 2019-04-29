@@ -1,0 +1,935 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"something special in your eyes"
+----- Generated lyrics:
+something special in your eyes 
+ 
+ are you in my eyes 
+ 
+ i am of you 
+ 
+ i am not on you 
+ 
+ i am you in you 
+ 
+ i am not on your eyes 
+ 
+ are you 
+ on you 
+ i am you 
+ 
+ i am
+
+----- Diversity:0.4
+----- Generating with seed:
+"something special in your eyes"
+----- Generated lyrics:
+something special in your eyes 
+ 
+ i am of the eyes 
+ 
+ i am not in the world 
+ 
+ you are my eyes 
+ 
+ i am not on your eyes 
+ ill take you 
+ 
+ you my love of you 
+ 
+ i have without you 
+ 
+ you do
+
+----- Diversity:0.5
+----- Generating with seed:
+"something special in your eyes"
+----- Generated lyrics:
+something special in your eyes 
+ 
+ ill take you 
+ 
+ you only you you the the world 
+ 
+ take you is you 
+ 
+ i am not times in you 
+ 
+ i have been on your eyes 
+ 
+ wishes lost in your love 
+ 
+ i am in you 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"something special in your eyes"
+----- Generated lyrics:
+something special in your eyes 
+ 
+ dama my own of 
+ one wherever do of love you 
+ i am you on your the punishment 
+ 
+ youre you the love 
+ 
+ whenever are you in 
+ 
+ ill go you 
+ please night the me 
+ but your beloved 
+ 
+ ill
+
+----- Diversity:0.7
+----- Generating with seed:
+"something special in your eyes"
+----- Generated lyrics:
+something special in your eyes 
+ ill all here love 
+ is you are my heart 
+ every will 
+ 
+ you ill shall a have in the world 
+ 
+ we take my heart 
+ 
+ i am in from of 
+ 
+ you are is of of my heart 
+ i shall these
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"my beloved 
+ what do"
+----- Generated lyrics:
+my beloved 
+ what do you 
+ 
+ i am not on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved 
+ 
+ i have sworn 
+ you are not 
+ 
+ ill take care of you 
+ 
+ ole
+
+----- Diversity:0.4
+----- Generating with seed:
+"my beloved 
+ what do"
+----- Generated lyrics:
+my beloved 
+ what do you not from you 
+ i am not on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ 
+ swear it on my heart 
+ 
+ i care of you in my breaths 
+ 
+ i am care you 
+ 
+ never take
+
+----- Diversity:0.5
+----- Generating with seed:
+"my beloved 
+ what do"
+----- Generated lyrics:
+my beloved 
+ what do you 
+ i am you live in my eyes 
+ ill take care of you 
+ 
+ youre the arms 
+ may i do you without you 
+ 
+ i shall not get of the heart 
+ 
+ you care is you 
+ 
+ ill take care of you 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"my beloved 
+ what do"
+----- Generated lyrics:
+my beloved 
+ what do you 
+ you in only 
+ 
+ he take care of you in my breaths 
+ 
+ i am not on me now 
+ such a brought and moments 
+ from the world of you 
+ 
+ you are not in me 
+ 
+ ill take care of you in
+
+----- Diversity:0.7
+----- Generating with seed:
+"my beloved 
+ what do"
+----- Generated lyrics:
+my beloved 
+ what do you let 
+ you touch you 
+ 
+ oh you in my breaths 
+ 
+ ill take care of you 
+ 
+ i am you this live 
+ say all me 
+ he will promises to the am 
+ 
+ take care of you 
+ 
+ wherever you so by
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"i have at night about"
+----- Generated lyrics:
+i have at night about you 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you
+
+----- Diversity:0.4
+----- Generating with seed:
+"i have at night about"
+----- Generated lyrics:
+i have at night about you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ you are the
+
+----- Diversity:0.5
+----- Generating with seed:
+"i have at night about"
+----- Generated lyrics:
+i have at night about your breaths 
+ 
+ ill keep you in the eyes 
+ you are a ole always sometime 
+ all ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.6
+----- Generating with seed:
+"i have at night about"
+----- Generated lyrics:
+i have at night about you 
+ 
+ you are my mind 
+ 
+ you are all anything for you are you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ i have been robbed
+
+----- Diversity:0.7
+----- Generating with seed:
+"i have at night about"
+----- Generated lyrics:
+i have at night about you 
+ you are the lord 
+ with the world of every fate 
+ ill take care of you in my breaths 
+ 
+ ill keep you the girl 
+ take you that my beloved 
+ 
+ is a complete heart and om for a happened 
+ you are my
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"myself 
+ 
+ ive forgotten"
+----- Generated lyrics:
+myself 
+ 
+ ive forgotten you 
+ 
+ you are not there 
+ you are my days 
+ 
+ you are the reason in my world 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep
+
+----- Diversity:0.4
+----- Generating with seed:
+"myself 
+ 
+ ive forgotten"
+----- Generated lyrics:
+myself 
+ 
+ ive forgotten a on your name my beloved 
+ 
+ i am not to live away 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"myself 
+ 
+ ive forgotten"
+----- Generated lyrics:
+myself 
+ 
+ ive forgotten the paths 
+ i am it understand 
+ 
+ you are not a mad night 
+ 
+ take a on my mind 
+ we shall i see you 
+ 
+ you are not 
+ you are not 
+ you are a good 
+ 
+ ill take care of you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"myself 
+ 
+ ive forgotten"
+----- Generated lyrics:
+myself 
+ 
+ ive forgotten the talks 
+ you are not to see you 
+ day 
+ you have find me 
+ but i should keep you to see you 
+ 
+ i am crazy you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths
+
+----- Diversity:0.7
+----- Generating with seed:
+"myself 
+ 
+ ive forgotten"
+----- Generated lyrics:
+myself 
+ 
+ ive forgotten a show you 
+ like yours 
+ you have become a infatuation 
+ now you know his world every happened 
+ 
+ you are my days in the lips 
+ 
+ we will never drift apart 
+ you have lost only 
+ you are a reason in living 
+ we
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"make you see 
+ make"
+----- Generated lyrics:
+make you see 
+ make you see 
+ 
+ you are my eyes 
+ you are the reason for you 
+ 
+ you are you 
+ i am not 
+ 
+ i am not girl 
+ you are there 
+ 
+ you are not there 
+ you are my life 
+ you are not 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"make you see 
+ make"
+----- Generated lyrics:
+make you see 
+ make you cry 
+ 
+ i am not on anyone 
+ 
+ 
+ the paths ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.5
+----- Generating with seed:
+"make you see 
+ make"
+----- Generated lyrics:
+make you see 
+ make you see you 
+ 
+ you are not there 
+ you are in the world 
+ 
+ you are my eyes in every second 
+ 
+ i am not to live 
+ 
+ you are my days 
+ in the eyes 
+ i am sacrificed on here 
+ 
+ i
+
+----- Diversity:0.6
+----- Generating with seed:
+"make you see 
+ make"
+----- Generated lyrics:
+make you see 
+ make you are the bride 
+ 
+ 
+ take you that i have have to live without you 
+ i have only you 
+ morning tomorrow are you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take
+
+----- Diversity:0.7
+----- Generating with seed:
+"make you see 
+ make"
+----- Generated lyrics:
+make you see 
+ make you to the world and praise to the world 
+ you are the reason to keep you 
+ ill take you 
+ the world goes the whole world 
+ you are my days 
+ ill keep you in my eyes 
+ 
+ i have these thoughts in the bride 
+
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"be stolen 
+ i can"
+----- Generated lyrics:
+be stolen 
+ i can leave you 
+ 
+ but i love is there for a few of living 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.4
+----- Generating with seed:
+"be stolen 
+ i can"
+----- Generated lyrics:
+be stolen 
+ i can not get separated 
+ but the heart has not to take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"be stolen 
+ i can"
+----- Generated lyrics:
+be stolen 
+ i can not live go 
+ you know i am you in my heart 
+ 
+ theres a passion in living now 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ you are you 
+ 
+ you are you 
+ 
+ you
+
+----- Diversity:0.6
+----- Generating with seed:
+"be stolen 
+ i can"
+----- Generated lyrics:
+be stolen 
+ i can give you in my eyes 
+ ill take care of you in my breaths 
+ 
+ i am not keep 
+ in the eyes 
+ 
+ i am not want to live without you 
+ i have only for you 
+ i am passion 
+ 
+ you will be you
+
+----- Diversity:0.7
+----- Generating with seed:
+"be stolen 
+ i can"
+----- Generated lyrics:
+be stolen 
+ i can not live 
+ i see you 
+ you are my life 
+ you are my reason in my dreams 
+ ill take care of you in my breaths 
+ 
+ you are not beautiful you cry 
+ 
+ i am not make in my lips 
+ now youre my heart
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"ku ku ku 
+ 
+"
+----- Generated lyrics:
+ku ku ku 
+ 
+ you are a beautiful night 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"ku ku ku 
+ 
+"
+----- Generated lyrics:
+ku ku ku 
+ 
+ you are not there 
+ like a fragrance in living a way 
+ 
+ the world of the heart 
+ 
+ all the world of you are the world 
+ you are the reason for you 
+ 
+ you are you 
+ my love 
+ you are you my heart
+
+----- Diversity:0.5
+----- Generating with seed:
+"ku ku ku 
+ 
+"
+----- Generated lyrics:
+ku ku ku 
+ 
+ you are mine 
+ 
+ you are my life 
+ you are not so 
+ i am not on your name 
+ i want to you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care
+
+----- Diversity:0.6
+----- Generating with seed:
+"ku ku ku 
+ 
+"
+----- Generated lyrics:
+ku ku ku 
+ 
+ i am not to myself 
+ 
+ it was the heart 
+ and you have lost 
+ you will never had 
+ 
+ you were not had 
+ you would dont know of you are mine 
+ 
+ you are mine 
+ 
+ i want to keep you and 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"ku ku ku 
+ 
+"
+----- Generated lyrics:
+ku ku ku 
+ 
+ i am not to whole myself 
+ you are mine 
+ its like a few passion 
+ theres a passion in living now 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ i have sacrificed myself 
+ you since i want
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"say yes say yes 
+"
+----- Generated lyrics:
+say yes say yes 
+ ill see you without you 
+ 
+ you are my prayer 
+ 
+ the weather has very beautiful 
+ 
+ i am not to live 
+ 
+ you are my prayer 
+ 
+ the weather is a beautiful dream of a dreams 
+ 
+ ive seen many good things 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"say yes say yes 
+"
+----- Generated lyrics:
+say yes say yes 
+ see you 
+ i have become a beautiful 
+ 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+ praise to the creator 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"say yes say yes 
+"
+----- Generated lyrics:
+say yes say yes 
+ say no evening 
+ come to your streets my heart 
+ it is the first intoxication 
+ i am not to live 
+ 
+ sometimes i will be for a lover 
+ 
+ the whole is you 
+ 
+ you are my prayer 
+ 
+ in the paths 
+ i
+
+----- Diversity:0.6
+----- Generating with seed:
+"say yes say yes 
+"
+----- Generated lyrics:
+say yes say yes 
+ see you 
+ i have sacrificed myself for you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ i am sacrificed in the
+
+----- Diversity:0.7
+----- Generating with seed:
+"say yes say yes 
+"
+----- Generated lyrics:
+say yes say yes 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ i am not shall to live without you 
+ i have u boy girl 
+ sorrow 
+ me is a very beautiful 
+ that we are mine 
+ 
+ i am not
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"joy has disturbed me 
+"
+----- Generated lyrics:
+joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed
+
+----- Diversity:0.4
+----- Generating with seed:
+"joy has disturbed me 
+"
+----- Generated lyrics:
+joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes 
+ full of happiness 
+ my heart is crazy for you 
+ 
+ i am not to fragrance 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"joy has disturbed me 
+"
+----- Generated lyrics:
+joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed
+
+----- Diversity:0.6
+----- Generating with seed:
+"joy has disturbed me 
+"
+----- Generated lyrics:
+joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has
+
+----- Diversity:0.7
+----- Generating with seed:
+"joy has disturbed me 
+"
+----- Generated lyrics:
+joy has disturbed me 
+ thy pair of the eyes 
+ full of love has not gone 
+ ill worship you 
+ day 
+ we will never drift apart 
+ i will never drift apart 
+ we will never drift apart 
+ see you x 
+ you are the there for you 
+ and youre
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"o o o 
+ if"
+----- Generated lyrics:
+o o o 
+ if i see you to live 
+ 
+ you are you beautiful 
+ 
+ i am not to myself 
+ but even my eyes are saying 
+ you are you so beautiful 
+ 
+ i am not to live 
+ 
+ you are my prayer 
+ 
+ you are only for
+
+----- Diversity:0.4
+----- Generating with seed:
+"o o o 
+ if"
+----- Generated lyrics:
+o o o 
+ if it is a very beautiful 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take
+
+----- Diversity:0.5
+----- Generating with seed:
+"o o o 
+ if"
+----- Generated lyrics:
+o o o 
+ if thou cry 
+ 
+ you are there for you 
+ 
+ you are my prayer 
+ 
+ you are mine 
+ 
+ you are mine 
+ you are you beautiful 
+ 
+ how do i tell you 
+ you are my desire 
+ you are a dream in the world
+
+----- Diversity:0.6
+----- Generating with seed:
+"o o o 
+ if"
+----- Generated lyrics:
+o o o 
+ if its a lonely 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ i have sacrificed myself 
+ you have to live without me
+
+----- Diversity:0.7
+----- Generating with seed:
+"o o o 
+ if"
+----- Generated lyrics:
+o o o 
+ if its not 
+ all the world of my soul 
+ every moment is saying in you in my dreams 
+ keep you down 
+ the earth all the sky 
+ who shall have to live without me 
+ i have fallen for him now 
+ he left me meeting 
+
+
+================================================================================

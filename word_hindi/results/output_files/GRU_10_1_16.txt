@@ -1,0 +1,976 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"itself 
+ youre going to fall in love again 
+"
+----- Generated lyrics:
+itself 
+ youre going to fall in love again 
+ 
+ it the the world of 
+ 
+ 
+ ill do you 
+ 
+ the world of 
+ 
+ you you are 
+ 
+ you ill will you 
+ 
+ i am never you away 
+ 
+ ill will all you 
+ 
+ i have am on your name my
+
+----- Diversity:0.4
+----- Generating with seed:
+"itself 
+ youre going to fall in love again 
+"
+----- Generated lyrics:
+itself 
+ youre going to fall in love again 
+ 
+ i have it on your name full beloved 
+ 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo
+
+----- Diversity:0.5
+----- Generating with seed:
+"itself 
+ youre going to fall in love again 
+"
+----- Generated lyrics:
+itself 
+ youre going to fall in love again 
+ why i you 
+ my eyes is my beloved 
+ 
+ i have my on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo
+
+----- Diversity:0.6
+----- Generating with seed:
+"itself 
+ youre going to fall in love again 
+"
+----- Generated lyrics:
+itself 
+ youre going to fall in love again 
+ 
+ 
+ the arms of the eyes 
+ 
+ there are being 
+ you is 
+ 
+ we with a reason 
+ im whole passion 
+ in you promise 
+ you is my in my eyes 
+ 
+ why keep of the in my breaths 
+ 
+ is you these
+
+----- Diversity:0.7
+----- Generating with seed:
+"itself 
+ youre going to fall in love again 
+"
+----- Generated lyrics:
+itself 
+ youre going to fall in love again 
+ in ill look the god 
+ the beloved a living 
+ 
+ i has been love 
+ that only keep good 
+ these still 
+ 
+ a body our anything thoughts know ill keep 
+ why my eyes 
+ 
+ 
+ my beloved 
+ 
+ ive the world a eyes
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"good 
+ 
+ when the night goes in your arms"
+----- Generated lyrics:
+good 
+ 
+ when the night goes in your arms 
+ not is a little bit 
+ 
+ memories a a bit 
+ dam dreams a little bit 
+ again 
+ come keep a a little 
+ 
+ ill keep a little everywhere 
+ 
+ ill keep care of you in my breaths 
+ ill ill keep you in my
+
+----- Diversity:0.4
+----- Generating with seed:
+"good 
+ 
+ when the night goes in your arms"
+----- Generated lyrics:
+good 
+ 
+ when the night goes in your arms 
+ ill keep care of you in my breaths 
+ ill ill keep you in my eyes 
+ ill take care of you in my breaths 
+ ill ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"good 
+ 
+ when the night goes in your arms"
+----- Generated lyrics:
+good 
+ 
+ when the night goes in your arms 
+ ill keep a ill didnt theres a memories ill keep a dreams 
+ ill keep a little breaths in a dreams 
+ ill keep you in my heart 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care
+
+----- Diversity:0.6
+----- Generating with seed:
+"good 
+ 
+ when the night goes in your arms"
+----- Generated lyrics:
+good 
+ 
+ when the night goes in your arms 
+ you ill keep you in in in my eyes 
+ keep you in my eyes 
+ ill ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths
+
+----- Diversity:0.7
+----- Generating with seed:
+"good 
+ 
+ when the night goes in your arms"
+----- Generated lyrics:
+good 
+ 
+ when the night goes in your arms 
+ whenever i keep you in in my in my mine 
+ 
+ you are not not that you shall be forget a search 
+ 
+ ill lose not good these moments 
+ ill stay care of me pain 
+ ill take care of you in my breaths 
+ 
+
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"found peace since being away from you 
+ you will"
+----- Generated lyrics:
+found peace since being away from you 
+ you will will be without you i dont feel good 
+ without you i dont feel good 
+ without you i dont feel good 
+ without you i dont feel good 
+ without you i dont feel good 
+ without you i dont feel good 
+ without you i dont feel good
+
+----- Diversity:0.4
+----- Generating with seed:
+"found peace since being away from you 
+ you will"
+----- Generated lyrics:
+found peace since being away from you 
+ you will in a passion 
+ you the world 
+ in a passion 
+ you our life will be there 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion in living
+
+----- Diversity:0.5
+----- Generating with seed:
+"found peace since being away from you 
+ you will"
+----- Generated lyrics:
+found peace since being away from you 
+ you will in a passion 
+ you 
+ i will be without you 
+ you are me 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"found peace since being away from you 
+ you will"
+----- Generated lyrics:
+found peace since being away from you 
+ you will i have you 
+ i have boy you living in my heart 
+ 
+ it seems of my beloved 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+----- Diversity:0.7
+----- Generating with seed:
+"found peace since being away from you 
+ you will"
+----- Generated lyrics:
+found peace since being away from you 
+ you will will never you 
+ on your first will was one 
+ are your eyes 
+ in night in your eyes 
+ ill keep care in you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"it doesnt have a face and yet its so deep"
+----- Generated lyrics:
+it doesnt have a face and yet its so deep 
+ these moments these moments like the life 
+ come with the come of mine is with us 
+ of the world seems 
+ are the world seems 
+ 
+ the world seems 
+ 
+ the world seems 
+ 
+ the world seems 
+ 
+ the world seems 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"it doesnt have a face and yet its so deep"
+----- Generated lyrics:
+it doesnt have a face and yet its so deep 
+ these moments these moments like the time 
+ thou have been over for a few moments 
+ sky seems 
+ is a a of you 
+ 
+ i will be you again 
+ 
+ i will feel you 
+ o u 
+ 
+ you are my heart 
+ and
+
+----- Diversity:0.5
+----- Generating with seed:
+"it doesnt have a face and yet its so deep"
+----- Generated lyrics:
+it doesnt have a face and yet its so deep 
+ these moments these moments like the love 
+ 
+ with a life 
+ i am 
+ i am crying 
+ 
+ you are leave me 
+ you are my life 
+ ill worship you you 
+ in my love 
+ 
+ my love is my heart 
+ 
+ i
+
+----- Diversity:0.6
+----- Generating with seed:
+"it doesnt have a face and yet its so deep"
+----- Generated lyrics:
+it doesnt have a face and yet its so deep 
+ these moments these moments like the time 
+ thou will loved no remains one 
+ 
+ it seems a little 
+ the world seems 
+ 
+ are the world seems 
+ 
+ the world seems 
+ 
+ the world seems of love 
+ 
+ i loved it 
+ 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"it doesnt have a face and yet its so deep"
+----- Generated lyrics:
+it doesnt have a face and yet its so deep 
+ these moments these moments like the life 
+ not come world come 
+ come with me 
+ tell me my beloved 
+ 
+ my beloved 
+ 
+ come touch me now with your beloved 
+ 
+ is all the story of love 
+ i am only for you 
+
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"of you in my breaths 
+ 
+ ill keep you"
+----- Generated lyrics:
+of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep
+
+----- Diversity:0.4
+----- Generating with seed:
+"of you in my breaths 
+ 
+ ill keep you"
+----- Generated lyrics:
+of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+----- Diversity:0.5
+----- Generating with seed:
+"of you in my breaths 
+ 
+ ill keep you"
+----- Generated lyrics:
+of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ 
+ take care of you in my breaths 
+ 
+ 
+ the flame of my eyes 
+ 
+ take you 
+ in the world 
+ 
+ 
+ i will
+
+----- Diversity:0.6
+----- Generating with seed:
+"of you in my breaths 
+ 
+ ill keep you"
+----- Generated lyrics:
+of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ you know in my eyes 
+ in cry 
+ in my eyes 
+ in my eyes 
+ in your eyes in my love 
+ 
+ my heart is your lover love is just for you
+
+----- Diversity:0.7
+----- Generating with seed:
+"of you in my breaths 
+ 
+ ill keep you"
+----- Generated lyrics:
+of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ keep you in my eyes 
+ 
+ take care of the in my breaths 
+ 
+ 
+ keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ your
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"is with me 
+ your memory is with me 
+"
+----- Generated lyrics:
+is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory
+
+----- Diversity:0.4
+----- Generating with seed:
+"is with me 
+ your memory is with me 
+"
+----- Generated lyrics:
+is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory
+
+----- Diversity:0.5
+----- Generating with seed:
+"is with me 
+ your memory is with me 
+"
+----- Generated lyrics:
+is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory
+
+----- Diversity:0.6
+----- Generating with seed:
+"is with me 
+ your memory is with me 
+"
+----- Generated lyrics:
+is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory
+
+----- Diversity:0.7
+----- Generating with seed:
+"is with me 
+ your memory is with me 
+"
+----- Generated lyrics:
+is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory is with me 
+ your memory
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"of yours 
+ i got to know that there is"
+----- Generated lyrics:
+of yours 
+ i got to know that there is yes 
+ 
+ i have brought the same and give u 
+ 
+ but my love is there 
+ 
+ u i feel it is for you 
+ i have to become my love 
+ 
+ i am only 
+ i have sworn 
+ 
+ same life 
+ we will
+
+----- Diversity:0.4
+----- Generating with seed:
+"of yours 
+ i got to know that there is"
+----- Generated lyrics:
+of yours 
+ i got to know that there is yes 
+ everyone i have think of yours 
+ but my heart i could give my everything 
+ 
+ they i love u 
+ 
+ u will feel it 
+ lets live this moment 
+ 
+ 
+ the world can the whole world 
+ 
+ this is the beloved 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"of yours 
+ i got to know that there is"
+----- Generated lyrics:
+of yours 
+ i got to know that there is yes in your no 
+ 
+ they met mine yesterday 
+ yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday
+
+----- Diversity:0.6
+----- Generating with seed:
+"of yours 
+ i got to know that there is"
+----- Generated lyrics:
+of yours 
+ i got to know that there is yes in your no 
+ 
+ they met mine yesterday 
+ yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday and yeah they met yesterday 
+ they met mine yesterday
+
+----- Diversity:0.7
+----- Generating with seed:
+"of yours 
+ i got to know that there is"
+----- Generated lyrics:
+of yours 
+ i got to know that there is yes in your no 
+ 
+ they met mine yesterday 
+ yeah they met yesterday 
+ they met mine yesterday and a god is yesterday 
+ like a good heart 
+ 
+ its a good heart 
+ i am without for you 
+ i lost 
+ the heart is lost
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"
+ if i lose in your talks once 
+ i"
+----- Generated lyrics:
+
+ if i lose in your talks once 
+ i cant the moments in and gone by 
+ i am the moments 
+ have gone by 
+ you are the moments 
+ have gone by 
+ you are the moments 
+ have gone by that you are 
+ 
+ now that you share my pain 
+ now that you share
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ if i lose in your talks once 
+ i"
+----- Generated lyrics:
+
+ if i lose in your talks once 
+ i cant come to live 
+ with your world behind my face 
+ make me understand 
+ 
+ live a moment 
+ in your memories 
+ i am 
+ i have you are in me 
+ i have want to live 
+ you 
+ in your way 
+ 
+ theres a
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ if i lose in your talks once 
+ i"
+----- Generated lyrics:
+
+ if i lose in your talks once 
+ i cant the moments in and gone 
+ even my pain now 
+ were you are in my pain 
+ now that you share my pain 
+ every pain is beautiful 
+ now that you share my pain 
+ every pain is beautiful 
+ now that you share my pain 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ if i lose in your talks once 
+ i"
+----- Generated lyrics:
+
+ if i lose in your talks once 
+ i cant come to your heart is your soul 
+ my heart is my fault 
+ why you i not 
+ 
+ why should be apart with me 
+ 
+ that on a lost 
+ give me a little love 
+ 
+ i have sky 
+ in the roads of love
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ if i lose in your talks once 
+ i"
+----- Generated lyrics:
+
+ if i lose in your talks once 
+ i cant the to live and yet 
+ i love is all the same 
+ 
+ yet i am love you 
+ 
+ the bride of badri well take you away 
+ queen well take you away making you the bride of badri well take baby away 
+ queen well take
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"o dear what do i tell you the things of"
+----- Generated lyrics:
+o dear what do i tell you the things of love 
+ 
+ you are my life 
+ 
+ the world crying 
+ 
+ and world is here 
+ 
+ my heart is not heartbeat 
+ you 
+ ive lost my heart ive lost it 
+ ive lost it to ive lost 
+ 
+ ive lost it to ive lost
+
+----- Diversity:0.4
+----- Generating with seed:
+"o dear what do i tell you the things of"
+----- Generated lyrics:
+o dear what do i tell you the things of love 
+ 
+ you are my life 
+ 
+ peace in me and the pain too 
+ now you can in just 
+ 
+ you 
+ in my tears 
+ 
+ theres a passion 
+ 
+ please accept 
+ in your face 
+ in my face i can in the
+
+----- Diversity:0.5
+----- Generating with seed:
+"o dear what do i tell you the things of"
+----- Generated lyrics:
+o dear what do i tell you the things of love 
+ 
+ you are my life 
+ 
+ peace in me and the pain too 
+ now you my love 
+ 
+ you are all the same 
+ and how much you love the me 
+ how much deep the love even if try how much deep the love
+
+----- Diversity:0.6
+----- Generating with seed:
+"o dear what do i tell you the things of"
+----- Generated lyrics:
+o dear what do i tell you the things of love 
+ 
+ you are my heart 
+ 
+ though it looks you are my beloved 
+ 
+ this is my heart 
+ 
+ the world is the one who when got away after you give me 
+ in my arms 
+ just for you 
+ dance madly in my
+
+----- Diversity:0.7
+----- Generating with seed:
+"o dear what do i tell you the things of"
+----- Generated lyrics:
+o dear what do i tell you the things of love 
+ i am of the 
+ 
+ my beloved 
+ 
+ 
+ why do be for me 
+ 
+ hark soul hair 
+ 
+ without time back 
+ that my love 
+ 
+ never me that 
+ 
+ i can get you everything in your face 
+ i will
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"are set just for you 
+ i have forgotten the"
+----- Generated lyrics:
+are set just for you 
+ i have forgotten the whole world just for you 
+ o ooo 
+ i am u 
+ i live my heart 
+ 
+ your face u so much 
+ u and it feel love always 
+ when you are it every of the face beloved we are all 
+ 
+ hark soul hair without
+
+----- Diversity:0.4
+----- Generating with seed:
+"are set just for you 
+ i have forgotten the"
+----- Generated lyrics:
+are set just for you 
+ i have forgotten the whole world just for you 
+ o ooo 
+ i am u 
+ i live my heart 
+ 
+ i touch u so much and u will it just for a live of love 
+ 
+ what are your without you 
+ beloved 
+ 
+ o heart is lost 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"are set just for you 
+ i have forgotten the"
+----- Generated lyrics:
+are set just for you 
+ i have forgotten the whole world just for you 
+ o ooo 
+ i am u 
+ i live my living now 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion in living
+
+----- Diversity:0.6
+----- Generating with seed:
+"are set just for you 
+ i have forgotten the"
+----- Generated lyrics:
+are set just for you 
+ i have forgotten the whole world just for you 
+ 
+ ooo 
+ i am u 
+ i am love 
+ 
+ you are so beautiful 
+ i could die to see you 
+ give me some so is incomplete 
+ i am your shadow 
+ 
+ all the same 
+ and yet is
+
+----- Diversity:0.7
+----- Generating with seed:
+"are set just for you 
+ i have forgotten the"
+----- Generated lyrics:
+are set just for you 
+ i have forgotten the whole world just for you 
+ o heart 
+ all the soul of love 
+ it is the story of love 
+ i will it madness so 
+ that i love is it 
+ 
+ i have been it of destiny 
+ how i do i need no 
+ beloved
+
+================================================================================

@@ -1,0 +1,953 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"
+ why did you make"
+----- Generated lyrics:
+
+ why did you make you 
+ 
+ ill take you 
+ 
+ ill you 
+ the world of the eyes 
+ 
+ i am you 
+ 
+ ill take you 
+ 
+ you are the world of 
+ 
+ my eyes 
+ 
+ ill take you 
+ 
+ you are you 
+ 
+ you
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ why did you make"
+----- Generated lyrics:
+
+ why did you make you 
+ 
+ ill care you in my heart 
+ 
+ ill you in my eyes 
+ 
+ take you 
+ 
+ ill you is you 
+ 
+ i am you 
+ 
+ you are the world of you 
+ 
+ i am know of you 
+ 
+ i am
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ why did you make"
+----- Generated lyrics:
+
+ why did you make you 
+ 
+ the heart of your face now 
+ you are the world 
+ 
+ i am 
+ the first your moment 
+ 
+ never take my eyes 
+ in my eyes 
+ 
+ ill what on you 
+ 
+ i am you 
+ i am walk 
+ how
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ why did you make"
+----- Generated lyrics:
+
+ why did you make you that just want 
+ 
+ all the world 
+ 
+ 
+ the fulfill of how you 
+ thy you u 
+ 
+ the weather today not has your over 
+ 
+ i have leave 
+ beautiful if 
+ you 
+ say you x 
+ 
+ we am didnt to
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ why did you make"
+----- Generated lyrics:
+
+ why did you make me 
+ much when my not world 
+ night it on you 
+ ill ive every eyes 
+ learn did what 
+ you with you 
+ for you away 
+ i am will myself 
+ never live my moment 
+ 
+ i am to on you 
+ i am live
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"my life do not do"
+----- Generated lyrics:
+my life do not do 
+ you are the world of the story 
+ 
+ all the world of our eyelashes 
+ 
+ i have sworn 
+ 
+ when you are the reason of you 
+ 
+ he is the world of the story 
+ 
+ all a passion in the world 
+ 
+ take
+
+----- Diversity:0.4
+----- Generating with seed:
+"my life do not do"
+----- Generated lyrics:
+my life do not do 
+ you are this is of your eyes 
+ never take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"my life do not do"
+----- Generated lyrics:
+my life do not do i get of the world of full of joy has disturbed me 
+ 
+ never take care of you in my breaths 
+ 
+ ill he care of me in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ take you 
+ are a prayer
+
+----- Diversity:0.6
+----- Generating with seed:
+"my life do not do"
+----- Generated lyrics:
+my life do not do 
+ the then has leaves me 
+ you will care of me 
+ then i will these girl 
+ i shall to live without you 
+ i have sworn 
+ 
+ i will will the tears with you lord 
+ i shall you to your name 
+ my beloved 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"my life do not do"
+----- Generated lyrics:
+my life do not do you 
+ im story 
+ 
+ he a little love 
+ the world is full of morning 
+ im me everywhere in the world of you 
+ 
+ it is the one 
+ even its a little than beat 
+ 
+ there is of the lord 
+ when i loved
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"big drama queen 
+ her"
+----- Generated lyrics:
+big drama queen 
+ her take care of you in my breaths 
+ 
+ ill keep care of you in my breaths 
+ 
+ ill keep care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.4
+----- Generating with seed:
+"big drama queen 
+ her"
+----- Generated lyrics:
+big drama queen 
+ her ill take care of you in my breaths 
+ 
+ ill keep care of you in my breaths 
+ 
+ ill keep care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"big drama queen 
+ her"
+----- Generated lyrics:
+big drama queen 
+ her ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care
+
+----- Diversity:0.6
+----- Generating with seed:
+"big drama queen 
+ her"
+----- Generated lyrics:
+big drama queen 
+ her body is mine 
+ 
+ our ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.7
+----- Generating with seed:
+"big drama queen 
+ her"
+----- Generated lyrics:
+big drama queen 
+ her take care of you in my breaths 
+ 
+ ill keep care of my breaths in breaths 
+ 
+ 
+ ill keep care of in in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep care of me in your breaths 
+ 
+
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"if you are there 
+"
+----- Generated lyrics:
+if you are there 
+ the who has been gone 
+ 
+ never drift apart 
+ we will never drift apart 
+ i have sworn 
+ 
+ the bride of badri 
+ 
+ you have the whole world 
+ 
+ all the night 
+ 
+ he no one knows in my eyes 
+ ill take
+
+----- Diversity:0.4
+----- Generating with seed:
+"if you are there 
+"
+----- Generated lyrics:
+if you are there 
+ no one has any more 
+ 
+ tomorrow were here 
+ and i need a reason 
+ i have sacrificed crying 
+ 
+ 
+ no one had any more dream 
+ i have been been lover 
+ 
+ i am u much 
+ 
+ love is the story of my
+
+----- Diversity:0.5
+----- Generating with seed:
+"if you are there 
+"
+----- Generated lyrics:
+if you are there 
+ let me the friend in the world 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill take care of you in my breaths
+
+----- Diversity:0.6
+----- Generating with seed:
+"if you are there 
+"
+----- Generated lyrics:
+if you are there 
+ 
+ when i saw you 
+ i have brought the of you in full of happiness 
+ 
+ when the night of my breaths 
+ 
+ 
+ i am brought me sorrow well then let me accept sorrow 
+ 
+ he will meet in the eyes 
+ in your love
+
+----- Diversity:0.7
+----- Generating with seed:
+"if you are there 
+"
+----- Generated lyrics:
+if you are there 
+ a love has a moment 
+ in my dreams 
+ we shall be a lover 
+ 
+ if you didnt around to live without you 
+ they never need them everywhere 
+ never keep me with you or it 
+ 
+ face was by what 
+ i have seen nor
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"i didnt learn to live"
+----- Generated lyrics:
+i didnt learn to live without you 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+----- Diversity:0.4
+----- Generating with seed:
+"i didnt learn to live"
+----- Generated lyrics:
+i didnt learn to live without you 
+ 
+ i shall the more to live without me 
+ 
+ ill be you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+----- Diversity:0.5
+----- Generating with seed:
+"i didnt learn to live"
+----- Generated lyrics:
+i didnt learn to live for without you 
+ 
+ never leave my eyes 
+ never take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"i didnt learn to live"
+----- Generated lyrics:
+i didnt learn to live 
+ 
+ i keep you with you 
+ 
+ youre my heart 
+ 
+ it is a dream 
+ the one who 
+ is the world of your eyelashes 
+ 
+ i am not have fragrance 
+ youre the story 
+ 
+ when i saw you are heart live in
+
+----- Diversity:0.7
+----- Generating with seed:
+"i didnt learn to live"
+----- Generated lyrics:
+i didnt learn to live boy 
+ 
+ ill keep you in my eyes 
+ tell me like the same beloved 
+ 
+ hes made by my heart whenever i have act of you 
+ 
+ theres a passion 
+ theres a passion 
+ ill shall away 
+ you 
+ 
+ dont know why the
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"me 
+ the innocent heart"
+----- Generated lyrics:
+me 
+ the innocent heart brought me sorrow well then let me accept sorrow 
+ 
+ i will show you 
+ you 
+ my days in my dreams 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"me 
+ the innocent heart"
+----- Generated lyrics:
+me 
+ the innocent heart brought me sorrow well then let me accept sorrow 
+ 
+ you will never drift apart 
+ i have sworn 
+ 
+ the bride of badri well take you away 
+ making you the bride of badri 
+ take you 
+ the bride of badri 
+ take you 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"me 
+ the innocent heart"
+----- Generated lyrics:
+me 
+ the innocent heart brought me sorrow well then let me accept sorrow 
+ 
+ sometimes ups go far 
+ oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya oya
+
+----- Diversity:0.6
+----- Generating with seed:
+"me 
+ the innocent heart"
+----- Generated lyrics:
+me 
+ the innocent heart brought me sorrow well then let me accept sorrow 
+ 
+ i will show you so 
+ 
+ my body burns of lust 
+ 
+ you never never around to you give me 
+ ill never care of me in your breaths 
+ 
+ ill keep you in my breaths
+
+----- Diversity:0.7
+----- Generating with seed:
+"me 
+ the innocent heart"
+----- Generated lyrics:
+me 
+ the innocent heart brought me sorrow well then let me accept sorrow 
+ 
+ then why will anything you so much 
+ my eyes are lust again 
+ you find me 
+ 
+ i shall only in my heart 
+ 
+ though you whenever i go you are 
+ now only you are
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"
+ given by you 
+"
+----- Generated lyrics:
+
+ given by you 
+ my eyes are saying from you 
+ 
+ these lovely eyes 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift apart 
+ never drift
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ given by you 
+"
+----- Generated lyrics:
+
+ given by you 
+ youre my love 
+ 
+ youre my heart 
+ and you are my destination 
+ 
+ these lovely passion 
+ we are only in the world of stars 
+ and you are the reason 
+ 
+ i am crying 
+ 
+ 
+ listening arent you 
+ why am you in
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ given by you 
+"
+----- Generated lyrics:
+
+ given by you 
+ we will need a reason to get separated 
+ 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ given by you 
+"
+----- Generated lyrics:
+
+ given by you 
+ i dont need them 
+ 
+ i shall have to see you 
+ 
+ never keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill i am in your dreams 
+ i shall down to see you 
+ 
+ i shall away from
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ given by you 
+"
+----- Generated lyrics:
+
+ given by you 
+ my eyes are saying in the fate our mind 
+ we shall find the most hidden 
+ being wherever you see you 
+ 
+ touch you got 
+ we wanna never go has youll find me only 
+ these shadows of mine are not just for you living in my
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"you this world 
+ is"
+----- Generated lyrics:
+you this world 
+ is my love 
+ 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name
+
+----- Diversity:0.4
+----- Generating with seed:
+"you this world 
+ is"
+----- Generated lyrics:
+you this world 
+ is a very beautiful 
+ planet a pain and we shall meet again in the world of stars now 
+ 
+ im sacrificed on you 
+ i am not infatuation 
+ 
+ you are the reason for you 
+ i have brought the in the story of all the first time
+
+----- Diversity:0.5
+----- Generating with seed:
+"you this world 
+ is"
+----- Generated lyrics:
+you this world 
+ is the story of a planet a way a planet a way 
+ we shall the go to the bride of badri 
+ 
+ you take away the reason 
+ 
+ now the world of my eyes 
+ 
+ in the world of stars now 
+ 
+ im sacrificed on you
+
+----- Diversity:0.6
+----- Generating with seed:
+"you this world 
+ is"
+----- Generated lyrics:
+you this world 
+ is you go 
+ youll find me only for these shadows of their own 
+ 
+ its full of passion in my dreams 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill
+
+----- Diversity:0.7
+----- Generating with seed:
+"you this world 
+ is"
+----- Generated lyrics:
+you this world 
+ is a listening arent you 
+ why am you in love 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"or not 
+ 
+ whether"
+----- Generated lyrics:
+or not 
+ 
+ whether i always always u shall say say u say say u 
+ feel u will feel it 
+ 
+ all the story of my dreams 
+ it is a lover to 
+ 
+ come touch me now with you 
+ 
+ i shall only 
+ 
+ in the story of
+
+----- Diversity:0.4
+----- Generating with seed:
+"or not 
+ 
+ whether"
+----- Generated lyrics:
+or not 
+ 
+ whether i always always not shall be beautiful 
+ 
+ i will show you 
+ 
+ in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in
+
+----- Diversity:0.5
+----- Generating with seed:
+"or not 
+ 
+ whether"
+----- Generated lyrics:
+or not 
+ 
+ whether i always always not madness 
+ the air of crazy with you 
+ 
+ 
+ you are mine 
+ im like a song 
+ 
+ should i love or not 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.6
+----- Generating with seed:
+"or not 
+ 
+ whether"
+----- Generated lyrics:
+or not 
+ 
+ whether you go or not 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care
+
+----- Diversity:0.7
+----- Generating with seed:
+"or not 
+ 
+ whether"
+----- Generated lyrics:
+or not 
+ 
+ whether i always always not close 
+ thy fire seems lonely 
+ when no loved one remains 
+ 
+ you shall too 
+ 
+ my life is not 
+ 
+ my tears in you 
+ i have brought the path 
+ i am not able to the creator 
+ i am
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"oh eyes 
+ deceivers 
+"
+----- Generated lyrics:
+oh eyes 
+ deceivers 
+ 
+ you are mine 
+ he has night 
+ show you 
+ in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"oh eyes 
+ deceivers 
+"
+----- Generated lyrics:
+oh eyes 
+ deceivers 
+ your eyes are big deceivers 
+ 
+ you are the days of the night 
+ you are in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+----- Diversity:0.5
+----- Generating with seed:
+"oh eyes 
+ deceivers 
+"
+----- Generated lyrics:
+oh eyes 
+ deceivers 
+ 
+ the eyes in which all the beauty of your dreams 
+ 
+ not around to you 
+ 
+ it is the story 
+ lets break my love 
+ 
+ were away from you 
+ 
+ there is a lover in my heart 
+ 
+ i shall go and again
+
+----- Diversity:0.6
+----- Generating with seed:
+"oh eyes 
+ deceivers 
+"
+----- Generated lyrics:
+oh eyes 
+ deceivers 
+ see you my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you 
+ my breaths 
+ 
+ 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"oh eyes 
+ deceivers 
+"
+----- Generated lyrics:
+oh eyes 
+ deceivers 
+ 
+ eyes in the girls everywhere 
+ the punishment and the beauty 
+ i have not fragrance and who are the heartbeat 
+ you are only what you have been veil 
+ ill die 
+ come beloved 
+ 
+ my beloved 
+ come put now now in my world 
+
+
+================================================================================

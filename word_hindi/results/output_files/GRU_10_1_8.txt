@@ -1,0 +1,966 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"tell you 
+ o dear my eyes look for you"
+----- Generated lyrics:
+tell you 
+ o dear my eyes look for you 
+ 
+ i have the name 
+ 
+ i take you 
+ 
+ you never am you 
+ 
+ i am will you 
+ 
+ i will you 
+ i am you 
+ i will never on you 
+ 
+ i am you you 
+ 
+ you i will you
+
+----- Diversity:0.4
+----- Generating with seed:
+"tell you 
+ o dear my eyes look for you"
+----- Generated lyrics:
+tell you 
+ o dear my eyes look for you 
+ 
+ i have of the eyes 
+ 
+ i meeting silence on in 
+ 
+ i i is of 
+ 
+ ill will 
+ feel you never the you 
+ 
+ never you be 
+ all my world 
+ 
+ is it the loved of my 
+ 
+ i
+
+----- Diversity:0.5
+----- Generating with seed:
+"tell you 
+ o dear my eyes look for you"
+----- Generated lyrics:
+tell you 
+ o dear my eyes look for you 
+ 
+ you are my you 
+ 
+ i am of you 
+ 
+ i have you 
+ 
+ never you think heart lost never after those 
+ ill are you on 
+ 
+ my heart in 
+ my heart 
+ in are is 
+ 
+ there the in you
+
+----- Diversity:0.6
+----- Generating with seed:
+"tell you 
+ o dear my eyes look for you"
+----- Generated lyrics:
+tell you 
+ o dear my eyes look for you 
+ 
+ my heart of you what are 
+ im the lips my a thy 
+ 
+ 
+ prayer in of the arms 
+ ive take a in 
+ 
+ are the the 
+ in o my 
+ 
+ i i only you 
+ you never am dont on never
+
+----- Diversity:0.7
+----- Generating with seed:
+"tell you 
+ o dear my eyes look for you"
+----- Generated lyrics:
+tell you 
+ o dear my eyes look for you 
+ 
+ crazy your on arms you 
+ nights you see 
+ you and me are you 
+ your more 
+ my all on 
+ ive my a is come give this 
+ ill tell is this feel 
+ on my goes 
+ beloved my 
+ 
+ 
+ i on
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ how do i let you know 
+ i"
+----- Generated lyrics:
+
+ 
+ how do i let you know 
+ i am not 
+ 
+ when my heart is with me 
+ 
+ ill leave the moments of a gone 
+ 
+ but me a little in my breaths 
+ 
+ ill keep of in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ 
+ how do i let you know 
+ i"
+----- Generated lyrics:
+
+ 
+ how do i let you know 
+ i am know you are so 
+ 
+ i am not in your eyes 
+ ill take care of your name 
+ breaths me 
+ 
+ in your on my beloved 
+ 
+ i swear it on your name my beloved 
+ 
+ i swear it on your name my beloved
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ how do i let you know 
+ i"
+----- Generated lyrics:
+
+ 
+ how do i let you know 
+ i am i am 
+ 
+ i have sworn 
+ so much never drift apart that never drift apart 
+ didnt didnt sworn 
+ beloved didnt come 
+ beloved didnt didnt come beloved didnt didnt come come didnt didnt come come didnt didnt didnt didnt om didnt didnt come didnt didnt
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ 
+ how do i let you know 
+ i"
+----- Generated lyrics:
+
+ 
+ how do i let you know 
+ i am sworn 
+ in your eyes 
+ 
+ will never drift apart in my breaths 
+ 
+ ill never goes 
+ you will never drift apart 
+ never making apart you never things 
+ 
+ you are it on you 
+ my heart is not are the 
+ in your
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ 
+ how do i let you know 
+ i"
+----- Generated lyrics:
+
+ 
+ how do i let you know 
+ i am it have in of my heart 
+ 
+ i keep you in my breaths 
+ ill ill care of girl in my breaths 
+ 
+ ill keep inside in with you 
+ ill take care of a girl 
+ breaths the face 
+ you are my 
+ 
+ in
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"you loved in the first place 
+ beloved just come"
+----- Generated lyrics:
+you loved in the first place 
+ beloved just come once in your eyes 
+ there is a little bit in your memories 
+ ill put 
+ whenever you in my heart 
+ 
+ i am only you 
+ 
+ listening me 
+ in my arms 
+ 
+ is a the whole 
+ 
+ they seems by 
+ the world
+
+----- Diversity:0.4
+----- Generating with seed:
+"you loved in the first place 
+ beloved just come"
+----- Generated lyrics:
+you loved in the first place 
+ beloved just come once in your eyes 
+ there is no a girl 
+ 
+ the new was of of boy 
+ 
+ i not not in the eyes 
+ 
+ take care of the in my breaths 
+ 
+ ill keep you 
+ in my arms 
+ there is your love 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"you loved in the first place 
+ beloved just come"
+----- Generated lyrics:
+you loved in the first place 
+ beloved just come once the beloved 
+ 
+ there is a story ive 
+ 
+ come my heart heart beloved from 
+ 
+ my heart is your name my beloved 
+ 
+ all my heart is your name 
+ i can not not in my eyes 
+ 
+ i keep you in the
+
+----- Diversity:0.6
+----- Generating with seed:
+"you loved in the first place 
+ beloved just come"
+----- Generated lyrics:
+you loved in the first place 
+ beloved just come 
+ in the night 
+ my eyes are you 
+ always 
+ in my eyes 
+ 
+ have away of in eyes 
+ 
+ i have to live live 
+ 
+ i have brought with you 
+ and can on a reason 
+ ill worship you 
+ my heart its
+
+----- Diversity:0.7
+----- Generating with seed:
+"you loved in the first place 
+ beloved just come"
+----- Generated lyrics:
+you loved in the first place 
+ beloved just come 
+ the whole heart that be a forget of 
+ 
+ i will be a lover give me 
+ but the promise of badri in my love 
+ 
+ is the worship of the eyes 
+ 
+ we is the story that 
+ try tell me 
+ without you 
+
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"beloved ooo 
+ i swear it on your name my"
+----- Generated lyrics:
+beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my
+
+----- Diversity:0.4
+----- Generating with seed:
+"beloved ooo 
+ i swear it on your name my"
+----- Generated lyrics:
+beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my
+
+----- Diversity:0.5
+----- Generating with seed:
+"beloved ooo 
+ i swear it on your name my"
+----- Generated lyrics:
+beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my
+
+----- Diversity:0.6
+----- Generating with seed:
+"beloved ooo 
+ i swear it on your name my"
+----- Generated lyrics:
+beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my
+
+----- Diversity:0.7
+----- Generating with seed:
+"beloved ooo 
+ i swear it on your name my"
+----- Generated lyrics:
+beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"dance 
+ d d d dance 
+ 
+ oh girl"
+----- Generated lyrics:
+dance 
+ d d d dance 
+ 
+ oh girl be my life 
+ you are my life 
+ 
+ i am you are the first time 
+ there is a story 
+ that sometimes have with me a little bit 
+ decorate me a little bit in your dreams 
+ keep me a little bit in your memories 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"dance 
+ d d d dance 
+ 
+ oh girl"
+----- Generated lyrics:
+dance 
+ d d d dance 
+ 
+ oh girl 
+ in your arms 
+ ill keep all the things 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of
+
+----- Diversity:0.5
+----- Generating with seed:
+"dance 
+ d d d dance 
+ 
+ oh girl"
+----- Generated lyrics:
+dance 
+ d d d dance 
+ 
+ oh girl 
+ in your arms 
+ morning in your eyes 
+ your eyes is a being without you 
+ come will my heart is yours in your life 
+ i am not in your eyes 
+ me ill see a very 
+ 
+ you i am you 
+ in the world
+
+----- Diversity:0.6
+----- Generating with seed:
+"dance 
+ d d d dance 
+ 
+ oh girl"
+----- Generated lyrics:
+dance 
+ d d d dance 
+ 
+ oh girl 
+ you are my prayer 
+ but my life are you 
+ 
+ i can be lost this 
+ 
+ ill wanna all the bride of badri well take you away 
+ making you the bride of badri well take you away 
+ making you the bride of badri well
+
+----- Diversity:0.7
+----- Generating with seed:
+"dance 
+ d d d dance 
+ 
+ oh girl"
+----- Generated lyrics:
+dance 
+ d d d dance 
+ 
+ oh girl 
+ in your arms 
+ morning in your arms 
+ 
+ i am in your prayers 
+ friends live away 
+ you have there is you are with you 
+ my heart its your for 
+ 
+ is like a flame 
+ we have been then without me a little
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"
+ theres nothing still theres something 
+ after meeting you"
+----- Generated lyrics:
+
+ theres nothing still theres something 
+ after meeting you are the weather my heart 
+ in your feelings 
+ these moments 
+ your love 
+ be loved in my heart 
+ 
+ its the sky you 
+ it is only for you 
+ 
+ i am you are in a night 
+ 
+ now you had are a tears
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ theres nothing still theres something 
+ after meeting you"
+----- Generated lyrics:
+
+ theres nothing still theres something 
+ after meeting you are the reason for me living 
+ you are the days of the night 
+ you are the worship of 
+ 
+ i am is your name 
+ that i am 
+ 
+ that has always 
+ 
+ same didnt come 
+ that beloved didnt come 
+ 
+ didnt didnt
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ theres nothing still theres something 
+ after meeting you"
+----- Generated lyrics:
+
+ theres nothing still theres something 
+ after meeting you are the the time is crazy first time 
+ it is the state of the heart 
+ 
+ are a the story 
+ 
+ hum this song 
+ the heart got a song 
+ when it seems 
+ 
+ no world 
+ we does the moment 
+ 
+ leave me
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ theres nothing still theres something 
+ after meeting you"
+----- Generated lyrics:
+
+ theres nothing still theres something 
+ after meeting you are the never 
+ im crazy prayer you 
+ the just meet and fate 
+ that can of our life 
+ 
+ as not know my my eyes 
+ 
+ and youre my heart 
+ i youre it 
+ you are the silence 
+ why do i forget you 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ theres nothing still theres something 
+ after meeting you"
+----- Generated lyrics:
+
+ theres nothing still theres something 
+ after meeting you are the weather 
+ every pain 
+ oh god are the story 
+ that beloved didnt come 
+ 
+ your face is my prayers 
+ 
+ hark heart hair 
+ 
+ im my heart song it hum the promise 
+ the tears is a come 
+ 
+ just now will
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"will have to come to me 
+ fulfill the promise"
+----- Generated lyrics:
+will have to come to me 
+ fulfill the promise that was made 
+ in my world 
+ even ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"will have to come to me 
+ fulfill the promise"
+----- Generated lyrics:
+will have to come to me 
+ fulfill the promise that was made 
+ in your heart 
+ even in your face 
+ 
+ im falling in my heart 
+ ive worship it 
+ you have night 
+ ive lost my heart ive lost it are you 
+ my heart is lost my love 
+ 
+ you are you only
+
+----- Diversity:0.5
+----- Generating with seed:
+"will have to come to me 
+ fulfill the promise"
+----- Generated lyrics:
+will have to come to me 
+ fulfill the promise that was made 
+ 
+ our wont will look for you 
+ now i will you are myself 
+ i dance madly in love just for you 
+ i promise you i am only for you 
+ i leave me 
+ 
+ when i will be leave everything 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"will have to come to me 
+ fulfill the promise"
+----- Generated lyrics:
+will have to come to me 
+ fulfill the promise that was made 
+ in your lips 
+ even in your arms 
+ now in the one 
+ be the world of your name 
+ beloved 
+ i have get the world and lonely 
+ take well silence 
+ how much will moments in love turn 
+ 
+ ill am
+
+----- Diversity:0.7
+----- Generating with seed:
+"will have to come to me 
+ fulfill the promise"
+----- Generated lyrics:
+will have to come to me 
+ fulfill the promise that was made 
+ in your heart 
+ i am crazy you 
+ in your face 
+ oh my love 
+ 
+ fate that my love 
+ 
+ its you boy in my dreams 
+ i feel it 
+ tears your lips my eyes 
+ why i swear ole on
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"going to fall in love again 
+ 
+ when there"
+----- Generated lyrics:
+going to fall in love again 
+ 
+ when there is nothing there 
+ there be your lover come and its but my heart ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.4
+----- Generating with seed:
+"going to fall in love again 
+ 
+ when there"
+----- Generated lyrics:
+going to fall in love again 
+ 
+ when there is nothing lost 
+ i will never to come 
+ fulfill the promise that was made 
+ 
+ ive always the sky of my heart 
+ ive the heart who ole ole soul 
+ ill ooo care of you in my breaths 
+ 
+ ill keep you in my eyes
+
+----- Diversity:0.5
+----- Generating with seed:
+"going to fall in love again 
+ 
+ when there"
+----- Generated lyrics:
+going to fall in love again 
+ 
+ when there is nothing only 
+ i will never the morning and your eyes 
+ then i am in your arms and night 
+ how much i will love you 
+ 
+ ill take you more than again 
+ but the world of badri 
+ queen in the same 
+ 
+ ill
+
+----- Diversity:0.6
+----- Generating with seed:
+"going to fall in love again 
+ 
+ when there"
+----- Generated lyrics:
+going to fall in love again 
+ 
+ when there is nothing with between 
+ 
+ is the the heart have these is yours 
+ but the accept and with you 
+ 
+ else had has these soul on the moments of love 
+ my heart is my you are my beloved 
+ 
+ my heart is your name my
+
+----- Diversity:0.7
+----- Generating with seed:
+"going to fall in love again 
+ 
+ when there"
+----- Generated lyrics:
+going to fall in love again 
+ 
+ when there is nothing in happiness 
+ 
+ dont like a like the world 
+ if a see a only 
+ 
+ will be you look beyond limits 
+ 
+ my world 
+ my it is know in my one 
+ 
+ now is the only of you 
+ be can i
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"own 
+ should i love or not 
+ 
+ i"
+----- Generated lyrics:
+own 
+ should i love or not 
+ 
+ i have wish to live and stop 
+ 
+ o life not know 
+ 
+ i can be in your life 
+ ill wanna am i am a girl 
+ 
+ am is a the whole 
+ 
+ is the passion 
+ my life 
+ even from a moment 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"own 
+ should i love or not 
+ 
+ i"
+----- Generated lyrics:
+own 
+ should i love or not 
+ 
+ i will wish in your eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"own 
+ should i love or not 
+ 
+ i"
+----- Generated lyrics:
+own 
+ should i love or not 
+ 
+ i will wish and like a prayer 
+ how much be you are in your dreams 
+ in my arms 
+ you 
+ in my world 
+ that my lips my my 
+ 
+ it is know 
+ my heart is lost my heart 
+ 
+ it is you are my
+
+----- Diversity:0.6
+----- Generating with seed:
+"own 
+ should i love or not 
+ 
+ i"
+----- Generated lyrics:
+own 
+ should i love or not 
+ 
+ i will wish of your eyes 
+ then youre the life in my eyes 
+ ill take you the bride of badri well take you away making making well bride of badri well take bride away making well well bride these bride of well boy take the fire of these moments
+
+----- Diversity:0.7
+----- Generating with seed:
+"own 
+ should i love or not 
+ 
+ i"
+----- Generated lyrics:
+own 
+ should i love or not 
+ 
+ i am wish of a life morning in me 
+ 
+ you are the reason for me living 
+ you are the days of my love 
+ 
+ ill keep you in the bride of badri well take you away 
+ making well bride the bride of badri well take well
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"
+ thy pair of the eyes with full of joy"
+----- Generated lyrics:
+
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ thy pair of the eyes with full of joy"
+----- Generated lyrics:
+
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ thy pair of the eyes with full of joy"
+----- Generated lyrics:
+
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ thy pair of the eyes with full of joy"
+----- Generated lyrics:
+
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ thy pair of the eyes with full of joy"
+----- Generated lyrics:
+
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full
+
+================================================================================

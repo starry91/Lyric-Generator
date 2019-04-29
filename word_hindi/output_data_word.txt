@@ -1,0 +1,1409 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"soul 
+ how do i"
+----- Generated lyrics:
+soul 
+ how do i you 
+ i am not on your breaths 
+ 
+ ill take care of you 
+ 
+ i am you 
+ 
+ i am care on your name my beloved 
+ 
+ i shall you on your name 
+ 
+ my heart is you 
+ 
+ you are a reason 
+ 
+ i am you on your name 
+ 
+ ill take care you 
+ 
+ i am not to you 
+ 
+ you are you 
+ 
+ you are you 
+ 
+ you are you 
+ 
+ you are you 
+ 
+ ill take care of you 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"soul 
+ how do i"
+----- Generated lyrics:
+soul 
+ how do i do you 
+ i am you on your breaths 
+ 
+ i am care to you 
+ 
+ i am care of you 
+ 
+ you are you 
+ 
+ the world of your breaths 
+ 
+ 
+ you are you 
+ 
+ i was not around 
+ 
+ you 
+ in my eyes 
+ 
+ take care of you 
+ you are a be with me 
+ 
+ he you are my eyes 
+ 
+ ill take you arent you 
+ 
+ i am care in your name 
+ 
+ i am you are you 
+ 
+ you are
+
+----- Diversity:0.5
+----- Generating with seed:
+"soul 
+ how do i"
+----- Generated lyrics:
+soul 
+ how do i have you 
+ 
+ you have care and 
+ the world of the world 
+ 
+ me now 
+ in my breaths 
+ 
+ you are you 
+ that you are you 
+ 
+ ill take care in the beautiful 
+ 
+ ill take care of you 
+ 
+ ill take you 
+ 
+ you know my eyes 
+ 
+ you are you 
+ in the world of you 
+ 
+ i have not on your breaths 
+ 
+ i am you to to me 
+ 
+ i am not on in my eyes 
+ 
+ ill take care of
+
+----- Diversity:0.6
+----- Generating with seed:
+"soul 
+ how do i"
+----- Generated lyrics:
+soul 
+ how do i have you in your breaths 
+ 
+ you are the comes of the dreams 
+ i have same of your breaths 
+ 
+ ill take it me 
+ 
+ never queen x 
+ never take me 
+ come 
+ 
+ i am you on your breaths 
+ 
+ you story the friend 
+ 
+ ill take you to someone 
+ 
+ i am care 
+ 
+ you are the reason 
+ the story of the eyes 
+ we take my mind 
+ 
+ me is you of you 
+ 
+ ill take you 
+ in my eyes of your breaths
+
+----- Diversity:0.7
+----- Generating with seed:
+"soul 
+ how do i"
+----- Generated lyrics:
+soul 
+ how do i the feel 
+ well have swear my mind 
+ 
+ ill take a deep of for you 
+ 
+ it is the punishment 
+ the so burns and to me 
+ you am a little didnt hey is appear 
+ i am be the breaths 
+ 
+ ill am you in my breaths 
+ 
+ we take care of you 
+ i very about the world with you 
+ ill take you is in my few 
+ 
+ are you love 
+ 
+ ill should care you go 
+ a swear my madly 
+ 
+ ill keep the moments 
+
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"every time 
+ yes the"
+----- Generated lyrics:
+every time 
+ yes the weather 
+ 
+ you are my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in
+
+----- Diversity:0.4
+----- Generating with seed:
+"every time 
+ yes the"
+----- Generated lyrics:
+every time 
+ yes the world of a eyelashes 
+ 
+ i have been robbed of everything 
+ 
+ you are not not found 
+ 
+ you are in my eyes 
+ 
+ take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"every time 
+ yes the"
+----- Generated lyrics:
+every time 
+ yes the come 
+ come beloved didnt come 
+ we shall not only again 
+ 
+ 
+ is the passion in my eyes 
+ ill take care of you in my breaths 
+ 
+ i have sworn 
+ 
+ but never ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.6
+----- Generating with seed:
+"every time 
+ yes the"
+----- Generated lyrics:
+every time 
+ yes the beauty of love is the come 
+ come beloved didnt come 
+ and beloved didnt come 
+ 
+ beloved didnt come 
+ i was promise in the world 
+ 
+ i have sworn of you 
+ youre our prayer 
+ why did i youre away to me 
+ you are me than 
+ why see you 
+ in the world of stars 
+ 
+ you are the reason 
+ ill take care on you 
+ why you care of a planet moments breaths 
+ o heart 
+ 
+ you are the is of love 
+ that you is the way
+
+----- Diversity:0.7
+----- Generating with seed:
+"every time 
+ yes the"
+----- Generated lyrics:
+every time 
+ yes the beauty of you are your breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ take it to you 
+ and see my eyes want to my heart 
+ youre such you in love 
+ 
+ always seems a few innocent heart full of a wishes 
+ 
+ but you are not beautiful 
+ 
+ queen something care of you in my breaths 
+ 
+ 
+ take the new of your eyelashes 
+ 
+ i have live without you 
+ 
+ have gone beautiful 
+ 
+ when care of you are a breaths 
+ 
+ i am
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"my dreams 
+ same body"
+----- Generated lyrics:
+my dreams 
+ same body come to you 
+ fulfill the promise that was made 
+ 
+ you are not there 
+ 
+ you are my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes
+
+----- Diversity:0.4
+----- Generating with seed:
+"my dreams 
+ same body"
+----- Generated lyrics:
+my dreams 
+ same body same to come 
+ and youre my heart 
+ you are the reason for you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+----- Diversity:0.5
+----- Generating with seed:
+"my dreams 
+ same body"
+----- Generated lyrics:
+my dreams 
+ same body my heart is your memories 
+ 
+ you are not planet 
+ 
+ you are the heartbeat 
+ 
+ the story who keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of
+
+----- Diversity:0.6
+----- Generating with seed:
+"my dreams 
+ same body"
+----- Generated lyrics:
+my dreams 
+ same body burns of you 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.7
+----- Generating with seed:
+"my dreams 
+ same body"
+----- Generated lyrics:
+my dreams 
+ same body are a beauty of you 
+ 
+ my eyes says keep you away without you 
+ 
+ we shall got these prayer in between ive day 
+ you love you leave my world 
+ 
+ i have sworn 
+ you have have by the face of a planet shes it now too all the reason 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"rain 
+ 
+ i will"
+----- Generated lyrics:
+rain 
+ 
+ i will be a lover too 
+ 
+ when you not around 
+ but always on my mind 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are the reason for me living 
+ you are the days of the night 
+ 
+ you are the reason of me living 
+ you are the days of the night 
+ you are the reason for you living 
+ you are the days of the night 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"rain 
+ 
+ i will"
+----- Generated lyrics:
+rain 
+ 
+ i will be with anyone 
+ 
+ you are the reason of me living 
+ 
+ the beloved didnt come 
+ 
+ your streets looks different 
+ 
+ when you not around 
+ but always on my mind 
+ 
+ you are the reason for me living 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ 
+ you are in the world everywhere 
+ we shall never go away from you 
+ 
+ i have sacrificed myself 
+ you in my heart 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"rain 
+ 
+ i will"
+----- Generated lyrics:
+rain 
+ 
+ i will you at the tears 
+ i have been robbed of the earth 
+ i shall not want to keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths
+
+----- Diversity:0.6
+----- Generating with seed:
+"rain 
+ 
+ i will"
+----- Generated lyrics:
+rain 
+ 
+ i will be your lover boy 
+ 
+ you are in the world of my heart 
+ you are my days 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.7
+----- Generating with seed:
+"rain 
+ 
+ i will"
+----- Generated lyrics:
+rain 
+ 
+ i will show with you 
+ that you were not meet 
+ my heart goes in your arms 
+ even with not my beloved 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in every second 
+ 
+ you are the reason for me living 
+ 
+ you are so beautiful 
+ i could die
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"heart and feelings god knows"
+----- Generated lyrics:
+heart and feelings god knows it 
+ your heart looks for you 
+ i have forgotten the whole world 
+ when you not around 
+ but always on my mind 
+ see you everywhere 
+ when you not around 
+ but always on my mind 
+ 
+ you are not there 
+ 
+ you are not there 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+----- Diversity:0.4
+----- Generating with seed:
+"heart and feelings god knows"
+----- Generated lyrics:
+heart and feelings god knows you 
+ 
+ wherever you go 
+ youll find me only 
+ these shadows of mine are mine 
+ 
+ you are not song 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes
+
+----- Diversity:0.5
+----- Generating with seed:
+"heart and feelings god knows"
+----- Generated lyrics:
+heart and feelings god knows your face 
+ i shall not not anyone 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my
+
+----- Diversity:0.6
+----- Generating with seed:
+"heart and feelings god knows"
+----- Generated lyrics:
+heart and feelings god knows it 
+ ive lost my heart ive lost it 
+ ive lost my heart ive lost it 
+ ive lost it 
+ ive lost my heart ive lost it 
+ ive lost my heart ive lost it 
+ ive lost my heart of you love all my prayer 
+ 
+ you are my heart 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of
+
+----- Diversity:0.7
+----- Generating with seed:
+"heart and feelings god knows"
+----- Generated lyrics:
+heart and feelings god knows i have you in mine in your eyes 
+ 
+ take you in the heart 
+ 
+ it is my heart its your memories 
+ he will be with you whether it is me in your memories 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"there is same noise in"
+----- Generated lyrics:
+there is same noise in which 
+ i am not there to your lover boy 
+ 
+ i am crying 
+ 
+ you are not song 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take
+
+----- Diversity:0.4
+----- Generating with seed:
+"there is same noise in"
+----- Generated lyrics:
+there is same noise in my dreams 
+ keep me a little bit 
+ your dreams 
+ keep me a little bit 
+ your dreams looks like you 
+ now you only 
+ these lips are the reason 
+ now is the story of my heart 
+ you are all the night 
+ 
+ you are my heart 
+ you are my heart 
+ you are my love 
+ 
+ you are that song of love 
+ 
+ you are that song of love 
+ 
+ you are in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you
+
+----- Diversity:0.5
+----- Generating with seed:
+"there is same noise in"
+----- Generated lyrics:
+there is same noise in which 
+ i keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"there is same noise in"
+----- Generated lyrics:
+there is same noise in which 
+ i keep a good 
+ 
+ all the path of my heart 
+ 
+ you are passion 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of
+
+----- Diversity:0.7
+----- Generating with seed:
+"there is same noise in"
+----- Generated lyrics:
+there is same noise in which 
+ i am not for you 
+ 
+ that you are not there 
+ you are not prayer 
+ you are not there 
+ who are you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"
+ nomad nomad 
+ the"
+----- Generated lyrics:
+
+ nomad nomad 
+ the season of you and the bride of badri 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ you are my lips 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ you are my lips 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ you are my lips 
+ 
+ you are my heart 
+ you are my desire
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ nomad nomad 
+ the"
+----- Generated lyrics:
+
+ nomad nomad 
+ the season of you and the evening 
+ i am sacrificed for you 
+ 
+ you are my song 
+ 
+ i have forgotten the whole world just for you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ nomad nomad 
+ the"
+----- Generated lyrics:
+
+ nomad nomad 
+ the season of you and the evening 
+ i am not there to share the pain 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ you are my lips 
+ 
+ you are my desire my love 
+ 
+ it is a very beautiful 
+ i saw her in that weather 
+ i am not there is no one knows 
+ how were i do in every prayer of mine ive asked only for you 
+ your streets are big deceivers 
+ 
+ where is the season of
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ nomad nomad 
+ the"
+----- Generated lyrics:
+
+ nomad nomad 
+ the season of you and youre my own 
+ 
+ youre my heart 
+ and youre my life 
+ 
+ it doesnt be a lover boy 
+ 
+ you are a reason for me living 
+ you are the days of the night 
+ you are a prayer 
+ 
+ you are my heart 
+ 
+ why doesnt a girl like fire 
+ its like a reason to stop you 
+ and never go away from me 
+ ill be a part of your dreams 
+ keep me a little bit in your memories 
+ keep you cry 
+ 
+ should
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ nomad nomad 
+ the"
+----- Generated lyrics:
+
+ nomad nomad 
+ the season of you the bride of badri well 
+ you are the reason for me living 
+ you are the days of the night 
+ you are the same 
+ and yet i would love you all my love 
+ 
+ i am still alone x 
+ 
+ its you boy like a girl 
+ 
+ i shall not live from me 
+ 
+ i have been robbed of everything in your love 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"dama dam 
+ dance a"
+----- Generated lyrics:
+dama dam 
+ dance a little darling dam dama dam 
+ 
+ listen to me 
+ and my soul not around 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in
+
+----- Diversity:0.4
+----- Generating with seed:
+"dama dam 
+ dance a"
+----- Generated lyrics:
+dama dam 
+ dance a little darling go dama dam 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"dama dam 
+ dance a"
+----- Generated lyrics:
+dama dam 
+ dance a little darling go 
+ where he had a bride of myself 
+ forget me my heart 
+ 
+ theres something special in your eyes 
+ your breath is the wind 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill
+
+----- Diversity:0.6
+----- Generating with seed:
+"dama dam 
+ dance a"
+----- Generated lyrics:
+dama dam 
+ dance a little darling dam dama dam 
+ 
+ listen to me 
+ and my soul not around 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my love 
+ 
+ if you are in my dreams 
+ i shall not want to live without you now 
+ never leave my arms 
+ never go away without you 
+ 
+ that you were not had 
+ what would be there to search out 
+ that you were not had 
+ what would be there to search out 
+ 
+ you are
+
+----- Diversity:0.7
+----- Generating with seed:
+"dama dam 
+ dance a"
+----- Generated lyrics:
+dama dam 
+ dance a little darling dam dama dam 
+ 
+ listen to show you 
+ 
+ you are my my desire 
+ even though that you are not there 
+ in the heart and beloved 
+ 
+ you are not song 
+ 
+ you are not prayer 
+ you are my lips 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ 
+ you are my prayer 
+ you are my heart i shall lose myself in her beauty 
+ i was sacrificed myself on you 
+ i am the world of myself 
+ how
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"
+ i can not live"
+----- Generated lyrics:
+
+ i can not live without you 
+ o heart is you 
+ 
+ you are my heart 
+ 
+ you are my desire 
+ that you are not there 
+ you are not prayer 
+ you are my lips 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my love 
+ 
+ you are my desire 
+ you are my heart 
+ you are my love 
+ 
+ you are in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ i can not live"
+----- Generated lyrics:
+
+ i can not live without you 
+ 
+ never leave my arms 
+ never go away without you 
+ and set die with you 
+ 
+ you are my desire 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ 
+ you are not song 
+ 
+ you are not song 
+ 
+ that you are not there 
+ you are not prayer 
+ you are my lips 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my love 
+ 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ i can not live"
+----- Generated lyrics:
+
+ i can not live from you 
+ 
+ you are my breath 
+ 
+ you are not song 
+ my heart is in your love 
+ 
+ i cant live cant live cant live without you 
+ you never leave me arms 
+ never leave your arms 
+ never go away without you 
+ that is there is in your eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ i can not live"
+----- Generated lyrics:
+
+ i can not live without you 
+ 
+ never leave my arms 
+ never go away without you 
+ ill be a good to any separated 
+ to return back to again 
+ there are there to a face 
+ 
+ o life can be stolen 
+ i can leave this of love 
+ 
+ without you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ i can not live"
+----- Generated lyrics:
+
+ i can not live without you 
+ 
+ never leave your arms 
+ never go away without you 
+ and set die with you too 
+ 
+ im sacrificed on you 
+ 
+ you are my heart 
+ you are the reason for me living 
+ you are the days of the night 
+ you are in my eyes 
+ these lovely eyes are big prayer 
+ you are my lips 
+ 
+ you are my prayer 
+ you are my lips 
+ 
+ you keep my beloved 
+ 
+ whatever punishment you in what 
+ how do i do i do i do
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"o man of my dreams"
+----- Generated lyrics:
+o man of my dreams 
+ 
+ you are a song 
+ 
+ i have forgotten the whole world 
+ no one what is able to find my love 
+ 
+ 
+ im in love you 
+ 
+ i have been robbed of everything in your love 
+ suffering suffering from inside this heart came out sighs 
+ you gave me the punishment in love what what do i have to live without you 
+ o heart is here 
+ 
+ you are the reason for me living 
+ you are the days of the night 
+ you are my prayer 
+ you are my
+
+----- Diversity:0.4
+----- Generating with seed:
+"o man of my dreams"
+----- Generated lyrics:
+o man of my dreams 
+ 
+ you are a river 
+ you are in my dreams 
+ 
+ you are a river 
+ you hide in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes
+
+----- Diversity:0.5
+----- Generating with seed:
+"o man of my dreams"
+----- Generated lyrics:
+o man of my dreams 
+ 
+ you are a song 
+ 
+ you keep a river 
+ sometime you keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.6
+----- Generating with seed:
+"o man of my dreams"
+----- Generated lyrics:
+o man of my dreams 
+ 
+ you are a song 
+ 
+ you are not song 
+ 
+ your love has become love 
+ i have like a flame like fire 
+ its like a river 
+ that we have been robbed 
+ that i have been robbed of everything in your love 
+ suffering suffering from inside this heart came out sighs 
+ you gave me the punishment in love what what feeling of the heart 
+ so much i love you 
+ as well as 
+ look like one there is a little too 
+ ive lost only you 
+ o heart
+
+----- Diversity:0.7
+----- Generating with seed:
+"o man of my dreams"
+----- Generated lyrics:
+o man of my dreams 
+ 
+ you are a river 
+ you are that song of love that my heart is in your arms 
+ 
+ i swear it on your name my beloved 
+ 
+ my beloved 
+ 
+ 
+ as if your heart 
+ wait for you 
+ youre my heart 
+ you are my heart 
+ 
+ you are so beautiful 
+ i could die to see you 
+ im yours in the same 
+ 
+ stuck more life 
+ 
+ is a new story of a boy and a girl 
+ 
+ you keep me a little 
+ in your
+
+================================================================================

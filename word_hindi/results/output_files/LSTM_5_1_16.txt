@@ -1,0 +1,910 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"
+ our love story 
+"
+----- Generated lyrics:
+
+ our love story 
+ 
+ you are you 
+ in my eyes 
+ i am not on you 
+ 
+ i am you on you 
+ 
+ you are my eyes 
+ 
+ i am not on you 
+ 
+ i am you in my breaths 
+ 
+ i am in you 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ our love story 
+"
+----- Generated lyrics:
+
+ our love story 
+ i am you on your name 
+ 
+ i have to live without you 
+ 
+ i have am on you 
+ 
+ ill take you in my eyes 
+ 
+ ill take you on you 
+ 
+ you are you 
+ it 
+ i am not on you 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ our love story 
+"
+----- Generated lyrics:
+
+ our love story 
+ 
+ take me in your eyes 
+ 
+ you are my heart 
+ 
+ i am you in my breaths 
+ 
+ you are you 
+ 
+ the sky of your own 
+ 
+ you are a moments 
+ i have not 
+ 
+ other keep you the eyes 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ our love story 
+"
+----- Generated lyrics:
+
+ our love story 
+ 
+ a you was around of me 
+ you is a you beautiful 
+ from you are 
+ i am you on my name 
+ i am you on the dreams 
+ 
+ you these happen of you 
+ are you are i would 
+ on you 
+ 
+ i
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ our love story 
+"
+----- Generated lyrics:
+
+ our love story 
+ lets just going from your us 
+ 
+ my arms 
+ be when my eyes its my two 
+ 
+ it is the made of i am something 
+ 
+ i do you on your name 
+ 
+ you this love and the moment 
+ there for you on be
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"it 
+ ive lost it"
+----- Generated lyrics:
+it 
+ ive lost it 
+ always on my mind 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of
+
+----- Diversity:0.4
+----- Generating with seed:
+"it 
+ ive lost it"
+----- Generated lyrics:
+it 
+ ive lost it on you 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my breaths 
+ ill take care of you in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"it 
+ ive lost it"
+----- Generated lyrics:
+it 
+ ive lost it 
+ that i have been robbed of the air 
+ 
+ i have sworn 
+ you shall not around in the world of full of happiness 
+ 
+ you go not around 
+ ill take care of you in my breaths 
+ 
+ ill take care of you in my
+
+----- Diversity:0.6
+----- Generating with seed:
+"it 
+ ive lost it"
+----- Generated lyrics:
+it 
+ ive lost it and so come 
+ 
+ he take you were for a smile 
+ 
+ im a planet to live without you 
+ 
+ ill take care of you in my breaths 
+ 
+ my life is the heartbeat that i have to live without you 
+ 
+ ill take care
+
+----- Diversity:0.7
+----- Generating with seed:
+"it 
+ ive lost it"
+----- Generated lyrics:
+it 
+ ive lost it was an reason 
+ makes god the way 
+ you have part in me 
+ ill take care of you in my breaths 
+ 
+ take care of you in my breaths 
+ 
+ take care of you in my breaths 
+ 
+ theres a a moment living now 
+
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"
+ he knows everything about"
+----- Generated lyrics:
+
+ he knows everything about magic in my eyes 
+ ill take care of you in my breaths 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ he knows everything about"
+----- Generated lyrics:
+
+ he knows everything about magic in the world of our eyelashes 
+ 
+ i keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ he knows everything about"
+----- Generated lyrics:
+
+ he knows everything about you in the path 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ he knows everything about"
+----- Generated lyrics:
+
+ he knows everything about we know 
+ we will call you in the world 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ he knows everything about"
+----- Generated lyrics:
+
+ he knows everything about you 
+ getting by my arms 
+ i am not there 
+ who always ole ole ole 
+ ole ole ole ole 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep something in my eyes 
+ ill take care of you in my breaths 
+
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"life 
+ i have made"
+----- Generated lyrics:
+life 
+ i have made of in my eyes 
+ 
+ take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.4
+----- Generating with seed:
+"life 
+ i have made"
+----- Generated lyrics:
+life 
+ i have made of the destiny 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"life 
+ i have made"
+----- Generated lyrics:
+life 
+ i have made of you too 
+ how much do you not understand 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of
+
+----- Diversity:0.6
+----- Generating with seed:
+"life 
+ i have made"
+----- Generated lyrics:
+life 
+ i have made of the path only 
+ 
+ you know in the world 
+ we shall not around to sleep 
+ 
+ my heart ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.7
+----- Generating with seed:
+"life 
+ i have made"
+----- Generated lyrics:
+life 
+ i have made of in my dreams 
+ 
+ these lovely breaths 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"o what a look what"
+----- Generated lyrics:
+o what a look what to grace 
+ i dont want to live without you now 
+ never leave my arms 
+ never go away without you 
+ 
+ i wanna be your lover boy 
+ 
+ im only for you now 
+ you are the reason for a moment 
+ ill keep you in
+
+----- Diversity:0.4
+----- Generating with seed:
+"o what a look what"
+----- Generated lyrics:
+o what a look what to grace and you 
+ in my prayers 
+ in every prayer of mine ive asked only for you 
+ your fire from my streets 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"o what a look what"
+----- Generated lyrics:
+o what a look what to grace and it with you 
+ my mind 
+ how could i forget those understand 
+ i will feel crazy 
+ and is the story of the story 
+ these shadows of mine are free in your dreams 
+ it is a lover a few moments in love 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"o what a look what"
+----- Generated lyrics:
+o what a look what to smile 
+ even if you arent you 
+ in every prayer of mine ive asked only for you 
+ your memories 
+ the season that was always in in my arms 
+ 
+ we are a good home 
+ ive seen a grace from me 
+ 
+ you in
+
+----- Diversity:0.7
+----- Generating with seed:
+"o what a look what"
+----- Generated lyrics:
+o what a look what to grace 
+ you know in my eyes 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"two 
+ forget the way"
+----- Generated lyrics:
+two 
+ forget the way 
+ that i am not able to walk 
+ 
+ i am a lover 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"two 
+ forget the way"
+----- Generated lyrics:
+two 
+ forget the way 
+ that i am not able to walk 
+ 
+ the story goes that this heart 
+ morning is a lover to me 
+ 
+ making you x 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you
+
+----- Diversity:0.5
+----- Generating with seed:
+"two 
+ forget the way"
+----- Generated lyrics:
+two 
+ forget the way 
+ that i am not able to tell you 
+ 
+ these moments the new seems lonely 
+ 
+ you are my reason 
+ ill take you away 
+ 
+ you are my gaze 
+ 
+ you are the reason for me living 
+ you are the days of the
+
+----- Diversity:0.6
+----- Generating with seed:
+"two 
+ forget the way"
+----- Generated lyrics:
+two 
+ forget the way 
+ 
+ that you were not had 
+ what would be there to search out 
+ that you were not had 
+ what would be there to search out 
+ you were my song 
+ 
+ i am not able to walk 
+ 
+ there is a lover everything 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"two 
+ forget the way"
+----- Generated lyrics:
+two 
+ forget the way 
+ your keeps on me 
+ whenever you only friend 
+ as close 
+ these lips are mine 
+ well take you away 
+ making you 
+ without you 
+ o my body burns of lust 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"
+ hey when did you"
+----- Generated lyrics:
+
+ hey when did you show me such a little too 
+ 
+ youre listening right 
+ i am crying 
+ 
+ who got you to us 
+ 
+ in which i have to live without me 
+ 
+ never leave my arms 
+ never go away without you 
+ 
+ i am sacrificed on
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ hey when did you"
+----- Generated lyrics:
+
+ hey when did you show in your arms 
+ 
+ i keep you with me 
+ its just complete madness in the air 
+ 
+ 
+ no matter how i will be no 
+ and then wherever you go 
+ youll find me only 
+ these shadows of mine are forgotten all this way
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ hey when did you"
+----- Generated lyrics:
+
+ hey when did you say farewell 
+ farewell could someone ask by what she 
+ i shall not tell anyone 
+ 
+ you are my life 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ hey when did you"
+----- Generated lyrics:
+
+ hey when did you say farewell 
+ farewell now she was a little bit 
+ decorate its a little bit since decorate it night too 
+ in my heart 
+ ive lost my heart ive lost it 
+ ive lost my heart and you are a little 
+ in my dreams 
+ in my
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ hey when did you"
+----- Generated lyrics:
+
+ hey when did you arent show 
+ 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"had to 
+ 
+ there"
+----- Generated lyrics:
+had to 
+ 
+ there is a lover everything 
+ 
+ youre my heart 
+ and it new new season 
+ i have lived a complete boy in me 
+ then youll know how much 
+ these memory 
+ when i not around 
+ but always on my mind 
+ see you everywhere 
+ when
+
+----- Diversity:0.4
+----- Generating with seed:
+"had to 
+ 
+ there"
+----- Generated lyrics:
+had to 
+ 
+ there is a lover everything 
+ 
+ youre not to me 
+ 
+ youll find me only 
+ these shadows of mine are everything 
+ let me a lover a very beautiful 
+ i have lost in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"had to 
+ 
+ there"
+----- Generated lyrics:
+had to 
+ 
+ there is a lover gone 
+ 
+ you are in my dreams 
+ 
+ i shall not touch anyone 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"had to 
+ 
+ there"
+----- Generated lyrics:
+had to 
+ 
+ there is a lover everything 
+ 
+ youre not to me 
+ 
+ o my body burns of lust 
+ o body body burns of lust 
+ o my body burns of lust 
+ o body body burns of lust 
+ o my body burns of lust 
+ o my body
+
+----- Diversity:0.7
+----- Generating with seed:
+"had to 
+ 
+ there"
+----- Generated lyrics:
+had to 
+ 
+ there is your lover everything 
+ 
+ you will feel it 
+ even the story 
+ we will meet a way to a home and the sky and the clouds are love 
+ all the fate of the world 
+ the story goes a story to live the memories 
+ 
+
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"know dont know dont know"
+----- Generated lyrics:
+know dont know dont know 
+ dont know you dont know 
+ when i know 
+ i am a crazy 
+ 
+ loneliness seems what i have to live without you 
+ 
+ never leave my eyes 
+ never go away without you 
+ 
+ you are my desire 
+ you are not there 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"know dont know dont know"
+----- Generated lyrics:
+know dont know dont know when you were not 
+ 
+ what would be there to search out 
+ you were not had 
+ what would be in her 
+ whenever i see you girl 
+ 
+ i will want to live without you now 
+ never leave my arms 
+ never go away without
+
+----- Diversity:0.5
+----- Generating with seed:
+"know dont know dont know"
+----- Generated lyrics:
+know dont know dont know dont know 
+ you dont know when it seems 
+ 
+ every second you eyes 
+ what has you do 
+ these lovely eyes only ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.6
+----- Generating with seed:
+"know dont know dont know"
+----- Generated lyrics:
+know dont know dont know you know 
+ you dont know you are a not lonely 
+ and our beloved 
+ 
+ o beloved 
+ 
+ you are the reason for me living 
+ 
+ what is a beautiful dream 
+ we have seen a reason to find a heart 
+ 
+ please keep you
+
+----- Diversity:0.7
+----- Generating with seed:
+"know dont know dont know"
+----- Generated lyrics:
+know dont know dont know dont know dont know dont know when i know 
+ 
+ i live without you 
+ 
+ never leave my eyes 
+ never go away without you 
+ 
+ you are the reason to live 
+ why did you go 
+ 
+ i am in your arms 
+ loneliness feels
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"you have the way of"
+----- Generated lyrics:
+you have the way of the moments 
+ i am not for your head 
+ give me a turn two 
+ ive seen what would be there to search out 
+ that you were not had 
+ what would be there to search out 
+ that you were not had 
+ what would be there
+
+----- Diversity:0.4
+----- Generating with seed:
+"you have the way of"
+----- Generated lyrics:
+you have the way of the moments 
+ i am some more than everything 
+ i have to live away from you 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"you have the way of"
+----- Generated lyrics:
+you have the way of the moments 
+ i am the one who 
+ 
+ you keep me in me 
+ 
+ i shall not go away with you 
+ and you are so beautiful 
+ i could die to see you 
+ 
+ ive forgotten you 
+ then why do you memories 
+ make
+
+----- Diversity:0.6
+----- Generating with seed:
+"you have the way of"
+----- Generated lyrics:
+you have the way of your eyes 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ you are my life is lost 
+ that you are in front of me 
+ i am very crazy 
+ 
+ i agree that i have to myself 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"you have the way of"
+----- Generated lyrics:
+you have the way of the moments 
+ love you 
+ 
+ my heart is your fault 
+ my beloved 
+ 
+ you are the reason for me living 
+ you are the days and the distance 
+ every moment is mine 
+ 
+ you are mine 
+ 
+ you are mine 
+ 
+ you
+
+================================================================================

@@ -1,0 +1,994 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"o o 
+ na na na na na 
+ why"
+----- Generated lyrics:
+o o 
+ na na na na na 
+ why na apart swear na na na beloved 
+ 
+ it swear on your name 
+ 
+ i will you 
+ 
+ i am will this 
+ 
+ 
+ i will is this 
+ 
+ i am be a to you 
+ 
+ i will these on 
+ 
+ i i
+
+----- Diversity:0.4
+----- Generating with seed:
+"o o 
+ na na na na na 
+ why"
+----- Generated lyrics:
+o o 
+ na na na na na 
+ why na nan disturbed dream saying 
+ 
+ 
+ i the on the name 
+ 
+ i have getting seems my eyes 
+ 
+ i o for you 
+ 
+ i will i 
+ on you 
+ 
+ i have all in 
+ 
+ i will i have on with 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"o o 
+ na na na na na 
+ why"
+----- Generated lyrics:
+o o 
+ na na na na na 
+ why na na state different na hare seems earth 
+ you are a you the words 
+ i am doesnt ill you 
+ how will memory where in you 
+ 
+ never ill it on eyes eyes 
+ 
+ i i will on in 
+ 
+ 
+ yet a a a
+
+----- Diversity:0.6
+----- Generating with seed:
+"o o 
+ na na na na na 
+ why"
+----- Generated lyrics:
+o o 
+ na na na na na 
+ why oya you more o 
+ how keep 
+ 
+ i it am breath of the know 
+ 
+ at are you my 
+ 
+ i have him stop the 
+ nomad loneliness times whole lost 
+ 
+ i im that see in 
+ 
+ 
+ come i getting your never
+
+----- Diversity:0.7
+----- Generating with seed:
+"o o 
+ na na na na na 
+ why"
+----- Generated lyrics:
+o o 
+ na na na na na 
+ why burns wait whenever hope oya one 
+ you 
+ keep my your are 
+ i have your the been beauty my eyes beloved 
+ 
+ you when you is your to has 
+ downs 
+ i every in live you 
+ for the you 
+ you a my 
+ stop
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"say yes 
+ say yes say yes 
+ say yes"
+----- Generated lyrics:
+say yes 
+ say yes say yes 
+ say yes a little bit 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion 
+ theres a passion 
+ living a passion 
+ theres a passion 
+ theres a passion 
+ theres a passion 
+ theres a passion 
+ theres a passion
+
+----- Diversity:0.4
+----- Generating with seed:
+"say yes 
+ say yes say yes 
+ say yes"
+----- Generated lyrics:
+say yes 
+ say yes say yes 
+ say yes paths that say that there 
+ that it on my heart 
+ 
+ ill care care girl 
+ in my breaths 
+ ill keep you 
+ i have sworn 
+ 
+ but my beloved 
+ 
+ i am not 
+ 
+ when i am been robbed 
+ 
+ 
+ i
+
+----- Diversity:0.5
+----- Generating with seed:
+"say yes 
+ say yes say yes 
+ say yes"
+----- Generated lyrics:
+say yes 
+ say yes say yes 
+ say yes it was 
+ that we on you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care in you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care you you in my breaths 
+ 
+ ill keep you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"say yes 
+ say yes say yes 
+ say yes"
+----- Generated lyrics:
+say yes 
+ say yes say yes 
+ say yes were take you 
+ 
+ theres a passion 
+ theres a passion 
+ living a passion 
+ my heart 
+ in my name my beloved 
+ 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it
+
+----- Diversity:0.7
+----- Generating with seed:
+"say yes 
+ say yes say yes 
+ say yes"
+----- Generated lyrics:
+say yes 
+ say yes say yes 
+ say yes deceivers 
+ now what is a punishment 
+ and now how ill keep you 
+ 
+ can left me in in my eyes 
+ with me of a in in it breaths 
+ ill could in the 
+ 
+ no look since just again 
+ 
+ the passion are my
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"and came to you 
+ the tears in my eyes"
+----- Generated lyrics:
+and came to you 
+ the tears in my eyes 
+ ill take you 
+ making you 
+ breaths my arms 
+ 
+ it youre my heart 
+ and youre my life 
+ 
+ all my life 
+ you are arent a girl 
+ 
+ i have had good in my arms 
+ 
+ i see you in my eyes
+
+----- Diversity:0.4
+----- Generating with seed:
+"and came to you 
+ the tears in my eyes"
+----- Generated lyrics:
+and came to you 
+ the tears in my eyes 
+ in my eyes 
+ decorate me 
+ whenever i will break your heart 
+ in my love 
+ be there is only in my eyes 
+ ill take you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes
+
+----- Diversity:0.5
+----- Generating with seed:
+"and came to you 
+ the tears in my eyes"
+----- Generated lyrics:
+and came to you 
+ the tears in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my
+
+----- Diversity:0.6
+----- Generating with seed:
+"and came to you 
+ the tears in my eyes"
+----- Generated lyrics:
+and came to you 
+ the tears in my eyes 
+ in your eyes 
+ keep me 
+ my heart is a memories 
+ ill keep you in my heart 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep
+
+----- Diversity:0.7
+----- Generating with seed:
+"and came to you 
+ the tears in my eyes"
+----- Generated lyrics:
+and came to you 
+ the tears in my eyes 
+ 
+ ill falling in this heart 
+ way without u 
+ my heart is lost in my love 
+ ive keep me my heart is it 
+ ive lost it in your name my heart 
+ 
+ it is a lover boy 
+ living dreams 
+ ill keep you
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"my love 
+ 
+ in front of the whole world"
+----- Generated lyrics:
+my love 
+ 
+ in front of the whole world 
+ 
+ the world of the love 
+ 
+ story is only 
+ in love love 
+ 
+ im me 
+ the world of your heart 
+ my love is my heart 
+ it is your lover my love 
+ 
+ my love 
+ my love 
+ 
+ my heart
+
+----- Diversity:0.4
+----- Generating with seed:
+"my love 
+ 
+ in front of the whole world"
+----- Generated lyrics:
+my love 
+ 
+ in front of the whole world 
+ 
+ what is your lover is 
+ 
+ but you are my eyes are 
+ 
+ out you are my days 
+ in the world of our fate and my love 
+ 
+ 
+ ill keep you in my breaths 
+ ill take care of you in my breaths
+
+----- Diversity:0.5
+----- Generating with seed:
+"my love 
+ 
+ in front of the whole world"
+----- Generated lyrics:
+my love 
+ 
+ in front of the whole world 
+ 
+ the world of the reason and in this 
+ 
+ 
+ my love is the one 
+ when did i know 
+ this 
+ that did did i have been thoughts 
+ when did i have of this 
+ 
+ when did i have these thoughts 
+ when
+
+----- Diversity:0.6
+----- Generating with seed:
+"my love 
+ 
+ in front of the whole world"
+----- Generated lyrics:
+my love 
+ 
+ in front of the whole world 
+ 
+ as the story is the been 
+ sometimes story is girl 
+ a sky after decorate your heart ive my heart 
+ ive my heart ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.7
+----- Generating with seed:
+"my love 
+ 
+ in front of the whole world"
+----- Generated lyrics:
+my love 
+ 
+ in front of the whole world 
+ 
+ for you i have in my love 
+ 
+ you are my reason 
+ you are think 
+ you know 
+ i will be you in my heart 
+ ive all a flame 
+ how much do i love you 
+ 
+ the destiny is my heart 
+
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"am still alone there 
+ beloved if you were going"
+----- Generated lyrics:
+am still alone there 
+ beloved if you were going to break my heart 
+ tell me why you loved in the first place 
+ beloved come here 
+ is beloved 
+ 
+ there is a story 
+ that i have been clouds morning now body come to the world 
+ our world seems lonely 
+ 
+ when no loved
+
+----- Diversity:0.4
+----- Generating with seed:
+"am still alone there 
+ beloved if you were going"
+----- Generated lyrics:
+am still alone there 
+ beloved if you were going to break my heart 
+ tell me why you loved in the first place 
+ beloved come here 
+ is beloved 
+ 
+ there was a story for the beauty like your clouds 
+ i have is the beauty of your face 
+ im falling for the beauty of the
+
+----- Diversity:0.5
+----- Generating with seed:
+"am still alone there 
+ beloved if you were going"
+----- Generated lyrics:
+am still alone there 
+ beloved if you were going to break my heart 
+ tell me why you loved 
+ the first place are beloved 
+ 
+ i have brought the whole heart 
+ 
+ have the clouds are the 
+ youre the things 
+ that seems that i will never go 
+ without you 
+ 
+ same its
+
+----- Diversity:0.6
+----- Generating with seed:
+"am still alone there 
+ beloved if you were going"
+----- Generated lyrics:
+am still alone there 
+ beloved if you were going to break my heart 
+ tell me why you loved in the first place 
+ beloved come here is like 
+ 
+ in my love 
+ are it has like a whole of the 
+ now the new of myself on my lips 
+ 
+ it seems as if a
+
+----- Diversity:0.7
+----- Generating with seed:
+"am still alone there 
+ beloved if you were going"
+----- Generated lyrics:
+am still alone there 
+ beloved if you were going to break my heart 
+ tell me why you loved in the first place are beloved 
+ 
+ i have brought the your heart is beloved ooo 
+ i will it is your eyes 
+ beloved if you know 
+ it is my heart 
+ there is a loved for
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"it did 
+ 
+ love was meant to happen 
+"
+----- Generated lyrics:
+it did 
+ 
+ love was meant to happen 
+ it was meant to happen and it did 
+ i was city to your happen 
+ it was necessary 
+ as well river of you 
+ all the world of our on the world of you 
+ 
+ ill keep you in my heart 
+ ill take care of you
+
+----- Diversity:0.4
+----- Generating with seed:
+"it did 
+ 
+ love was meant to happen 
+"
+----- Generated lyrics:
+it did 
+ 
+ love was meant to happen 
+ it was meant to happen and it was as 
+ ive lost it to you 
+ ive lost it to you 
+ it is that my love 
+ 
+ my heart is different from me 
+ this is the first time 
+ come loved that you that 
+ 
+ beloved
+
+----- Diversity:0.5
+----- Generating with seed:
+"it did 
+ 
+ love was meant to happen 
+"
+----- Generated lyrics:
+it did 
+ 
+ love was meant to happen 
+ it was necessary 
+ love and so right 
+ i feel it to see 
+ 
+ give me some so in it on your name drenched 
+ come 
+ be swear it on your name my beloved ooo 
+ i swear it on your name my beloved 
+ 
+ my
+
+----- Diversity:0.6
+----- Generating with seed:
+"it did 
+ 
+ love was meant to happen 
+"
+----- Generated lyrics:
+it did 
+ 
+ love was meant to happen 
+ it was can spend my love 
+ 
+ oh love of my love 
+ 
+ it looks that u that that we got became after one everything 
+ no one one 
+ in the world 
+ 
+ like the world seems lonely 
+ 
+ when i found you 
+ 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"it did 
+ 
+ love was meant to happen 
+"
+----- Generated lyrics:
+it did 
+ 
+ love was meant to happen 
+ it was meant to happen and it was as 
+ 
+ i only your part much 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ your face is different from out 
+ we can have been a dream 
+ these
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"i have been robbed 
+ that i have been robbed"
+----- Generated lyrics:
+i have been robbed 
+ that i have been robbed of everything in your love 
+ this love is the one of love 
+ just is like a a 
+ 
+ break after stay a lost 
+ i will be in your world 
+ 
+ my heart be your lover dam 
+ 
+ its the flame of love 
+ sometimes
+
+----- Diversity:0.4
+----- Generating with seed:
+"i have been robbed 
+ that i have been robbed"
+----- Generated lyrics:
+i have been robbed 
+ that i have been robbed of everything in your love 
+ decorate your lips on my lips 
+ now tell me who are you 
+ break yourself feelings in your arms 
+ you dont know 
+ dont know you dont know about i dont know dont know dont know dont know dont know dont know
+
+----- Diversity:0.5
+----- Generating with seed:
+"i have been robbed 
+ that i have been robbed"
+----- Generated lyrics:
+i have been robbed 
+ that i have been robbed of everything in your love 
+ this love is the one of love 
+ this is my love 
+ 
+ there is no one 
+ 
+ sometimes be lonely 
+ big one be made 
+ we do i have to lose 
+ let the moment what can be take 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"i have been robbed 
+ that i have been robbed"
+----- Generated lyrics:
+i have been robbed 
+ that i have been robbed of everything in your love 
+ decorate your lips on my lips 
+ now tell me who are you 
+ break yourself feelings in your arms 
+ you dont know you dont know 
+ i dont know dont know 
+ dont know dont know dont know dont know dont know
+
+----- Diversity:0.7
+----- Generating with seed:
+"i have been robbed 
+ that i have been robbed"
+----- Generated lyrics:
+i have been robbed 
+ that i have been robbed of everything in your love 
+ this will is in your arms 
+ 
+ it is the world of the eyes are in my eyes 
+ 
+ my eyes are big learn 
+ know it 
+ 
+ the heart has a life here once 
+ this was path will moments
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"beautiful 
+ now that you share my pain 
+ 
+"
+----- Generated lyrics:
+beautiful 
+ now that you share my pain 
+ 
+ that you share my pain 
+ now that you share my pain 
+ every pain is beautiful 
+ now that you share my pain 
+ 
+ my life share your name 
+ i wanna be your lover boy it 
+ i wanna be your lover boy i wanna 
+ i
+
+----- Diversity:0.4
+----- Generating with seed:
+"beautiful 
+ now that you share my pain 
+ 
+"
+----- Generated lyrics:
+beautiful 
+ now that you share my pain 
+ 
+ that you share my pain 
+ now that you share my pain 
+ 
+ that there is your lover my lips 
+ 
+ ill keep you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ 
+ your
+
+----- Diversity:0.5
+----- Generating with seed:
+"beautiful 
+ now that you share my pain 
+ 
+"
+----- Generated lyrics:
+beautiful 
+ now that you share my pain 
+ 
+ that there share your pain 
+ that beloved didnt here 
+ why is i breath 
+ your heart its your fault 
+ my heart its your fault 
+ why did you know 
+ 
+ why every moment in your eyes 
+ beloved didnt come 
+ why beloved didnt come 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"beautiful 
+ now that you share my pain 
+ 
+"
+----- Generated lyrics:
+beautiful 
+ now that you share my pain 
+ 
+ that you share my pain 
+ now that you share my pain 
+ that pain there that is pain 
+ that stuck wish that is your lips love 
+ there is your lover world 
+ from my lover moon 
+ from your life moon 
+ your face i see all
+
+----- Diversity:0.7
+----- Generating with seed:
+"beautiful 
+ now that you share my pain 
+ 
+"
+----- Generated lyrics:
+beautiful 
+ now that you share my pain 
+ 
+ that dont know 
+ that you know 
+ 
+ in every moment of mine were here only 
+ my heart has saying 
+ why did you know 
+ that i have been never away 
+ just you know of the eyes 
+ full of joy has disturbed me 
+ thy
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"without you 
+ without you i dont feel good o"
+----- Generated lyrics:
+without you 
+ without you i dont feel good o my love 
+ living with your life i wish to get mine 
+ dont know this world of as 
+ 
+ you are the one of my heart 
+ ill keep you in my heart 
+ ill take care of you in my breaths 
+ 
+ ill keep you in
+
+----- Diversity:0.4
+----- Generating with seed:
+"without you 
+ without you i dont feel good o"
+----- Generated lyrics:
+without you 
+ without you i dont feel good o my love 
+ living with your moment 
+ wish to my lips for my moment 
+ 
+ i have your fault 
+ for you 
+ i will be u 
+ should i have sworn 
+ your heart is had living of my eyes 
+ in our eyes 
+ in my
+
+----- Diversity:0.5
+----- Generating with seed:
+"without you 
+ without you i dont feel good o"
+----- Generated lyrics:
+without you 
+ without you i dont feel good o my love 
+ living leave you 
+ feel wish my love 
+ its like a colorful 
+ i have been like a single 
+ just dont know of this heart 
+ will you are in my thoughts 
+ i have good lets not 
+ 
+ who knows what has happened
+
+----- Diversity:0.6
+----- Generating with seed:
+"without you 
+ without you i dont feel good o"
+----- Generated lyrics:
+without you 
+ without you i dont feel good o my love 
+ living leave your arms 
+ wish for you in the same 
+ and my prayer are not 
+ 
+ youre my heart and my will love 
+ how do i do 
+ 
+ i am come 
+ that one feels 
+ 
+ should i see a girl
+
+----- Diversity:0.7
+----- Generating with seed:
+"without you 
+ without you i dont feel good o"
+----- Generated lyrics:
+without you 
+ without you i dont feel good o my love 
+ living away your you 
+ desires to take you in the world of 
+ ive asked in the reason 
+ your face is my lips 
+ my eyes are in my eyes 
+ i want you are in my eyes 
+ in my heart 
+ in my
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"for a moment 
+ i want to become your bride"
+----- Generated lyrics:
+for a moment 
+ i want to become your bride of 
+ 
+ i was lost somewhere 
+ and youre my life 
+ 
+ it youre my heart 
+ and youre my life 
+ 
+ it youre my heart 
+ and youre my life 
+ 
+ it youre my heart 
+ and youre my life 
+ 
+ it youre my
+
+----- Diversity:0.4
+----- Generating with seed:
+"for a moment 
+ i want to become your bride"
+----- Generated lyrics:
+for a moment 
+ i want to become your bride of 
+ 
+ what was your think of every tomorrow 
+ was falling of on my eyes 
+ without me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of the eyes with full of joy has disturbed me 
+ thy pair of
+
+----- Diversity:0.5
+----- Generating with seed:
+"for a moment 
+ i want to become your bride"
+----- Generated lyrics:
+for a moment 
+ i want to become your bride of 
+ 
+ come was meant to happen 
+ love was meant to happen and it did 
+ love was meant to happen 
+ love was meant to happen and it did 
+ 
+ was seen sometimes downs as on 
+ in my heart 
+ 
+ i am only for
+
+----- Diversity:0.6
+----- Generating with seed:
+"for a moment 
+ i want to become your bride"
+----- Generated lyrics:
+for a moment 
+ i want to become your bride of 
+ 
+ the was of the girls became the story 
+ brought the love is a very first decorate the world 
+ 
+ the seems as 
+ beloved 
+ we as well take you away 
+ 
+ the bride of badri 
+ 
+ well take you away making you
+
+----- Diversity:0.7
+----- Generating with seed:
+"for a moment 
+ i want to become your bride"
+----- Generated lyrics:
+for a moment 
+ i want to become your bride of 
+ 
+ what was your think of every tomorrow 
+ was falling didnt on the roads of love 
+ 
+ in your face is different from all the memories of the night 
+ ive lost my heart 
+ ive it 
+ ive lost my heart ive lost it 
+
+
+================================================================================

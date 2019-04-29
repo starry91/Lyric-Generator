@@ -1,0 +1,1034 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"someone 
+ 
+ you should forget the infatuation 
+ you"
+----- Generated lyrics:
+someone 
+ 
+ you should forget the infatuation 
+ you 
+ it my my 
+ 
+ i i you on your 
+ 
+ i is you you 
+ i you you the 
+ 
+ i i never you 
+ 
+ i never you 
+ 
+ i am you 
+ 
+ i have you 
+ 
+ i loved the to 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"someone 
+ 
+ you should forget the infatuation 
+ you"
+----- Generated lyrics:
+someone 
+ 
+ you should forget the infatuation 
+ you i the it of is 
+ 
+ i it never have you 
+ 
+ 
+ i have you the with 
+ 
+ 
+ i i it a eyes 
+ 
+ i this do with heart 
+ 
+ i have you the the eyes 
+ theres 
+ dont be you the
+
+----- Diversity:0.5
+----- Generating with seed:
+"someone 
+ 
+ you should forget the infatuation 
+ you"
+----- Generated lyrics:
+someone 
+ 
+ you should forget the infatuation 
+ you take is 
+ 
+ have you 
+ your you when 
+ 
+ and am you 
+ 
+ theres i just 
+ i take 
+ 
+ i have made you 
+ 
+ 
+ i i feel your for you 
+ 
+ will you 
+ dont you of became 
+ 
+ too
+
+----- Diversity:0.6
+----- Generating with seed:
+"someone 
+ 
+ you should forget the infatuation 
+ you"
+----- Generated lyrics:
+someone 
+ 
+ you should forget the infatuation 
+ you i will only me 
+ on there you 
+ i you are heart 
+ leave time beloved 
+ be tell my with 
+ 
+ our your my is for song 
+ i only you all on the 
+ 
+ 
+ do the the second see praise her well how you
+
+----- Diversity:0.7
+----- Generating with seed:
+"someone 
+ 
+ you should forget the infatuation 
+ you"
+----- Generated lyrics:
+someone 
+ 
+ you should forget the infatuation 
+ you listen without my 
+ in me 
+ now is my going 
+ 
+ give thirst there the your 
+ from we to someone us ghagra once x you 
+ her sighs you 
+ never the in you 
+ again without you 
+ 
+ can then ill your understand heart 
+
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"me there what should i do 
+ oh my 
+"
+----- Generated lyrics:
+me there what should i do 
+ oh my 
+ i have been to of 
+ 
+ i have been robbed of everything 
+ i have will of everything your name 
+ the ooo of badri 
+ 
+ it i am you 
+ 
+ the world is the beloved of 
+ 
+ 
+ it the eyes of my of 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"me there what should i do 
+ oh my 
+"
+----- Generated lyrics:
+me there what should i do 
+ oh my 
+ 
+ i have been moments 
+ but my beloved 
+ 
+ i have crying 
+ your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo 
+ i swear it on your name my beloved ooo
+
+----- Diversity:0.5
+----- Generating with seed:
+"me there what should i do 
+ oh my 
+"
+----- Generated lyrics:
+me there what should i do 
+ oh my 
+ i have been to that 
+ but i have been robbed 
+ thy roads of left a see 
+ 
+ i have has the creator 
+ my beloved ooo 
+ 
+ swear i on you name my beloved 
+ 
+ i swear it on your name 
+ beloved ooo 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"me there what should i do 
+ oh my 
+"
+----- Generated lyrics:
+me there what should i do 
+ oh my 
+ 
+ 
+ you the every creator 
+ my heart 
+ 
+ then been stolen you 
+ 
+ we will got lai apart him 
+ apart he nan never drift now apart 
+ 
+ the bride of badri 
+ take you away 
+ you with the the of of badri 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"me there what should i do 
+ oh my 
+"
+----- Generated lyrics:
+me there what should i do 
+ oh my 
+ 
+ 
+ have is be your eyes 
+ we let me my eyes 
+ 
+ i have behind on a name 
+ 
+ i have been been of of in 
+ then feel tell a infatuation in 
+ 
+ 
+ no the moments may and know 
+ 
+ the earth
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"
+ i will love u so much u will feel"
+----- Generated lyrics:
+
+ i will love u so much u will feel feel my love 
+ 
+ i am you 
+ you have sworn 
+ 
+ never never night 
+ you are you 
+ you are my eyes 
+ you are you 
+ 
+ in my arms 
+ you are you 
+ you are me 
+ you are my heart 
+ in
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ i will love u so much u will feel"
+----- Generated lyrics:
+
+ i will love u so much u will feel feel my heart 
+ 
+ i am you in your eyes 
+ how take you be you in my memories 
+ 
+ you are me you you 
+ never keep you 
+ you making you away you 
+ never you know 
+ never you away away you 
+ 
+ ill
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ i will love u so much u will feel"
+----- Generated lyrics:
+
+ i will love u so much u will feel feel i feel you 
+ i am i have you for you 
+ i feel i feel you 
+ my beloved 
+ 
+ i have it on your name my beloved 
+ 
+ i swear it on your name my beloved 
+ 
+ i swear it on your name my
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ i will love u so much u will feel"
+----- Generated lyrics:
+
+ i will love u so much u will feel feel so feel you 
+ my heart is you of the bride of badri well take well take were making making asked you away making you om 
+ in you 
+ the bride of badri well take were away making making take the eyes of full of your eyes 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ i will love u so much u will feel"
+----- Generated lyrics:
+
+ i will love u so much u will feel feel the punishment that have gone by 
+ 
+ in my arms 
+ you in away 
+ 
+ you are you 
+ i am crying you 
+ you my beloved 
+ 
+ that you are crying 
+ 
+ every me 
+ a innocent their ram home in well take keeps
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"
+ you will have to come to me 
+ fulfill"
+----- Generated lyrics:
+
+ you will have to come to me 
+ fulfill me 
+ that was that that you have to me 
+ in my eyes 
+ 
+ that you know 
+ you are my heart 
+ 
+ there is you are not your breaths 
+ 
+ i have sworn in your eyes 
+ ill take care of you in my breaths
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ you will have to come to me 
+ fulfill"
+----- Generated lyrics:
+
+ you will have to come to me 
+ fulfill my promise that was made 
+ 
+ my heart is the punishment of you my eyes 
+ for you 
+ i am you 
+ in your love is you 
+ why am it in your name 
+ 
+ ooo were here u 
+ i am not 
+ that you are
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ you will have to come to me 
+ fulfill"
+----- Generated lyrics:
+
+ you will have to come to me 
+ fulfill you are the beauty of it in my eyes 
+ 
+ 
+ you the lost of my heart 
+ im crying 
+ 
+ 
+ you dont me in your eyes 
+ in your eyes 
+ for you my arms 
+ in my arms 
+ you the so of you in
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ you will have to come to me 
+ fulfill"
+----- Generated lyrics:
+
+ you will have to come to me 
+ fulfill you all the punishment in love what see you 
+ 
+ you i am my for you 
+ 
+ i am you 
+ in you are you in my breaths 
+ 
+ towards you towards you in my eyes 
+ ill take your name my beloved ooo 
+ 
+ swear
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ you will have to come to me 
+ fulfill"
+----- Generated lyrics:
+
+ you will have to come to me 
+ fulfill the promise that was made 
+ 
+ 
+ what always every girl of the evening 
+ you are youre by 
+ 
+ that keep i see you 
+ 
+ you only my heart 
+ my heart my lost my heart 
+ 
+ it was ive lost my heart 
+ ive
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"to delhi via agra 
+ 
+ your ghagra 
+ your"
+----- Generated lyrics:
+to delhi via agra 
+ 
+ your ghagra 
+ your face is true from 
+ 
+ whenever you go my heart 
+ im crazy about you 
+ beyond limits my love 
+ give me some same 
+ beyond limits me 
+ whenever my crazy arms 
+ im true of 
+ 
+ 
+ youre my heart 
+ 
+ youre my heart
+
+----- Diversity:0.4
+----- Generating with seed:
+"to delhi via agra 
+ 
+ your ghagra 
+ your"
+----- Generated lyrics:
+to delhi via agra 
+ 
+ your ghagra 
+ your face is true from ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.5
+----- Generating with seed:
+"to delhi via agra 
+ 
+ your ghagra 
+ your"
+----- Generated lyrics:
+to delhi via agra 
+ 
+ your ghagra 
+ your name and my heart ole love u true ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+----- Diversity:0.6
+----- Generating with seed:
+"to delhi via agra 
+ 
+ your ghagra 
+ your"
+----- Generated lyrics:
+to delhi via agra 
+ 
+ your ghagra 
+ your name its the story that makes me 
+ 
+ you share my heart 
+ 
+ my heart is only for you 
+ 
+ in my love 
+ 
+ you are my heart 
+ your face is saying 
+ the sky seems heart 
+ o beloved 
+ 
+ 
+ we would
+
+----- Diversity:0.7
+----- Generating with seed:
+"to delhi via agra 
+ 
+ your ghagra 
+ your"
+----- Generated lyrics:
+to delhi via agra 
+ 
+ your ghagra 
+ your face is true from 
+ it every lover go my heart 
+ but my heart ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole ole
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"for the beauty of your face 
+ im falling for"
+----- Generated lyrics:
+for the beauty of your face 
+ im falling for the beauty of your face 
+ my beloved 
+ 
+ fragrance is your face 
+ 
+ it is that you in my life 
+ 
+ i have you always on my heart 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"for the beauty of your face 
+ im falling for"
+----- Generated lyrics:
+for the beauty of your face 
+ im falling for the beauty of your face 
+ 
+ we do i different feel all the roads 
+ and yet the bride of the tears 
+ that you are my reason 
+ 
+ the story of every fate 
+ we can her that these thoughts 
+ that stuck me that 
+ there
+
+----- Diversity:0.5
+----- Generating with seed:
+"for the beauty of your face 
+ im falling for"
+----- Generated lyrics:
+for the beauty of your face 
+ im falling for the beauty of your face 
+ 
+ we face i different be all yours 
+ ill will be lost of you 
+ ill can care 
+ you in my breaths 
+ 
+ 
+ i have you always oh my heart 
+ it is your beauty of your face 
+ that
+
+----- Diversity:0.6
+----- Generating with seed:
+"for the beauty of your face 
+ im falling for"
+----- Generated lyrics:
+for the beauty of your face 
+ im falling for the beauty of your face 
+ 
+ our face my different 
+ please hum die see 
+ your heart 
+ given given take care that you 
+ oh if you new not of you 
+ there is no your name and keep me 
+ only not the moments i have
+
+----- Diversity:0.7
+----- Generating with seed:
+"for the beauty of your face 
+ im falling for"
+----- Generated lyrics:
+for the beauty of your face 
+ im falling for the beauty of myself 
+ 
+ you are the days 
+ ill on you behind you live 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my eyes 
+ ill take care of you in my breaths 
+ 
+ ill keep you in my
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"my heart dam dama dam 
+ dance a little darling"
+----- Generated lyrics:
+my heart dam dama dam 
+ dance a little darling dam dama dam 
+ never again away you touch you leave me 
+ my beloved are 
+ ill take you away 
+ you are my reason 
+ you are my heart 
+ im your name behind for the time 
+ i am in your eyes 
+ with me 
+ my
+
+----- Diversity:0.4
+----- Generating with seed:
+"my heart dam dama dam 
+ dance a little darling"
+----- Generated lyrics:
+my heart dam dama dam 
+ dance a little darling dam dama dam 
+ never again away you touch you are you 
+ in my arms 
+ ill take you away 
+ you are my breaths 
+ 
+ 
+ i forget you 
+ 
+ and i will be lost in your memory 
+ 
+ i am only you just for
+
+----- Diversity:0.5
+----- Generating with seed:
+"my heart dam dama dam 
+ dance a little darling"
+----- Generated lyrics:
+my heart dam dama dam 
+ dance a little darling dam dama dam 
+ never again away you touch you dama arent you 
+ ill worship you 
+ ill never hold you away my heart 
+ 
+ never go my heart 
+ it u are my my heart 
+ ive my heart 
+ all my life 
+ whenever in your
+
+----- Diversity:0.6
+----- Generating with seed:
+"my heart dam dama dam 
+ dance a little darling"
+----- Generated lyrics:
+my heart dam dama dam 
+ dance a little darling dam dama dam 
+ never again 
+ you touch my dama arms 
+ never which without you i am away from myself 
+ you touch away up 
+ im love you 
+ im cant love you 
+ it was my name my beloved 
+ 
+ you keep it in your
+
+----- Diversity:0.7
+----- Generating with seed:
+"my heart dam dama dam 
+ dance a little darling"
+----- Generated lyrics:
+my heart dam dama dam 
+ dance a little darling dam dama dam 
+ never again away with you 
+ my heart is saying my beloved 
+ 
+ you it has my heart on the roads 
+ 
+ i keep these meeting 
+ 
+ after too had on in 
+ 
+ there is your lover not sight 
+ 
+ i
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"noise behind 
+ 
+ my heart know and this world"
+----- Generated lyrics:
+noise behind 
+ 
+ my heart know and this world 
+ never never all the bride of badri 
+ 
+ ill never get making 
+ you know 
+ we will never drift apart 
+ that i have sworn 
+ 
+ sometimes body same are same life 
+ 
+ 
+ i am i have you away 
+ you i am so
+
+----- Diversity:0.4
+----- Generating with seed:
+"noise behind 
+ 
+ my heart know and this world"
+----- Generated lyrics:
+noise behind 
+ 
+ my heart know and this world 
+ never never away only you 
+ you are not you 
+ in your dreams 
+ my love is my heart 
+ that i see my love 
+ 
+ it is you are in my nights 
+ 
+ there is a girl 
+ you are my heart 
+ 
+ im
+
+----- Diversity:0.5
+----- Generating with seed:
+"noise behind 
+ 
+ my heart know and this world"
+----- Generated lyrics:
+noise behind 
+ 
+ my heart know and this world 
+ 
+ you are my heart 
+ 
+ you dont know 
+ we will never drift apart 
+ that you have sworn 
+ 
+ even every same 
+ 
+ we face well a little dam 
+ the same 
+ any more boy 
+ then dont know i live 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"noise behind 
+ 
+ my heart know and this world"
+----- Generated lyrics:
+noise behind 
+ 
+ my heart know and this world 
+ never dont all the only for you 
+ dont leave me 
+ 
+ the night are my eyes 
+ you body same that decorate my life 
+ be in the arms 
+ come does the name of your face 
+ that is my been 
+ in my life 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"noise behind 
+ 
+ my heart know and this world"
+----- Generated lyrics:
+noise behind 
+ 
+ my heart know and this world 
+ can was your name in my arms 
+ 
+ with your face of my face 
+ 
+ there is no pain 
+ 
+ walk seems that i have been your life 
+ let me the night 
+ in your dreams 
+ in your lips on me in your arms
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"part of my life 
+ please write her name as"
+----- Generated lyrics:
+part of my life 
+ please write her name as mine 
+ well take away away 
+ 
+ and the bride of badri well take you away 
+ queen well take you away making you the bride of badri well take you away 
+ queen well take you away making you the bride of badri well take you away 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"part of my life 
+ please write her name as"
+----- Generated lyrics:
+part of my life 
+ please write her name as mine 
+ 
+ oh god oh god whenever my thoughts will have had by your name 
+ your breath is mine is your makes my heart 
+ 
+ the memory is for you 
+ 
+ 
+ this is love 
+ 
+ i have you at away 
+ its ill be
+
+----- Diversity:0.5
+----- Generating with seed:
+"part of my life 
+ please write her name as"
+----- Generated lyrics:
+part of my life 
+ please write her name as mine 
+ 
+ oh god oh god whenever and make you had 
+ decorate your lips on my lips 
+ now tell me who are you 
+ break yourself in my arms 
+ you are my heart you dont am my 
+ but its your name my beloved 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"part of my life 
+ please write her name as"
+----- Generated lyrics:
+part of my life 
+ please write her name as mine 
+ 
+ oh god oh god whenever my true love 
+ sky 
+ when i loved you so much 
+ in my love 
+ my heart is only you 
+ my heart is it only 
+ the things of your name my love 
+ ive been falling for you
+
+----- Diversity:0.7
+----- Generating with seed:
+"part of my life 
+ please write her name as"
+----- Generated lyrics:
+part of my life 
+ please write her name as mine 
+ 
+ 
+ these moments 
+ we can never drift apart 
+ that i have sworn 
+ 
+ sometimes after getting all lost of you 
+ 
+ after lost my arms 
+ never now 
+ you had never go lover mine 
+ show me for you 
+ dont leave
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"world seems lonely 
+ the world seems lonely 
+ 
+"
+----- Generated lyrics:
+world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one 
+ 
+ the world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the world seems lonely 
+ the beloved seems 
+ you become my heart 
+ and why am you are beyond limits 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"world seems lonely 
+ the world seems lonely 
+ 
+"
+----- Generated lyrics:
+world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the bride seems lonely 
+ 
+ when this is not we became your heart 
+ what story your name these one ooo
+
+----- Diversity:0.5
+----- Generating with seed:
+"world seems lonely 
+ the world seems lonely 
+ 
+"
+----- Generated lyrics:
+world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the bride seems lonely 
+ if you good 
+ 
+ when you away my heart its your heart 
+ given your name
+
+----- Diversity:0.6
+----- Generating with seed:
+"world seems lonely 
+ the world seems lonely 
+ 
+"
+----- Generated lyrics:
+world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one remains 
+ the world seems lonely 
+ the bride seems lonely 
+ seems lonely 
+ the has to been nights 
+ 
+ this heart
+
+----- Diversity:0.7
+----- Generating with seed:
+"world seems lonely 
+ the world seems lonely 
+ 
+"
+----- Generated lyrics:
+world seems lonely 
+ the world seems lonely 
+ 
+ when no loved one 
+ 
+ now as if you god 
+ 
+ theres a passion in your dreams now 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion in living now 
+ theres a passion 
+ theres a passion
+
+================================================================================
