@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"kept going im falling for the beauty of your face ah my heart is falling in love"
+----- Generated lyrics:
+kept going im falling for the beauty of your face ah my heart is falling in love an the and beal an cone have ach an bad of an thabe af ha be an an an bath i  ave an baling an in b
+
+----- Diversity:0.4
+----- Generating with seed:
+"kept going im falling for the beauty of your face ah my heart is falling in love"
+----- Generated lyrics:
+kept going im falling for the beauty of your face ah my heart is falling in love whang ce zy bed eas the i he plearne a calong af be at and whe has are ane san the a hang as lave a
+
+----- Diversity:0.5
+----- Generating with seed:
+"kept going im falling for the beauty of your face ah my heart is falling in love"
+----- Generated lyrics:
+kept going im falling for the beauty of your face ah my heart is falling in love wast you juth yout ever ay ar denas in are saat bidging gat binn an war than as an in arenting on i
+
+----- Diversity:0.6
+----- Generating with seed:
+"kept going im falling for the beauty of your face ah my heart is falling in love"
+----- Generated lyrics:
+kept going im falling for the beauty of your face ah my heart is falling in love id anin ans your ar shaen i draagiss in linace the an anc and now ol on brace anc nany ar an of liv
+
+----- Diversity:0.7
+----- Generating with seed:
+"kept going im falling for the beauty of your face ah my heart is falling in love"
+----- Generated lyrics:
+kept going im falling for the beauty of your face ah my heart is falling in love ac afon arcon lreah ehsorlong be bach af ach now i saanbe henr ao have in  beve if aftri ghann and 
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"to be and it happenedthat you had written for two moments i was attached to you "
+----- Generated lyrics:
+to be and it happenedthat you had written for two moments i was attached to you fare the the has a same than seant freat now you i sant the an the sand san the the eave if me heart
+
+----- Diversity:0.4
+----- Generating with seed:
+"to be and it happenedthat you had written for two moments i was attached to you "
+----- Generated lyrics:
+to be and it happenedthat you had written for two moments i was attached to you becand chent come and nat never and that at and the ad in the ang you sare to bemy have and the the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"to be and it happenedthat you had written for two moments i was attached to you "
+----- Generated lyrics:
+to be and it happenedthat you had written for two moments i was attached to you i wast sas it beet saull to cang crol thand i gave and ne arminsa as sall love ar a love an sace ala
+
+----- Diversity:0.6
+----- Generating with seed:
+"to be and it happenedthat you had written for two moments i was attached to you "
+----- Generated lyrics:
+to be and it happenedthat you had written for two moments i was attached to you that heare salingang way in of maids way in in treak ar wore to your haars ald whele eaming faraved 
+
+----- Diversity:0.7
+----- Generating with seed:
+"to be and it happenedthat you had written for two moments i was attached to you "
+----- Generated lyrics:
+to be and it happenedthat you had written for two moments i was attached to you worent as muld croath an shearter cole ave ofe om my damits doln des bing you have ant me alive if l
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"as not gone not just once but this heart has been broken a hundred times but the"
+----- Generated lyrics:
+as not gone not just once but this heart has been broken a hundred times but the chall come the me and sang of the bods in my the made in the cande of your sore way belove and make
+
+----- Diversity:0.4
+----- Generating with seed:
+"as not gone not just once but this heart has been broken a hundred times but the"
+----- Generated lyrics:
+as not gone not just once but this heart has been broken a hundred times but the that will and if ceenst ing chat and the in what way way have mare banyes in my ees in some become 
+
+----- Diversity:0.5
+----- Generating with seed:
+"as not gone not just once but this heart has been broken a hundred times but the"
+----- Generated lyrics:
+as not gone not just once but this heart has been broken a hundred times but the your share re now me and my heart dame of breathe my heart iall bet be ade will love aore of youre 
+
+----- Diversity:0.6
+----- Generating with seed:
+"as not gone not just once but this heart has been broken a hundred times but the"
+----- Generated lyrics:
+as not gone not just once but this heart has been broken a hundred times but the caconging of bryes mome in frome and bide have fare the mathis ano have in dreace with year vand my
+
+----- Diversity:0.7
+----- Generating with seed:
+"as not gone not just once but this heart has been broken a hundred times but the"
+----- Generated lyrics:
+as not gone not just once but this heart has been broken a hundred times but then was do thare leas searring ceen ah and apand to way of ute ming if are the come of i i arate care 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+" oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki"
+----- Generated lyrics:
+ oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki way dread and belang it are in an what alle what all cand of and me saann in way have as arang in t
+
+----- Diversity:0.4
+----- Generating with seed:
+" oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki"
+----- Generated lyrics:
+ oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki will be beauve all an that balakbea whte in chat a beto now my have my beant every are the in of to
+
+----- Diversity:0.5
+----- Generating with seed:
+" oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki"
+----- Generated lyrics:
+ oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a kind for my beaut your bodang stoo bus love badance baraance what dablen bing and becats be in mand be
+
+----- Diversity:0.6
+----- Generating with seed:
+" oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki"
+----- Generated lyrics:
+ oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki in who the have dams bray heart the laon in mant what mond and of line world to dee andl weme cave 
+
+----- Diversity:0.7
+----- Generating with seed:
+" oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a ki"
+----- Generated lyrics:
+ oh matru matrus bijlee bijlees mandola hey matrus bijlees mandolamanner of a kis my whand on om my he haare far bace ca in give of the mire to become and wayl of your are if ine b
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"o sister you cant refuse now itll be a disaster if you do dont turn down his off"
+----- Generated lyrics:
+o sister you cant refuse now itll be a disaster if you do dont turn down his offe in when you the make as i rane in mapling you are nas mad if stant i have beaut a and bing when be
+
+----- Diversity:0.4
+----- Generating with seed:
+"o sister you cant refuse now itll be a disaster if you do dont turn down his off"
+----- Generated lyrics:
+o sister you cant refuse now itll be a disaster if you do dont turn down his offe are why baing fain make are in and sare beang near this and saan in this in my brake san as he wha
+
+----- Diversity:0.5
+----- Generating with seed:
+"o sister you cant refuse now itll be a disaster if you do dont turn down his off"
+----- Generated lyrics:
+o sister you cant refuse now itll be a disaster if you do dont turn down his offe ranne sament way and mand cang some be you the bidam face an the mayen mame and an have as me the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"o sister you cant refuse now itll be a disaster if you do dont turn down his off"
+----- Generated lyrics:
+o sister you cant refuse now itll be a disaster if you do dont turn down his offe ae me if sailnse seare sa cacen to my steating i bemareec thigete and you come it in me if you hav
+
+----- Diversity:0.7
+----- Generating with seed:
+"o sister you cant refuse now itll be a disaster if you do dont turn down his off"
+----- Generated lyrics:
+o sister you cant refuse now itll be a disaster if you do dont turn down his offni faind i becest in af in in the weacemes of never eaar breacof searoin come an by you hearts in to
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"n seems its a trick of you but you dont understand girl let me be your man i wan"
+----- Generated lyrics:
+n seems its a trick of you but you dont understand girl let me be your man i wan you fore my hand ance ang me all and beloved i a not my have bae sife me my the me fall in when are
+
+----- Diversity:0.4
+----- Generating with seed:
+"n seems its a trick of you but you dont understand girl let me be your man i wan"
+----- Generated lyrics:
+n seems its a trick of you but you dont understand girl let me be your man i wane in my heart dreams in my ane in my deare ea saare lance came and are saun my becomed of your eyes 
+
+----- Diversity:0.5
+----- Generating with seed:
+"n seems its a trick of you but you dont understand girl let me be your man i wan"
+----- Generated lyrics:
+n seems its a trick of you but you dont understand girl let me be your man i wand me all weall sabeat in a dan this as thing weat deane i have tathe is mane bad me ang the has and 
+
+----- Diversity:0.6
+----- Generating with seed:
+"n seems its a trick of you but you dont understand girl let me be your man i wan"
+----- Generated lyrics:
+n seems its a trick of you but you dont understand girl let me be your man i wank i care if and this in my barar i way your me bethe on the her me saare your ete cohe of it loke wh
+
+----- Diversity:0.7
+----- Generating with seed:
+"n seems its a trick of you but you dont understand girl let me be your man i wan"
+----- Generated lyrics:
+n seems its a trick of you but you dont understand girl let me be your man i wange laingaut you me that nearingas my eam i have mae fary sham an the eme with yeur call your conte y
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"est girl in the world my traditional girl my traditional girl by the jerk of her"
+----- Generated lyrics:
+est girl in the world my traditional girl my traditional girl by the jerk of here i land and the what i a love now deall mad is just live seall and at and of the bad sore and in th
+
+----- Diversity:0.4
+----- Generating with seed:
+"est girl in the world my traditional girl my traditional girl by the jerk of her"
+----- Generated lyrics:
+est girl in the world my traditional girl my traditional girl by the jerk of here is way has the rare when of your i care the at are with shay i a the what is my and in with you of
+
+----- Diversity:0.5
+----- Generating with seed:
+"est girl in the world my traditional girl my traditional girl by the jerk of her"
+----- Generated lyrics:
+est girl in the world my traditional girl my traditional girl by the jerk of here nyear gote as morle shasping me dame world on my has on and now and sann hered batne was and where
+
+----- Diversity:0.6
+----- Generating with seed:
+"est girl in the world my traditional girl my traditional girl by the jerk of her"
+----- Generated lyrics:
+est girl in the world my traditional girl my traditional girl by the jerk of here in way and theres allad to star  of your i call and i ous live an ancent will now you you ares i p
+
+----- Diversity:0.7
+----- Generating with seed:
+"est girl in the world my traditional girl my traditional girl by the jerk of her"
+----- Generated lyrics:
+est girl in the world my traditional girl my traditional girl by the jerk of heriing xame to mometing a wayd and madenday in my e are arama ghatcealle all eyesrinass all ule give i
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+" are not knowing the one who resides in my eyes matches with you completely were"
+----- Generated lyrics:
+ are not knowing the one who resides in my eyes matches with you completely weres of love the deet se me will wead come fore in your the was what seas with you i way in when in me 
+
+----- Diversity:0.4
+----- Generating with seed:
+" are not knowing the one who resides in my eyes matches with you completely were"
+----- Generated lyrics:
+ are not knowing the one who resides in my eyes matches with you completely weres on every selent you the i when to the pang in your of you with you are abe ming is loves and some 
+
+----- Diversity:0.5
+----- Generating with seed:
+" are not knowing the one who resides in my eyes matches with you completely were"
+----- Generated lyrics:
+ are not knowing the one who resides in my eyes matches with you completely were to you whole sire when cand away dats in my have the the and come the of that aame and srann ast fr
+
+----- Diversity:0.6
+----- Generating with seed:
+" are not knowing the one who resides in my eyes matches with you completely were"
+----- Generated lyrics:
+ are not knowing the one who resides in my eyes matches with you completely werent the why when you i every we live you eawete call it my hese love your all the fall same of your e
+
+----- Diversity:0.7
+----- Generating with seed:
+" are not knowing the one who resides in my eyes matches with you completely were"
+----- Generated lyrics:
+ are not knowing the one who resides in my eyes matches with you completely wereste the whot on your go now now lecarstins when the love fore me liven pringring he stalans wh leat 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x"
+----- Generated lyrics:
+aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x wand as dadn it and keeas sore stare heart to not and of you i dant shain i love in and beant of yo
+
+----- Diversity:0.4
+----- Generating with seed:
+"aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x"
+----- Generated lyrics:
+aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x cones the with me well and and to hat call in when the heart love i frace who far you are the what 
+
+----- Diversity:0.5
+----- Generating with seed:
+"aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x"
+----- Generated lyrics:
+aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x of love as apon you the to have fiare land in you eave aon the in the fras if of you are i eas in t
+
+----- Diversity:0.6
+----- Generating with seed:
+"aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x"
+----- Generated lyrics:
+aughty ideas aastha gill your buzz never leaves me alone never leaves me alone xfa neas and betre love a have of ay a have be your the with of belcaye of frame wand is my heart of 
+
+----- Diversity:0.7
+----- Generating with seed:
+"aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x"
+----- Generated lyrics:
+aughty ideas aastha gill your buzz never leaves me alone never leaves me alone x be ive lout given weres neveare more ahe the sor andestrrese the so lovess as lood  whist s sleatwi
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"get drenched with you give me such rains dont give me those moments in which i h"
+----- Generated lyrics:
+get drenched with you give me such rains dont give me those moments in which i heart can that the of the fare the bale the way has and of love and the the and the mas i a bare in t
+
+----- Diversity:0.4
+----- Generating with seed:
+"get drenched with you give me such rains dont give me those moments in which i h"
+----- Generated lyrics:
+get drenched with you give me such rains dont give me those moments in which i have dast me shas dont when is and when the thae has come now the with steet me the sing for teall wh
+
+----- Diversity:0.5
+----- Generating with seed:
+"get drenched with you give me such rains dont give me those moments in which i h"
+----- Generated lyrics:
+get drenched with you give me such rains dont give me those moments in which i have modeaed that the have way sreas love llanl world now on my heart and dan the avers bod you ppeab
+
+----- Diversity:0.6
+----- Generating with seed:
+"get drenched with you give me such rains dont give me those moments in which i h"
+----- Generated lyrics:
+get drenched with you give me such rains dont give me those moments in which i he with your in he at loved to your with me the eove of dontancane wain you i way way an ane andaye t
+
+----- Diversity:0.7
+----- Generating with seed:
+"get drenched with you give me such rains dont give me those moments in which i h"
+----- Generated lyrics:
+get drenched with you give me such rains dont give me those moments in which i hear e arens dint in you i gaich ma bing sante s is ine stas whin in share nas sall way was stary bap
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"heart soar like a kite theres something special in your eyes theres something sp"
+----- Generated lyrics:
+heart soar like a kite theres something special in your eyes theres something specing in your same were and with me breand na teare in when the what as stant me the somet my have t
+
+----- Diversity:0.4
+----- Generating with seed:
+"heart soar like a kite theres something special in your eyes theres something sp"
+----- Generated lyrics:
+heart soar like a kite theres something special in your eyes theres something speet losese have as sean in wet in you are has teall ans me fay in to at you sare my ene love and sea
+
+----- Diversity:0.5
+----- Generating with seed:
+"heart soar like a kite theres something special in your eyes theres something sp"
+----- Generated lyrics:
+heart soar like a kite theres something special in your eyes theres something speen you i lkan creasngo as as sill keem it crepeten some sace of chound cots is it the some he of gi
+
+----- Diversity:0.6
+----- Generating with seed:
+"heart soar like a kite theres something special in your eyes theres something sp"
+----- Generated lyrics:
+heart soar like a kite theres something special in your eyes theres something spize is i cronn with you int lose is love we aic mine for and mise if you i weat your be will gads i 
+
+----- Diversity:0.7
+----- Generating with seed:
+"heart soar like a kite theres something special in your eyes theres something sp"
+----- Generated lyrics:
+heart soar like a kite theres something special in your eyes theres something spleant me ssalning in call my eod as frstun this what om shing is firus c will be allod co must is us
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+" melody of tomorrow youre the story of tomorrow faith in yourself become your ow"
+----- Generated lyrics:
+ melody of tomorrow youre the story of tomorrow faith in yourself become your ow you deang to loves with someting of storents in your with you bet me in sometive me story i s i bre
+
+----- Diversity:0.4
+----- Generating with seed:
+" melody of tomorrow youre the story of tomorrow faith in yourself become your ow"
+----- Generated lyrics:
+ melody of tomorrow youre the story of tomorrow faith in yourself become your ow of and i way here becomeling in you me whe bray and become the i sond of seene to love it on someti
+
+----- Diversity:0.5
+----- Generating with seed:
+" melody of tomorrow youre the story of tomorrow faith in yourself become your ow"
+----- Generated lyrics:
+ melody of tomorrow youre the story of tomorrow faith in yourself become your ow the sare in ate fare all me heart is on the i und ewene sometide way has sheare bernainn you ace in
+
+----- Diversity:0.6
+----- Generating with seed:
+" melody of tomorrow youre the story of tomorrow faith in yourself become your ow"
+----- Generated lyrics:
+ melody of tomorrow youre the story of tomorrow faith in yourself become your ow i eted sreas that and dont of come fore ste you and the of nowo a way ho leas you he cunn veamt che
+
+----- Diversity:0.7
+----- Generating with seed:
+" melody of tomorrow youre the story of tomorrow faith in yourself become your ow"
+----- Generated lyrics:
+ melody of tomorrow youre the story of tomorrow faith in yourself become your owe wame at and sall if my pream me you losel is of coun you ane slays chan callain love you on your l
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"et us meet after madly falling in love with you i have learned how to live with "
+----- Generated lyrics:
+et us meet after madly falling in love with you i have learned how to live with me and now to cone way heart nevernow done was in your eany someting the when is me the see someting
+
+----- Diversity:0.4
+----- Generating with seed:
+"et us meet after madly falling in love with you i have learned how to live with "
+----- Generated lyrics:
+et us meet after madly falling in love with you i have learned how to live with you in your way be is now me is whats and in mome are somatane way have bies san in and the sare in 
+
+----- Diversity:0.5
+----- Generating with seed:
+"et us meet after madly falling in love with you i have learned how to live with "
+----- Generated lyrics:
+et us meet after madly falling in love with you i have learned how to live with your when the the every who in she and nind con ede it oll when is when ell you oven youre of your n
+
+----- Diversity:0.6
+----- Generating with seed:
+"et us meet after madly falling in love with you i have learned how to live with "
+----- Generated lyrics:
+et us meet after madly falling in love with you i have learned how to live with me in thous wors if the ot world me awes is beron whers deay all you weat be fore it whonight of in 
+
+----- Diversity:0.7
+----- Generating with seed:
+"et us meet after madly falling in love with you i have learned how to live with "
+----- Generated lyrics:
+et us meet after madly falling in love with you i have learned how to live with to you plain to like as so dent and your aning in you souls beand to live an fallens me pill you to 
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"cinessvividness this stylegrace this jauntinessjolliness how can the world decid"
+----- Generated lyrics:
+cinessvividness this stylegrace this jauntinessjolliness how can the world decidess someting soulf the fall you heart sacen the are have sain in and the and of beloved you are with
+
+----- Diversity:0.4
+----- Generating with seed:
+"cinessvividness this stylegrace this jauntinessjolliness how can the world decid"
+----- Generated lyrics:
+cinessvividness this stylegrace this jauntinessjolliness how can the world decides some love got you with sere with your loved as someting is store someting for she way dassens is 
+
+----- Diversity:0.5
+----- Generating with seed:
+"cinessvividness this stylegrace this jauntinessjolliness how can the world decid"
+----- Generated lyrics:
+cinessvividness this stylegrace this jauntinessjolliness how can the world decidels the sireetste caneson you will deet are sare dont fhere lowe ling when every all dalive more don
+
+----- Diversity:0.6
+----- Generating with seed:
+"cinessvividness this stylegrace this jauntinessjolliness how can the world decid"
+----- Generated lyrics:
+cinessvividness this stylegrace this jauntinessjolliness how can the world decidesshes ling is to heart the and heart in you and the away sang now the the your teaere you shant of 
+
+----- Diversity:0.7
+----- Generating with seed:
+"cinessvividness this stylegrace this jauntinessjolliness how can the world decid"
+----- Generated lyrics:
+cinessvividness this stylegrace this jauntinessjolliness how can the world decides son destare on appesrrent is of lans live not dacing why when you sars sence lave lont wam  ande 
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"of by the hands of this beauty by me youre free spirited youre beautiful handsom"
+----- Generated lyrics:
+of by the hands of this beauty by me youre free spirited youre beautiful handsom i cong in you and you i seall is for you i have the come and be of gof your are in the and beare in
+
+----- Diversity:0.4
+----- Generating with seed:
+"of by the hands of this beauty by me youre free spirited youre beautiful handsom"
+----- Generated lyrics:
+of by the hands of this beauty by me youre free spirited youre beautiful handsom sacle with you how fore of now mo conlifize and of in you with me of my life on ill your bomy is wi
+
+----- Diversity:0.5
+----- Generating with seed:
+"of by the hands of this beauty by me youre free spirited youre beautiful handsom"
+----- Generated lyrics:
+of by the hands of this beauty by me youre free spirited youre beautiful handsom sometime my your love not fall you bay sent beto sale worly eve it on soresicall of shiste of you a
+
+----- Diversity:0.6
+----- Generating with seed:
+"of by the hands of this beauty by me youre free spirited youre beautiful handsom"
+----- Generated lyrics:
+of by the hands of this beauty by me youre free spirited youre beautiful handsom love make and going be come heart in if your ecell the somethere to shall to in your fore stam do l
+
+----- Diversity:0.7
+----- Generating with seed:
+"of by the hands of this beauty by me youre free spirited youre beautiful handsom"
+----- Generated lyrics:
+of by the hands of this beauty by me youre free spirited youre beautiful handsom beciyta tor have is god in the eyes abs me andise anaknis haver das is with and sometiy and sane to
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"any reason even if its from baghdad or delhi via agra my ghagra is the breaking "
+----- Generated lyrics:
+any reason even if its from baghdad or delhi via agra my ghagra is the breaking are are sare so all slean your stall is on and beaut the saare the are in the earing in your i have 
+
+----- Diversity:0.4
+----- Generating with seed:
+"any reason even if its from baghdad or delhi via agra my ghagra is the breaking "
+----- Generated lyrics:
+any reason even if its from baghdad or delhi via agra my ghagra is the breaking abelane and you have bake and your some are of bod somewith is me heart of the bray he stall of the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"any reason even if its from baghdad or delhi via agra my ghagra is the breaking "
+----- Generated lyrics:
+any reason even if its from baghdad or delhi via agra my ghagra is the breaking seeang and is becone and bethe an and the and the of a and conte of love my now my are tore freate i
+
+----- Diversity:0.6
+----- Generating with seed:
+"any reason even if its from baghdad or delhi via agra my ghagra is the breaking "
+----- Generated lyrics:
+any reason even if its from baghdad or delhi via agra my ghagra is the breaking fimlane so becyos mu gor given a lanhe ablaight thear arang is there badti this na heart the keargid
+
+----- Diversity:0.7
+----- Generating with seed:
+"any reason even if its from baghdad or delhi via agra my ghagra is the breaking "
+----- Generated lyrics:
+any reason even if its from baghdad or delhi via agra my ghagra is the breaking bodse fall you salles to a ave way stall as in abre love wean of by are o and abdo a love when you o
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"lete as if time has fallen somehere from the clock as if light is seperated from"
+----- Generated lyrics:
+lete as if time has fallen somehere from the clock as if light is seperated from stall love the the stall of how my the story of you i are the in the of your some the of be some be
+
+----- Diversity:0.4
+----- Generating with seed:
+"lete as if time has fallen somehere from the clock as if light is seperated from"
+----- Generated lyrics:
+lete as if time has fallen somehere from the clock as if light is seperated from my heart is whe to is me the of the fore of my the see some some is with me in your some the some s
+
+----- Diversity:0.5
+----- Generating with seed:
+"lete as if time has fallen somehere from the clock as if light is seperated from"
+----- Generated lyrics:
+lete as if time has fallen somehere from the clock as if light is seperated from in the withouge to now is you heart every some it you the the heart ste you im ole in your it me lo
+
+----- Diversity:0.6
+----- Generating with seed:
+"lete as if time has fallen somehere from the clock as if light is seperated from"
+----- Generated lyrics:
+lete as if time has fallen somehere from the clock as if light is seperated from of you a live every of in wherevor everys the we the de om your have the me the ofe all be soolige 
+
+----- Diversity:0.7
+----- Generating with seed:
+"lete as if time has fallen somehere from the clock as if light is seperated from"
+----- Generated lyrics:
+lete as if time has fallen somehere from the clock as if light is seperated from ane there you ave frase for you have om the me tole is unan you laochana te keet you of the i give 
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning awa"
+----- Generated lyrics:
+resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning away beloved in my became ar i to store of the with you is and to you how has i love the from in of you
+
+----- Diversity:0.4
+----- Generating with seed:
+"resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning awa"
+----- Generated lyrics:
+resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning away beloved is me boy give somethis wyou of and muse to love sous as you i have to the without my how 
+
+----- Diversity:0.5
+----- Generating with seed:
+"resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning awa"
+----- Generated lyrics:
+resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning away bes now be breashow freets me bies boe be gove ow of to love you heart as you be or enes all and b
+
+----- Diversity:0.6
+----- Generating with seed:
+"resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning awa"
+----- Generated lyrics:
+resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning away the bain me breakhin be make tan share as chang the sude and but gon abe bedom nus wiy straye ram 
+
+----- Diversity:0.7
+----- Generating with seed:
+"resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning awa"
+----- Generated lyrics:
+resence oh my moon oh my my moon oh my beloved moon oh my beloved im turning away sabn my heart the deway ti bale befor oul sometithought you in the wind s dearst walo un tolik you
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"venings there were many moons lighting the sky that sea of togetherness ebbed aw"
+----- Generated lyrics:
+venings there were many moons lighting the sky that sea of togetherness ebbed away the sometime on you just and the the and someting of your the preams i way heart he fall me why t
+
+----- Diversity:0.4
+----- Generating with seed:
+"venings there were many moons lighting the sky that sea of togetherness ebbed aw"
+----- Generated lyrics:
+venings there were many moons lighting the sky that sea of togetherness ebbed awe the of wor god i when the shall to the the who of and the sare the be become the souche with you i
+
+----- Diversity:0.5
+----- Generating with seed:
+"venings there were many moons lighting the sky that sea of togetherness ebbed aw"
+----- Generated lyrics:
+venings there were many moons lighting the sky that sea of togetherness ebbed awill unde sade with me the as wat in of in as is ate mint someting sot thougring moment in and eas al
+
+----- Diversity:0.6
+----- Generating with seed:
+"venings there were many moons lighting the sky that sea of togetherness ebbed aw"
+----- Generated lyrics:
+venings there were many moons lighting the sky that sea of togetherness ebbed away with your ex in the fung to lean you the sompanffe way eyel keep che and aed sus and bet thouk an
+
+----- Diversity:0.7
+----- Generating with seed:
+"venings there were many moons lighting the sky that sea of togetherness ebbed aw"
+----- Generated lyrics:
+venings there were many moons lighting the sky that sea of togetherness ebbed aweneres is loveln dadnechod ase moment when of sweor as swithe winn sometteet deers soap the i ar the
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+" someone let loose my heart and filled it with love just with his eyes he spoke "
+----- Generated lyrics:
+ someone let loose my heart and filled it with love just with his eyes he spoke i what of love in you the with of your sometine thes in you i with you i the the with you in you her
+
+----- Diversity:0.4
+----- Generating with seed:
+" someone let loose my heart and filled it with love just with his eyes he spoke "
+----- Generated lyrics:
+ someone let loose my heart and filled it with love just with his eyes he spoke i wole of your come love without you wouc poe of i of and to you i lete the boy fawin to my laine so
+
+----- Diversity:0.5
+----- Generating with seed:
+" someone let loose my heart and filled it with love just with his eyes he spoke "
+----- Generated lyrics:
+ someone let loose my heart and filled it with love just with his eyes he spoke i whe world of and i lead the someting of your i store we ke a loves is fall you ba to you are if yo
+
+----- Diversity:0.6
+----- Generating with seed:
+" someone let loose my heart and filled it with love just with his eyes he spoke "
+----- Generated lyrics:
+ someone let loose my heart and filled it with love just with his eyes he spoke of your lowile the beclence way the for of be of on to and dong you how god as and the to sa in if t
+
+----- Diversity:0.7
+----- Generating with seed:
+" someone let loose my heart and filled it with love just with his eyes he spoke "
+----- Generated lyrics:
+ someone let loose my heart and filled it with love just with his eyes he spoke to my fros am thise the awe the eoy the sometimes or and you sous is of one tole of tire not the you
+
+================================================================================

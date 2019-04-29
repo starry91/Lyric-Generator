@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"thrilled i went crazy in love perished m"
+----- Generated lyrics:
+thrilled i went crazy in love perished made and in and in all and and and and and have a sabet and the a and that be a sand and and and same
+
+----- Diversity:0.4
+----- Generating with seed:
+"thrilled i went crazy in love perished m"
+----- Generated lyrics:
+thrilled i went crazy in love perished mancen crazy and the and sta a and the and and face and and and a cand was and sang and and and and e
+
+----- Diversity:0.5
+----- Generating with seed:
+"thrilled i went crazy in love perished m"
+----- Generated lyrics:
+thrilled i went crazy in love perished men love beautiful and the ive abaut that in love and in the and and if and happarets the and hare ev
+
+----- Diversity:0.6
+----- Generating with seed:
+"thrilled i went crazy in love perished m"
+----- Generated lyrics:
+thrilled i went crazy in love perished my dons what an come all the beautiful come and candesing of as and iver ance love coment all kad the
+
+----- Diversity:0.7
+----- Generating with seed:
+"thrilled i went crazy in love perished m"
+----- Generated lyrics:
+thrilled i went crazy in love perished my dreams a careen in all aly and that ive can my me to grazzy had and and crazy a ane things loves a
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"ful and tomorrow will call you theres a "
+----- Generated lyrics:
+ful and tomorrow will call you theres a with me theres alway shall sod beautiful ance ive are stare have and crazy even and sorl have before
+
+----- Diversity:0.4
+----- Generating with seed:
+"ful and tomorrow will call you theres a "
+----- Generated lyrics:
+ful and tomorrow will call you theres a can and me away fage an and away has and ang are cans ang and sang and since is and see and the saca
+
+----- Diversity:0.5
+----- Generating with seed:
+"ful and tomorrow will call you theres a "
+----- Generated lyrics:
+ful and tomorrow will call you theres a can be ah in beautiful away daking live was crazy yes ive have crazy never beautiful my befaids befa
+
+----- Diversity:0.6
+----- Generating with seed:
+"ful and tomorrow will call you theres a "
+----- Generated lyrics:
+ful and tomorrow will call you theres a sometime leave to but the body beautiful what beto are have start all in the crazy the with me you g
+
+----- Diversity:0.7
+----- Generating with seed:
+"ful and tomorrow will call you theres a "
+----- Generated lyrics:
+ful and tomorrow will call you theres a god chall crazy yes are alway this the coming the secons sould thes are howed seasong you i crazy de
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"son to live and will die for this it obl"
+----- Generated lyrics:
+son to live and will die for this it obleave and become and that as in god started the what i started beautiful a came come that become a gi
+
+----- Diversity:0.4
+----- Generating with seed:
+"son to live and will die for this it obl"
+----- Generated lyrics:
+son to live and will die for this it obless in alway become ance of and hearing the day face can go a but scond cannatter an love and stay b
+
+----- Diversity:0.5
+----- Generating with seed:
+"son to live and will die for this it obl"
+----- Generated lyrics:
+son to live and will die for this it oblace calll can love with me about always away has a samething the ours love such the started that sta
+
+----- Diversity:0.6
+----- Generating with seed:
+"son to live and will die for this it obl"
+----- Generated lyrics:
+son to live and will die for this it oblan fall my love with you are dreams come and away crazy the ovears of seen you whmed love at alway t
+
+----- Diversity:0.7
+----- Generating with seed:
+"son to live and will die for this it obl"
+----- Generated lyrics:
+son to live and will die for this it oblay crazy off what are become angithene go say the what scild be goinguiscempingsiacting put breath m
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"ve with you i didnt learn to live life i"
+----- Generated lyrics:
+ve with you i didnt learn to live life is to me alwant come to a sand alwas are named the cant beautiful a a started that can from hmm my he
+
+----- Diversity:0.4
+----- Generating with seed:
+"ve with you i didnt learn to live life i"
+----- Generated lyrics:
+ve with you i didnt learn to live life is this i have loven the is in love the crazy before living me in and stand the and second bading an 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ve with you i didnt learn to live life i"
+----- Generated lyrics:
+ve with you i didnt learn to live life is the mides now and shade away and shadows named shall me what i have beting stay the keep the in my
+
+----- Diversity:0.6
+----- Generating with seed:
+"ve with you i didnt learn to live life i"
+----- Generated lyrics:
+ve with you i didnt learn to live life if the middle from you are me alwand change who and love and away shadld a dal and that again the ses
+
+----- Diversity:0.7
+----- Generating with seed:
+"ve with you i didnt learn to live life i"
+----- Generated lyrics:
+ve with you i didnt learn to live life is god with loves if guief crazy yes but crazy now named badnessfabeen bit make main what named ach c
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"hall take the blame of it its just compl"
+----- Generated lyrics:
+hall take the blame of it its just completely once for the with me and leaves me an the beautiful as the and at always able the of an the me
+
+----- Diversity:0.4
+----- Generating with seed:
+"hall take the blame of it its just compl"
+----- Generated lyrics:
+hall take the blame of it its just completely the started away there eye an love standstill and the distance between us may fade away there 
+
+----- Diversity:0.5
+----- Generating with seed:
+"hall take the blame of it its just compl"
+----- Generated lyrics:
+hall take the blame of it its just completely therefore as air there if youre when me in a seen a promises care me as alway fird angly fragr
+
+----- Diversity:0.6
+----- Generating with seed:
+"hall take the blame of it its just compl"
+----- Generated lyrics:
+hall take the blame of it its just complete was before the acre the weenever even before i bears to living are the lived crazy there many be
+
+----- Diversity:0.7
+----- Generating with seed:
+"hall take the blame of it its just compl"
+----- Generated lyrics:
+hall take the blame of it its just completely an my heart angled keep flow i have breaths ablef separation my lair am lips are sering after 
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+" again smash smash again smash smash aga"
+----- Generated lyrics:
+ again smash smash again smash smash again in before place named new lasten blame was are fare feelfill in your love away for you will of da
+
+----- Diversity:0.4
+----- Generating with seed:
+" again smash smash again smash smash aga"
+----- Generated lyrics:
+ again smash smash again smash smash again in before my stantice that cants in my love my from in love was not fault of you world since wate
+
+----- Diversity:0.5
+----- Generating with seed:
+" again smash smash again smash smash aga"
+----- Generated lyrics:
+ again smash smash again smash smash again in before blow and contoatead away night you beautiful i stole if youre want heart it keep you in
+
+----- Diversity:0.6
+----- Generating with seed:
+" again smash smash again smash smash aga"
+----- Generated lyrics:
+ again smash smash again smash smash again in me why did to craziness us in bcalling bad living therefore when for heart the seen aways bad 
+
+----- Diversity:0.7
+----- Generating with seed:
+" again smash smash again smash smash aga"
+----- Generated lyrics:
+ again smash smash again smash smash again in my heart for you save we clink for you am has blagice what giveftart with you shall of parate 
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"dy like a fragrance her body is like aro"
+----- Generated lyrics:
+dy like a fragrance her body is like around in your become make me and now what chare see sacrifice my heart the sade many a stabe a face af
+
+----- Diversity:0.4
+----- Generating with seed:
+"dy like a fragrance her body is like aro"
+----- Generated lyrics:
+dy like a fragrance her body is like around in your become say ame and even the had the heart bee and for a that and formate name a started 
+
+----- Diversity:0.5
+----- Generating with seed:
+"dy like a fragrance her body is like aro"
+----- Generated lyrics:
+dy like a fragrance her body is like around in your become maye in the happened i needs are me and ence as no given away the seen get in the
+
+----- Diversity:0.6
+----- Generating with seed:
+"dy like a fragrance her body is like aro"
+----- Generated lyrics:
+dy like a fragrance her body is like around in the from me face if youre keep meeting ask him became and see and name and crazy fade a beaut
+
+----- Diversity:0.7
+----- Generating with seed:
+"dy like a fragrance her body is like aro"
+----- Generated lyrics:
+dy like a fragrance her body is like arour arms ardrace like a time feels named our cant seen are crazy away and at me again the dance row t
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"n which i have to live away from you you"
+----- Generated lyrics:
+n which i have to live away from you you are my beautiful as away urar made youre all became carricana start but all my from stara main and 
+
+----- Diversity:0.4
+----- Generating with seed:
+"n which i have to live away from you you"
+----- Generated lyrics:
+n which i have to live away from you you are spall of my life in the will the state if a shall like a alw nings in cloud fall of an the infi
+
+----- Diversity:0.5
+----- Generating with seed:
+"n which i have to live away from you you"
+----- Generated lyrics:
+n which i have to live away from you you are me beautiful as as all are an be in before ill are the enee as always as living if meeting of l
+
+----- Diversity:0.6
+----- Generating with seed:
+"n which i have to live away from you you"
+----- Generated lyrics:
+n which i have to live away from you you i am pain if there of youre will i was all and tee slialk if youre skarie going away get has become
+
+----- Diversity:0.7
+----- Generating with seed:
+"n which i have to live away from you you"
+----- Generated lyrics:
+n which i have to live away from you you are my before in your even warates me are in me now love even if search i was if youre with me are 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"se or bliss well share it all my love an"
+----- Generated lyrics:
+se or bliss well share it all my love and lovering partness the even away the mine separated from now what the heart and stars and much is t
+
+----- Diversity:0.4
+----- Generating with seed:
+"se or bliss well share it all my love an"
+----- Generated lyrics:
+se or bliss well share it all my love and less only pee slowly all off about now there is seen afre a face in your love triet is the saur fo
+
+----- Diversity:0.5
+----- Generating with seed:
+"se or bliss well share it all my love an"
+----- Generated lyrics:
+se or bliss well share it all my love and lover you parts between us me away away like awayed i have meeting in love was not about falling l
+
+----- Diversity:0.6
+----- Generating with seed:
+"se or bliss well share it all my love an"
+----- Generated lyrics:
+se or bliss well share it all my love and besting about slowly always alwo come one seconscious and mure i seases a always as i naget the ba
+
+----- Diversity:0.7
+----- Generating with seed:
+"se or bliss well share it all my love an"
+----- Generated lyrics:
+se or bliss well share it all my love and for you and these meeting if me my saune will sight about my breakup at you going you i lazy plang
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"ise to the creator praise to the creator"
+----- Generated lyrics:
+ise to the creator praise to the creator a beliefore sacrificed and yes there is as you are meates always as i passion away this is a flame 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ise to the creator praise to the creator"
+----- Generated lyrics:
+ise to the creator praise to the creator and the state ive as are cant to the state and me the rest fall of love as if the listen the god an
+
+----- Diversity:0.5
+----- Generating with seed:
+"ise to the creator praise to the creator"
+----- Generated lyrics:
+ise to the creator praise to the creator and the spaact if get there bad oh my bonscip way sect and you i have no god in my see named for ca
+
+----- Diversity:0.6
+----- Generating with seed:
+"ise to the creator praise to the creator"
+----- Generated lyrics:
+ise to the creator praise to the creator and the state care secreterf the stranger fragrance berase what always theres away every now i have
+
+----- Diversity:0.7
+----- Generating with seed:
+"ise to the creator praise to the creator"
+----- Generated lyrics:
+ise to the creator praise to the creator abert then are secrevoice and ive started these has are meeting song bliste always as been day fadl
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+" lips or words it doesnt matter if youre"
+----- Generated lyrics:
+ lips or words it doesnt matter if youre with me in me always with you are me mine in the perience when if it youre theres a lovers in your 
+
+----- Diversity:0.4
+----- Generating with seed:
+" lips or words it doesnt matter if youre"
+----- Generated lyrics:
+ lips or words it doesnt matter if youre with me in me control mrans since i have met you i be i started to learn with me became a face away
+
+----- Diversity:0.5
+----- Generating with seed:
+" lips or words it doesnt matter if youre"
+----- Generated lyrics:
+ lips or words it doesnt matter if youre with me or not every moment i have theres got angings about to happen to me the shad with me at and
+
+----- Diversity:0.6
+----- Generating with seed:
+" lips or words it doesnt matter if youre"
+----- Generated lyrics:
+ lips or words it doesnt matter if youre with me even the from me without since i started to live without mana of your scener burns abyes ar
+
+----- Diversity:0.7
+----- Generating with seed:
+" lips or words it doesnt matter if youre"
+----- Generated lyrics:
+ lips or words it doesnt matter if youre with me in me and reside to cant to pasings are in my in your with me are loves come being for clou
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"disaster if you do dont turn down his of"
+----- Generated lyrics:
+disaster if you do dont turn down his offent is is the infates are an face colour breaths theres a longer you give take me full and the mara
+
+----- Diversity:0.4
+----- Generating with seed:
+"disaster if you do dont turn down his of"
+----- Generated lyrics:
+disaster if you do dont turn down his offent is is i feel and to fall in my come it youre what everything if you say the will in your eyes a
+
+----- Diversity:0.5
+----- Generating with seed:
+"disaster if you do dont turn down his of"
+----- Generated lyrics:
+disaster if you do dont turn down his offent like an from youre like as i passion in your became have met anyour get in the state with your 
+
+----- Diversity:0.6
+----- Generating with seed:
+"disaster if you do dont turn down his of"
+----- Generated lyrics:
+disaster if you do dont turn down his offine in my before and always that you i have this a path first has been a share a fear away endies a
+
+----- Diversity:0.7
+----- Generating with seed:
+"disaster if you do dont turn down his of"
+----- Generated lyrics:
+disaster if you do dont turn down his offent sorrow i sacrificed now ning in met for me if you are the radel of a say and the keep you in th
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"ometimes ups sometimes downs we shant be"
+----- Generated lyrics:
+ometimes ups sometimes downs we shant be darnatell mwaste my lords belong and see craziness are no abis every now ive without seen is seen t
+
+----- Diversity:0.4
+----- Generating with seed:
+"ometimes ups sometimes downs we shant be"
+----- Generated lyrics:
+ometimes ups sometimes downs we shant be darnatell me my life eyes are fallen complain was ables love pleasked was mulethe stop in your we m
+
+----- Diversity:0.5
+----- Generating with seed:
+"ometimes ups sometimes downs we shant be"
+----- Generated lyrics:
+ometimes ups sometimes downs we shant be decame has will heart belonging as out falls nor anything and blili change are and sham and you are
+
+----- Diversity:0.6
+----- Generating with seed:
+"ometimes ups sometimes downs we shant be"
+----- Generated lyrics:
+ometimes ups sometimes downs we shant be dround light me in tressing in was never seen away in a state new will me carace us may fall me i s
+
+----- Diversity:0.7
+----- Generating with seed:
+"ometimes ups sometimes downs we shant be"
+----- Generated lyrics:
+ometimes ups sometimes downs we shant be darna glance me will blayed love are the craziness will never all b what constop as life of my brin
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+" its effect increases and hence the line"
+----- Generated lyrics:
+ its effect increases and hence the line the feels the heart the state if lives all free was belonge separated for state and the heart has a
+
+----- Diversity:0.4
+----- Generating with seed:
+" its effect increases and hence the line"
+----- Generated lyrics:
+ its effect increases and hence the line the feels if these being as given away easte to learn the search of my heart gone destinations it e
+
+----- Diversity:0.5
+----- Generating with seed:
+" its effect increases and hence the line"
+----- Generated lyrics:
+ its effect increases and hence the line the loves or sheety a little for in the street insistenceness there is a vering in the this good th
+
+----- Diversity:0.6
+----- Generating with seed:
+" its effect increases and hence the line"
+----- Generated lyrics:
+ its effect increases and hence the line cant every in meet you are the infatuation in the take offe alaking the parting that before always 
+
+----- Diversity:0.7
+----- Generating with seed:
+" its effect increases and hence the line"
+----- Generated lyrics:
+ its effect increases and hence the line the leaves are lied in the then world of an pliant and the was that appear in the deeppreses med ab
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"in which we meet to the fullest dear im "
+----- Generated lyrics:
+in which we meet to the fullest dear im the swear i staracining and see the had shain bine a befall make u away gappalls any has that any fe
+
+----- Diversity:0.4
+----- Generating with seed:
+"in which we meet to the fullest dear im "
+----- Generated lyrics:
+in which we meet to the fullest dear im this what you are met as as in your happens in the sprantein merhe and the part there har eyes are n
+
+----- Diversity:0.5
+----- Generating with seed:
+"in which we meet to the fullest dear im "
+----- Generated lyrics:
+in which we meet to the fullest dear im that we in your beautiful as before is without you have not behing be with me it youre with me in yo
+
+----- Diversity:0.6
+----- Generating with seed:
+"in which we meet to the fullest dear im "
+----- Generated lyrics:
+in which we meet to the fullest dear im the there is the care and see if the screening in her state be wills given me a let one no love as o
+
+----- Diversity:0.7
+----- Generating with seed:
+"in which we meet to the fullest dear im "
+----- Generated lyrics:
+in which we meet to the fullest dear im the started the neele what for way this put about will hpart feet you i faithfuln love it are the pl
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+" towards you oh god towards you towards "
+----- Generated lyrics:
+ towards you oh god towards you towards be able of and will of the roads of and shadows are does that that for has got come and state me alw
+
+----- Diversity:0.4
+----- Generating with seed:
+" towards you oh god towards you towards "
+----- Generated lyrics:
+ towards you oh god towards you towards be are a on your lover me see again with your beautiful as more with me all the paths moment seen is
+
+----- Diversity:0.5
+----- Generating with seed:
+" towards you oh god towards you towards "
+----- Generated lyrics:
+ towards you oh god towards you towards be will of the colorful all die to your else like ask always as are a betrayal of love to lover get 
+
+----- Diversity:0.6
+----- Generating with seed:
+" towards you oh god towards you towards "
+----- Generated lyrics:
+ towards you oh god towards you towards be heart of you clouds are heart of the blurded if youre does the winds never in a rain be lost each
+
+----- Diversity:0.7
+----- Generating with seed:
+" towards you oh god towards you towards "
+----- Generated lyrics:
+ towards you oh god towards you towards are meeting you clouds are in ane even the girls the angriness only now say once here this neele let
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"ll my love and friendyoure mine at this "
+----- Generated lyrics:
+ll my love and friendyoure mine at this wishes can eyes are the calls of the everything spain now black now i change or once away eyes are e
+
+----- Diversity:0.4
+----- Generating with seed:
+"ll my love and friendyoure mine at this "
+----- Generated lyrics:
+ll my love and friendyoure mine at this wish we are to belain for a call on the mine on soal its avaan enve aane dreams from your became and
+
+----- Diversity:0.5
+----- Generating with seed:
+"ll my love and friendyoure mine at this "
+----- Generated lyrics:
+ll my love and friendyoure mine at this the without you i have state came lets fream you are you i touched it pearls in the pain the melleds
+
+----- Diversity:0.6
+----- Generating with seed:
+"ll my love and friendyoure mine at this "
+----- Generated lyrics:
+ll my love and friendyoure mine at this wishes can eyes you should i am every feeling you are the innocent to meet you in my breathers balan
+
+----- Diversity:0.7
+----- Generating with seed:
+"ll my love and friendyoure mine at this "
+----- Generated lyrics:
+ll my love and friendyoure mine at this wishes away the fall skidls became an aasion for you are i see a little of constopped and in my eyes
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"s cruelty has befallen im a great deal o"
+----- Generated lyrics:
+s cruelty has befallen im a great deal of may you are never ebenever passed i feel berent i separated the eyes are sames are shall happen as
+
+----- Diversity:0.4
+----- Generating with seed:
+"s cruelty has befallen im a great deal o"
+----- Generated lyrics:
+s cruelty has befallen im a great deal of may you are and since in your eyes are main in my heart is the remembrace we with an the the will 
+
+----- Diversity:0.5
+----- Generating with seed:
+"s cruelty has befallen im a great deal o"
+----- Generated lyrics:
+s cruelty has befallen im a great deal of moon the pring in the state desires are the wind of been for you paths beauty in my crazy named me
+
+----- Diversity:0.6
+----- Generating with seed:
+"s cruelty has befallen im a great deal o"
+----- Generated lyrics:
+s cruelty has befallen im a great deal of me ayerase made a veres only night god says and come in my heart doleare oh youre the star as me a
+
+----- Diversity:0.7
+----- Generating with seed:
+"s cruelty has befallen im a great deal o"
+----- Generated lyrics:
+s cruelty has befallen im a great deal of may your friend in every crazs asky ive crazy eyes are the keep oh your eleft me are beenners and 
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"e day the story of this injustice is wha"
+----- Generated lyrics:
+e day the story of this injustice is whats that we have something god somewe the beautiful away the wind god today and but always as met lif
+
+----- Diversity:0.4
+----- Generating with seed:
+"e day the story of this injustice is wha"
+----- Generated lyrics:
+e day the story of this injustice is whats no for you if youre with me crazy named you crazy yes are my eyes crazy desirachs get there ard d
+
+----- Diversity:0.5
+----- Generating with seed:
+"e day the story of this injustice is wha"
+----- Generated lyrics:
+e day the story of this injustice is whats thy of youre the dide of become of may flowing love be state desires of god this love are how let
+
+----- Diversity:0.6
+----- Generating with seed:
+"e day the story of this injustice is wha"
+----- Generated lyrics:
+e day the story of this injustice is what this the theirso face here the sidpe to you are the kidstarted to you only became colourue of my f
+
+----- Diversity:0.7
+----- Generating with seed:
+"e day the story of this injustice is wha"
+----- Generated lyrics:
+e day the story of this injustice is whats no for for about you are lets of your damaanaif any heart passes away in a moment we will be ther
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"ont know i dont know o heart be steady y"
+----- Generated lyrics:
+ont know i dont know o heart be steady youre how destinations brought in my prayer that god now now my eyes yeed in meeting even all curl cr
+
+----- Diversity:0.4
+----- Generating with seed:
+"ont know i dont know o heart be steady y"
+----- Generated lyrics:
+ont know i dont know o heart be steady youre to leave a fate of youres a moment sound kid and conscious and badly off has given away has giv
+
+----- Diversity:0.5
+----- Generating with seed:
+"ont know i dont know o heart be steady y"
+----- Generated lyrics:
+ont know i dont know o heart be steady youre hold change my belong also baappinessed then mehird always be apart on god this again it only f
+
+----- Diversity:0.6
+----- Generating with seed:
+"ont know i dont know o heart be steady y"
+----- Generated lyrics:
+ont know i dont know o heart be steady youre how my beloved offees weallers and changed heart is as your with you i have deep it dir picto f
+
+----- Diversity:0.7
+----- Generating with seed:
+"ont know i dont know o heart be steady y"
+----- Generated lyrics:
+ont know i dont know o heart be steady your eyelidshas embrace can k cannot but you are tuated who night it of youre with you even if the ha
+
+================================================================================

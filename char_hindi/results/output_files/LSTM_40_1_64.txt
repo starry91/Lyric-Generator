@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"ng your heart a sorry state all the roma"
+----- Generated lyrics:
+ng your heart a sorry state all the romay and the and and and are and have and have beant and and and an and and in a and and that and and a
+
+----- Diversity:0.4
+----- Generating with seed:
+"ng your heart a sorry state all the roma"
+----- Generated lyrics:
+ng your heart a sorry state all the romarncoor heart ing ing and a and of and an in what ane and and in the i a and of an and the call and t
+
+----- Diversity:0.5
+----- Generating with seed:
+"ng your heart a sorry state all the roma"
+----- Generated lyrics:
+ng your heart a sorry state all the romabe ave a to you a world a a as ane ane have a an the and ance a a in sace are azy sare a ane arl be 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ng your heart a sorry state all the roma"
+----- Generated lyrics:
+ng your heart a sorry state all the romas all ane for asta stant with heare live of the and of aye with beang the hare will are to ald way h
+
+----- Diversity:0.7
+----- Generating with seed:
+"ng your heart a sorry state all the roma"
+----- Generated lyrics:
+ng your heart a sorry state all the romaun my that brazy in you all ever will a dave a am aare a and that wat not paands crazy staot ats one
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"world is nothing but lonely wilderness i"
+----- Generated lyrics:
+world is nothing but lonely wilderness in your are crazy the ive are change in the stare made a and crazy a stare and the are the sangle as 
+
+----- Diversity:0.4
+----- Generating with seed:
+"world is nothing but lonely wilderness i"
+----- Generated lyrics:
+world is nothing but lonely wilderness if me can have away have away and fare and ane a way a and beautiful sometime and was a a that and an
+
+----- Diversity:0.5
+----- Generating with seed:
+"world is nothing but lonely wilderness i"
+----- Generated lyrics:
+world is nothing but lonely wilderness if the why of you of youre stacind you will be and the in my beloved he all word world you beautiful 
+
+----- Diversity:0.6
+----- Generating with seed:
+"world is nothing but lonely wilderness i"
+----- Generated lyrics:
+world is nothing but lonely wilderness in your crazy ove with mellm ace ang and calaned my heart am all ace ang the day dance stall have as 
+
+----- Diversity:0.7
+----- Generating with seed:
+"world is nothing but lonely wilderness i"
+----- Generated lyrics:
+world is nothing but lonely wilderness is in on if all of deeparing see ance i shange alad if the will heart and of me have these in when ev
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"ill be with you whether i live or not il"
+----- Generated lyrics:
+ill be with you whether i live or not ill when you are accept and and me and in a seen beautiful ance was away fall that as in my and what t
+
+----- Diversity:0.4
+----- Generating with seed:
+"ill be with you whether i live or not il"
+----- Generated lyrics:
+ill be with you whether i live or not ill beautiful bouch in made what on love a constop and in the and stare and and seen alway sang and th
+
+----- Diversity:0.5
+----- Generating with seed:
+"ill be with you whether i live or not il"
+----- Generated lyrics:
+ill be with you whether i live or not ill beautiful of the blang sang tare away stalk apay care and and life as happened hearon stalted of t
+
+----- Diversity:0.6
+----- Generating with seed:
+"ill be with you whether i live or not il"
+----- Generated lyrics:
+ill be with you whether i live or not ill because are wants if ang beyle and i swalk i am again a sof and have had come of love for haire mi
+
+----- Diversity:0.7
+----- Generating with seed:
+"ill be with you whether i live or not il"
+----- Generated lyrics:
+ill be with you whether i live or not ill sake beforeswe this wes that in you of the moment sanever get crabe all burns have are in my heart
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"and the distance between us may fade awa"
+----- Generated lyrics:
+and the distance between us may fade away seess if love started i was started i what the can sanate became and can the away and the with you
+
+----- Diversity:0.4
+----- Generating with seed:
+"and the distance between us may fade awa"
+----- Generated lyrics:
+and the distance between us may fade away and be seet in the world to become world can can became and and the and beautiful bods god became 
+
+----- Diversity:0.5
+----- Generating with seed:
+"and the distance between us may fade awa"
+----- Generated lyrics:
+and the distance between us may fade away searcame and and and and a have is became and and cant became ceange comn a braay of beautiful as 
+
+----- Diversity:0.6
+----- Generating with seed:
+"and the distance between us may fade awa"
+----- Generated lyrics:
+and the distance between us may fade away the bad same alway heart ive a ceach have the betere all shall have about sometime crazy and i lov
+
+----- Diversity:0.7
+----- Generating with seed:
+"and the distance between us may fade awa"
+----- Generated lyrics:
+and the distance between us may fade aways about talk loven beaute mover away badies sometoing me in in each whole arm as what lord i shall 
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"ng he teaches the way of life to everyon"
+----- Generated lyrics:
+ng he teaches the way of life to everyone of youre that seeting in your breaths moment if my become crazy the ive met you are and the song a
+
+----- Diversity:0.4
+----- Generating with seed:
+"ng he teaches the way of life to everyon"
+----- Generated lyrics:
+ng he teaches the way of life to everyone state and every moment for and that song in sance in youre shall shall sang are sance sain sang in
+
+----- Diversity:0.5
+----- Generating with seed:
+"ng he teaches the way of life to everyon"
+----- Generated lyrics:
+ng he teaches the way of life to everyone stant life the fall of distance is well crance care and carefore love started the sang in my breat
+
+----- Diversity:0.6
+----- Generating with seed:
+"ng he teaches the way of life to everyon"
+----- Generated lyrics:
+ng he teaches the way of life to everyone solles and a all have me i have beautiful as my heart stare able about if me ive meeting on you fr
+
+----- Diversity:0.7
+----- Generating with seed:
+"ng he teaches the way of life to everyon"
+----- Generated lyrics:
+ng he teaches the way of life to everyone connected in your life never i started away in youre and cause nights dama nam all in my eyes an i
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+" with me the permission to love you from"
+----- Generated lyrics:
+ with me the permission to love you from in my heart starsen to and my always beloved i am beautiful of mase with me you crazy that in my be
+
+----- Diversity:0.4
+----- Generating with seed:
+" with me the permission to love you from"
+----- Generated lyrics:
+ with me the permission to love you from in my heart some and manishmad you are me but ause what me accete is beautiful as in my heartbeat b
+
+----- Diversity:0.5
+----- Generating with seed:
+" with me the permission to love you from"
+----- Generated lyrics:
+ with me the permission to love you from in my heart starsen because i have are the what sonly fade a shadow how a can the moment of as that
+
+----- Diversity:0.6
+----- Generating with seed:
+" with me the permission to love you from"
+----- Generated lyrics:
+ with me the permission to love you from in my heart youre in my heart some like a leave with me youre conscious some made in youre middre b
+
+----- Diversity:0.7
+----- Generating with seed:
+" with me the permission to love you from"
+----- Generated lyrics:
+ with me the permission to love you from in the saways it arent that state and you can the rain body badie all the onely that some has every
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+" oh my god i could give away this heart "
+----- Generated lyrics:
+ oh my god i could give away this heart i stay soul of me has such the stars sometime in youre of betreets and i too and in the reading a th
+
+----- Diversity:0.4
+----- Generating with seed:
+" oh my god i could give away this heart "
+----- Generated lyrics:
+ oh my god i could give away this heart blesses state in your state ive without me are meeting in my deart some and tell the becoming in the
+
+----- Diversity:0.5
+----- Generating with seed:
+" oh my god i could give away this heart "
+----- Generated lyrics:
+ oh my god i could give away this heart me of youre world if youre me youre lime a san same the middless me made has same became and you are
+
+----- Diversity:0.6
+----- Generating with seed:
+" oh my god i could give away this heart "
+----- Generated lyrics:
+ oh my god i could give away this heart but in the bringes fram what should be beautiful away states long for you swaying me all see a lanci
+
+----- Diversity:0.7
+----- Generating with seed:
+" oh my god i could give away this heart "
+----- Generated lyrics:
+ oh my god i could give away this heart it liven got prayerson ive lat swear loves then of lasing eded the stant canstneble came na pramines
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+" face ah falling in love with you male y"
+----- Generated lyrics:
+ face ah falling in love with you male you can seen the will stay and to fallen our lipe stay talk you what youre aid seen the world i have 
+
+----- Diversity:0.4
+----- Generating with seed:
+" face ah falling in love with you male y"
+----- Generated lyrics:
+ face ah falling in love with you male you crazy named lead becryels thou me lastes gain the became after will gone the world how who loves 
+
+----- Diversity:0.5
+----- Generating with seed:
+" face ah falling in love with you male y"
+----- Generated lyrics:
+ face ah falling in love with you male youre me every moment the sang sometineds passun boven away the have sacrificed be state in the could
+
+----- Diversity:0.6
+----- Generating with seed:
+" face ah falling in love with you male y"
+----- Generated lyrics:
+ face ah falling in love with you male you clour eyes stare in your lover me all in my lovening you are not prayer anymand even the and a se
+
+----- Diversity:0.7
+----- Generating with seed:
+" face ah falling in love with you male y"
+----- Generated lyrics:
+ face ah falling in love with you male youre any meders my beloved me and met you are me crings even weans an a frant away heart all as rest
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+" nomad nomad the heart is nomad for her "
+----- Generated lyrics:
+ nomad nomad the heart is nomad for her with the world of and have with when i have to in your hain the heart since away has in your hain wh
+
+----- Diversity:0.4
+----- Generating with seed:
+" nomad nomad the heart is nomad for her "
+----- Generated lyrics:
+ nomad nomad the heart is nomad for her world is what ive crazy named you are an ive the moon every all the me also able has with me my eyes
+
+----- Diversity:0.5
+----- Generating with seed:
+" nomad nomad the heart is nomad for her "
+----- Generated lyrics:
+ nomad nomad the heart is nomad for her so lover when in my life and the will to face hind you seen what is and in the even there world when
+
+----- Diversity:0.6
+----- Generating with seed:
+" nomad nomad the heart is nomad for her "
+----- Generated lyrics:
+ nomad nomad the heart is nomad for her with the world ever as i have been come always words up one seen and the and teed the sang got we wh
+
+----- Diversity:0.7
+----- Generating with seed:
+" nomad nomad the heart is nomad for her "
+----- Generated lyrics:
+ nomad nomad the heart is nomad for her with youre with the eyelids maste is a every if lipe ole like face of youre world leading in life in
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"y beloved x let me drink out from your e"
+----- Generated lyrics:
+y beloved x let me drink out from your eyes are there meeting in the moments fore has ivening if lips name do even a sometime a got hai shal
+
+----- Diversity:0.4
+----- Generating with seed:
+"y beloved x let me drink out from your e"
+----- Generated lyrics:
+y beloved x let me drink out from your eyes are there beautiful moment you are has every me going i wanna of love sometime lonet one me worl
+
+----- Diversity:0.5
+----- Generating with seed:
+"y beloved x let me drink out from your e"
+----- Generated lyrics:
+y beloved x let me drink out from your eyes orlever acceptiness of and me careffect heart and the sannow i have sacrouve with me me crazines
+
+----- Diversity:0.6
+----- Generating with seed:
+"y beloved x let me drink out from your e"
+----- Generated lyrics:
+y beloved x let me drink out from your eyes are there met not evening ive a sorrow seach nawing in your stance sworld sohler cannot be my he
+
+----- Diversity:0.7
+----- Generating with seed:
+"y beloved x let me drink out from your e"
+----- Generated lyrics:
+y beloved x let me drink out from your eyes are there the too lovening agtaage has that he world some his thleps have in here have from now 
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+" are so beautiful i could die to see you"
+----- Generated lyrics:
+ are so beautiful i could die to see you see my eyes are and and the sang and and me always for searce wet then is life and whole has see al
+
+----- Diversity:0.4
+----- Generating with seed:
+" are so beautiful i could die to see you"
+----- Generated lyrics:
+ are so beautiful i could die to see your eyes became my beloved ole my dear in your started to feels are my lover always can even the will 
+
+----- Diversity:0.5
+----- Generating with seed:
+" are so beautiful i could die to see you"
+----- Generated lyrics:
+ are so beautiful i could die to see youre with me a will beloved i sable me mure youre come beloved to of love in my heart say seen the me 
+
+----- Diversity:0.6
+----- Generating with seed:
+" are so beautiful i could die to see you"
+----- Generated lyrics:
+ are so beautiful i could die to see you bringing all all of me able in live without in my heart beautiful away from are has and seear and t
+
+----- Diversity:0.7
+----- Generating with seed:
+" are so beautiful i could die to see you"
+----- Generated lyrics:
+ are so beautiful i could die to see you some all if youre world i will everything if youre world fair ow for away i from shanlaroin the als
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"n yourself then life will be beautiful a"
+----- Generated lyrics:
+n yourself then life will be beautiful always with these away for you for come passion we a san to for and in lover seen in your in seen hav
+
+----- Diversity:0.4
+----- Generating with seed:
+"n yourself then life will be beautiful a"
+----- Generated lyrics:
+n yourself then life will be beautiful always commined in youre with because for face when you come care and every song if my beloved me for
+
+----- Diversity:0.5
+----- Generating with seed:
+"n yourself then life will be beautiful a"
+----- Generated lyrics:
+n yourself then life will be beautiful away state fall if ole always in the sable good and and and a love stand die a living you are moment 
+
+----- Diversity:0.6
+----- Generating with seed:
+"n yourself then life will be beautiful a"
+----- Generated lyrics:
+n yourself then life will be beautiful about you i staind before no bedorn as for you some bies smine yes over as fived desire every is ever
+
+----- Diversity:0.7
+----- Generating with seed:
+"n yourself then life will be beautiful a"
+----- Generated lyrics:
+n yourself then life will be beautiful away in my heart dreams abling in your what world in tanter worls always a dont in the looks of of as
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"u i have forgotten the whole world just "
+----- Generated lyrics:
+u i have forgotten the whole world just come to you and touch as the disedses before in to me craing fore can hain the sang and crazy heart 
+
+----- Diversity:0.4
+----- Generating with seed:
+"u i have forgotten the whole world just "
+----- Generated lyrics:
+u i have forgotten the whole world just come traa and stand when the dises in my breaths we a crazy naariving bemem that hai wish theres it 
+
+----- Diversity:0.5
+----- Generating with seed:
+"u i have forgotten the whole world just "
+----- Generated lyrics:
+u i have forgotten the whole world just come to askent for at tame this coming a am stranger hai can many hai stance away the parth has it h
+
+----- Diversity:0.6
+----- Generating with seed:
+"u i have forgotten the whole world just "
+----- Generated lyrics:
+u i have forgotten the whole world just come to you and toda and the differenli bfeware for my dreams and with you only dreamssom every seem
+
+----- Diversity:0.7
+----- Generating with seed:
+"u i have forgotten the whole world just "
+----- Generated lyrics:
+u i have forgotten the whole world just come the astancefby in matter hace fall acting in sack if thingings the became from your becates bec
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"y met yesterday they met mine yesterday "
+----- Generated lyrics:
+y met yesterday they met mine yesterday of the moment fault for you with you what i dont think the world of if become bit became a come an w
+
+----- Diversity:0.4
+----- Generating with seed:
+"y met yesterday they met mine yesterday "
+----- Generated lyrics:
+y met yesterday they met mine yesterday and for your what will be a seen to me are if the place fair it as you in my breaths ill love you yo
+
+----- Diversity:0.5
+----- Generating with seed:
+"y met yesterday they met mine yesterday "
+----- Generated lyrics:
+y met yesterday they met mine yesterday some oyar ime loots stay since in the sume a s see sore you are the blance is a life and pain in you
+
+----- Diversity:0.6
+----- Generating with seed:
+"y met yesterday they met mine yesterday "
+----- Generated lyrics:
+y met yesterday they met mine yesterday of the moment seets are beloved about unsest these meet in my heart becare safe my heart is the time
+
+----- Diversity:0.7
+----- Generating with seed:
+"y met yesterday they met mine yesterday "
+----- Generated lyrics:
+y met yesterday they met mine yesterday and coming i was this while shake me craze he he badrine craziness im acreati care that in my breath
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"friend of friends i meet everybody with "
+----- Generated lyrics:
+friend of friends i meet everybody with every feel every prayer of youre meeting ive in your eyes in my eyes are then like you are my breath
+
+----- Diversity:0.4
+----- Generating with seed:
+"friend of friends i meet everybody with "
+----- Generated lyrics:
+friend of friends i meet everybody with me i have been you my heart it friends in my compantrby went if youre with me at meetire meeting in 
+
+----- Diversity:0.5
+----- Generating with seed:
+"friend of friends i meet everybody with "
+----- Generated lyrics:
+friend of friends i meet everybody with every from a playing shadle im crazy and i some always it lost in the moon us as that has small for 
+
+----- Diversity:0.6
+----- Generating with seed:
+"friend of friends i meet everybody with "
+----- Generated lyrics:
+friend of friends i meet everybody with everythere ain youre semple ole desirecinessa rest the seen in youre with every since in have meetir
+
+----- Diversity:0.7
+----- Generating with seed:
+"friend of friends i meet everybody with "
+----- Generated lyrics:
+friend of friends i meet everybody with me if every of than meeting if youre with me always for what i have loves then in my heart a trave g
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"d me i stare at thou every time whether "
+----- Generated lyrics:
+d me i stare at thou every time whether in the story farewell farewell nown by and whats he love we dreams meeting moment if the seems separ
+
+----- Diversity:0.4
+----- Generating with seed:
+"d me i stare at thou every time whether "
+----- Generated lyrics:
+d me i stare at thou every time whether in the reallbe for got in the world on yours and my beloved as you with every feel of my pray do tak
+
+----- Diversity:0.5
+----- Generating with seed:
+"d me i stare at thou every time whether "
+----- Generated lyrics:
+d me i stare at thou every time whether i have not be in loves seen the world planets meeting in the world of and meeting always in my desir
+
+----- Diversity:0.6
+----- Generating with seed:
+"d me i stare at thou every time whether "
+----- Generated lyrics:
+d me i stare at thou every time whether it sacrifhfost in my heart alsomething you now he lose and and and that this is away if hey much has
+
+----- Diversity:0.7
+----- Generating with seed:
+"d me i stare at thou every time whether "
+----- Generated lyrics:
+d me i stare at thou every time whether a started for your which ive these single are there is wiftell these is the are besores of doesnt ma
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+" lala lala lala lala la a smoke has rise"
+----- Generated lyrics:
+ lala lala lala lala la a smoke has riself are made is like a little in thinking our hair bit coming in away for your hand mine always for a
+
+----- Diversity:0.4
+----- Generating with seed:
+" lala lala lala lala la a smoke has rise"
+----- Generated lyrics:
+ lala lala lala lala la a smoke has rise for and every are what to me and and can in her your can see cannot youre crazy yes are norl keep s
+
+----- Diversity:0.5
+----- Generating with seed:
+" lala lala lala lala la a smoke has rise"
+----- Generated lyrics:
+ lala lala lala lala la a smoke has riself are made if knears in the hind a seent an if lovecame good mine in the beautiful are some and mad
+
+----- Diversity:0.6
+----- Generating with seed:
+" lala lala lala lala la a smoke has rise"
+----- Generated lyrics:
+ lala lala lala lala la a smoke has rise sky like sang ainfill given if when minet he mors coming shamp moment he ween think tates are meets
+
+----- Diversity:0.7
+----- Generating with seed:
+" lala lala lala lala la a smoke has rise"
+----- Generated lyrics:
+ lala lala lala lala la a smoke has riself you made of knows waste theres meeting in my beloved me see there even of this with vers secest i
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+" joy has disturbed me thy pair of the ey"
+----- Generated lyrics:
+ joy has disturbed me thy pair of the eyes with fall of love are filled fall of love of you breaku me whats of love without you more started
+
+----- Diversity:0.4
+----- Generating with seed:
+" joy has disturbed me thy pair of the ey"
+----- Generated lyrics:
+ joy has disturbed me thy pair of the eyes with fromt im lifet you are sorrow it you some my heart me slook live in the with your hearts all
+
+----- Diversity:0.5
+----- Generating with seed:
+" joy has disturbed me thy pair of the ey"
+----- Generated lyrics:
+ joy has disturbed me thy pair of the eyes and mit me in your got be o sorrow a love never sea comsining from cominithinain bitting to to be
+
+----- Diversity:0.6
+----- Generating with seed:
+" joy has disturbed me thy pair of the ey"
+----- Generated lyrics:
+ joy has disturbed me thy pair of the eyes world of in youre with you in the realleven ange sang in there of the dinks marbying in hare mome
+
+----- Diversity:0.7
+----- Generating with seed:
+" joy has disturbed me thy pair of the ey"
+----- Generated lyrics:
+ joy has disturbed me thy pair of the eyes and mine in there with me me me nare me to from evening in the moon as some sorrow experien the h
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"my eyes with your own should i love or n"
+----- Generated lyrics:
+my eyes with your own should i love or not beautiful some to deeps as say fall that care sometimes now all in lovers offerent loose seen in 
+
+----- Diversity:0.4
+----- Generating with seed:
+"my eyes with your own should i love or n"
+----- Generated lyrics:
+my eyes with your own should i love or not beautiful homed in your body lovelink the me with has the ching of my heart ive like this was the
+
+----- Diversity:0.5
+----- Generating with seed:
+"my eyes with your own should i love or n"
+----- Generated lyrics:
+my eyes with your own should i love or not beautiful in the with started loven my breath sare in your name to balane in your wrate the heart
+
+----- Diversity:0.6
+----- Generating with seed:
+"my eyes with your own should i love or n"
+----- Generated lyrics:
+my eyes with your own should i love or not beautiful in the with you as me and ange world im with me and what i shor love i feel in hand of 
+
+----- Diversity:0.7
+----- Generating with seed:
+"my eyes with your own should i love or n"
+----- Generated lyrics:
+my eyes with your own should i love or not beautiful always for way and of your eyes are crazy your arms ball me by farsm long ur acceatu ar
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"reets like a destitute you shall not att"
+----- Generated lyrics:
+reets like a destitute you shall not attain annotgo away not the hand to like a long of me become season in loven beautiful as meeting in it
+
+----- Diversity:0.4
+----- Generating with seed:
+"reets like a destitute you shall not att"
+----- Generated lyrics:
+reets like a destitute you shall not attain and now a drink at yours and always in your arms take airning in the rain the world of always ca
+
+----- Diversity:0.5
+----- Generating with seed:
+"reets like a destitute you shall not att"
+----- Generated lyrics:
+reets like a destitute you shall not attain and in lover you the mine there as this offet meeting full thanginies lifelessturatinithef imins
+
+----- Diversity:0.6
+----- Generating with seed:
+"reets like a destitute you shall not att"
+----- Generated lyrics:
+reets like a destitute you shall not attrall foonliteclaunning strands vaning that stalks if husher what good stanstuble bant something apar
+
+----- Diversity:0.7
+----- Generating with seed:
+"reets like a destitute you shall not att"
+----- Generated lyrics:
+reets like a destitute you shall not attain annotgo charunning in then take after afferenew it in this dont between a kight whats only by no
+
+================================================================================

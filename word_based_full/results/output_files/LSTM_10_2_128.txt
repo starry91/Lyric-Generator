@@ -1,0 +1,873 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"
+ darling, we were always meant to stay together 
+"
+----- Generated lyrics:
+
+ darling, we were always meant to stay together 
+ 
+ 
+ i know i can't be 
+ 
+ and i know the time 
+ 
+ and i know i can't believe 
+ and you know the time 
+ i know that i can't be 
+ 
+ and i want to go 
+ 
+ and the world 
+ 
+ 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ darling, we were always meant to stay together 
+"
+----- Generated lyrics:
+
+ darling, we were always meant to stay together 
+ the time 
+ 
+ 
+ just to me 
+ 
+ and i can't be the road 
+ 
+ got a little little thing 
+ 
+ i can't know 
+ to the new 
+ i don't want to go 
+ to the world 
+ 
+ 
+ to be my dreams 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ darling, we were always meant to stay together 
+"
+----- Generated lyrics:
+
+ darling, we were always meant to stay together 
+ 
+ 
+ touch the road 
+ and you know you kinda smile 
+ 
+ the time 
+ 
+ in the time and i know 
+ i don't know the road 
+ 
+ and the world of the road 
+ 
+ i know the time 
+ and the way like your
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ darling, we were always meant to stay together 
+"
+----- Generated lyrics:
+
+ darling, we were always meant to stay together 
+ a woman back to back 
+ 
+ 
+ that i think when i'm got my hard 
+ 
+ i'm not making me 
+ and i can't live 
+ 
+ i'm on the road 
+ or the storm 
+ and you know of the old 
+ i'll be a blood to
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ darling, we were always meant to stay together 
+"
+----- Generated lyrics:
+
+ darling, we were always meant to stay together 
+ here gonna be you 
+ 
+ and we know i'm an old thing to live and 
+ give it in the part 
+ this seems gonna try to say what it all is the way 
+ 
+ i don't want to see 
+ 
+ it said 
+ i can be
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"it 
+ and when a mountain stands before you 
+"
+----- Generated lyrics:
+it 
+ and when a mountain stands before you 
+ and the world and the other world 
+ and the world will be 
+ and i don't know 
+ and i don't know you don't know 
+ 
+ [chorus] 
+ and the world is a legend to go 
+ and i know that i don't know 
+ and i don't
+
+----- Diversity:0.4
+----- Generating with seed:
+"it 
+ and when a mountain stands before you 
+"
+----- Generated lyrics:
+it 
+ and when a mountain stands before you 
+ and the world is a legend to turn 
+ 
+ my time and my man and i know 
+ and the time is your dreams 
+ 
+ and the world is so and the world 
+ and the world is so and do 
+ and the world 
+ and the
+
+----- Diversity:0.5
+----- Generating with seed:
+"it 
+ and when a mountain stands before you 
+"
+----- Generated lyrics:
+it 
+ and when a mountain stands before you 
+ and the time to be with your name 
+ 
+ the road and the world 
+ and i don't tell me that you can't make me down 
+ and i love and my way 
+ 
+ and i will be a legend to see 
+ 
+ [chorus] 
+ and the
+
+----- Diversity:0.6
+----- Generating with seed:
+"it 
+ and when a mountain stands before you 
+"
+----- Generated lyrics:
+it 
+ and when a mountain stands before you 
+ and a little bit of a road 
+ and the hard another road 
+ and i know you 
+ oh baby, just you know that of your dreams 
+ and i could see my heart is a legend to only your mexico 
+ and the time in the road 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"it 
+ and when a mountain stands before you 
+"
+----- Generated lyrics:
+it 
+ and when a mountain stands before you 
+ and i love you, and i feel the world 
+ and i never let go down 
+ and it's in the road 
+ and the time is looked in the water 
+ in the desert was all of the world 
+ 
+ i'm still in the stars of your eyes
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"but now you don't 
+ cause you don't want my"
+----- Generated lyrics:
+but now you don't 
+ cause you don't want my feelings 
+ i can't be coming home 
+ 
+ and i can't help it go 
+ and i can't help you go 
+ i can't be 
+ i know that i love you so 
+ and i can't stay 
+ i can't be there 
+ i can't help you go
+
+----- Diversity:0.4
+----- Generating with seed:
+"but now you don't 
+ cause you don't want my"
+----- Generated lyrics:
+but now you don't 
+ cause you don't want my head 
+ i can't keep my own own na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na
+
+----- Diversity:0.5
+----- Generating with seed:
+"but now you don't 
+ cause you don't want my"
+----- Generated lyrics:
+but now you don't 
+ cause you don't want my dead or alive 
+ 
+ now they ask me more than love 
+ and no one knows a man 
+ that i want to go 
+ let me say once time, maybe two, 
+ and i don't ever ask me to leave it 
+ and you're the only thing i
+
+----- Diversity:0.6
+----- Generating with seed:
+"but now you don't 
+ cause you don't want my"
+----- Generated lyrics:
+but now you don't 
+ cause you don't want my dead or alive 
+ don't know where to do 
+ i know that i break free 
+ some other time 
+ and you're coming home 
+ 
+ yes, it would be my own 
+ and i'm gonna take the chill 
+ that you think that i don't want it 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"but now you don't 
+ cause you don't want my"
+----- Generated lyrics:
+but now you don't 
+ cause you don't want my love 
+ i can't go on 
+ a chorus 
+ and i'm gonna be and i i can't go 
+ 
+ in your arms again 
+ and dum, the desert play my guitar 
+ 
+ anytime you're feelin' blue and my time 
+ 
+ if your dream in a legend
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"watch out 
+ anywhere you go i'll find you 
+"
+----- Generated lyrics:
+watch out 
+ anywhere you go i'll find you 
+ and if you feel my lady 
+ and i'll be there to stay 
+ and i can't help go down 
+ i can't be in love 
+ and i can't get to you 
+ 
+ i guess that i could make it 
+ and i can't get it to the
+
+----- Diversity:0.4
+----- Generating with seed:
+"watch out 
+ anywhere you go i'll find you 
+"
+----- Generated lyrics:
+watch out 
+ anywhere you go i'll find you 
+ you're right like you don't know 
+ and i can't you see, i can't get so alone 
+ and i can't get to you, 
+ i know that you're so 
+ and i can't get your love 
+ and i can't get it to the time 
+ i know i'll
+
+----- Diversity:0.5
+----- Generating with seed:
+"watch out 
+ anywhere you go i'll find you 
+"
+----- Generated lyrics:
+watch out 
+ anywhere you go i'll find you 
+ oh baby, baby 
+ you know you're gonna gonna stay 
+ you call me, i'm gonna stay alive 
+ 
+ my thoughts may angels go down 
+ and now i can't be there 
+ and then i love me 
+ 
+ so long, so long, so long 
+ 
+ [chorus:]
+
+----- Diversity:0.6
+----- Generating with seed:
+"watch out 
+ anywhere you go i'll find you 
+"
+----- Generated lyrics:
+watch out 
+ anywhere you go i'll find you 
+ but the time i try to make it far away 
+ and i want to see you 
+ and i know the words i used to stay 
+ if we could make it to the border 
+ we were caught in the morning 
+ 
+ now we're screaming just to
+
+----- Diversity:0.7
+----- Generating with seed:
+"watch out 
+ anywhere you go i'll find you 
+"
+----- Generated lyrics:
+watch out 
+ anywhere you go i'll find you 
+ just hear your cowboy sing an old time song 
+ and i dance was no other 
+ get i get this get it uh 
+ just a little bit of your heart is just a little bit is all i'm asking for 
+ my thoughts may love blue so wrong
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"see the white of his eye 
+ he's taking in"
+----- Generated lyrics:
+see the white of his eye 
+ he's taking in a new 
+ 
+ and i think she's gonna be a man 
+ maybe someday when you're in your own 
+ 
+ and i'm lost in the desert be wrong 
+ well i don't know, it's a beautiful road 
+ 
+ i know i'm not a little girl 
+ and
+
+----- Diversity:0.4
+----- Generating with seed:
+"see the white of his eye 
+ he's taking in"
+----- Generated lyrics:
+see the white of his eye 
+ he's taking in a 
+ ah 
+ 
+ you got it, you got to babe babe 
+ i got a little love 
+ and you can stay in your 
+ i'll not to see 
+ i can't be there when i was so 
+ no one for a friend 
+ i know that
+
+----- Diversity:0.5
+----- Generating with seed:
+"see the white of his eye 
+ he's taking in"
+----- Generated lyrics:
+see the white of his eye 
+ he's taking in a 
+ but i can't believe what i can mean so 
+ i know that i would make it to 
+ 
+ so bang, a boom-a-boomerang is love 
+ 
+ hey ah na na 
+ 
+ you can't escape if the cry 
+ and then you look your heart 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"see the white of his eye 
+ he's taking in"
+----- Generated lyrics:
+see the white of his eye 
+ he's taking in a real 
+ 
+ he wouldn't see me 
+ to make the world is in the heart of the rain 
+ but my music here beside me 
+ and so now that i know 
+ but you don't come and it's a better man 
+ nothing to come to look
+
+----- Diversity:0.7
+----- Generating with seed:
+"see the white of his eye 
+ he's taking in"
+----- Generated lyrics:
+see the white of his eye 
+ he's taking in a place 
+ and it's true 
+ i don't wanna live without you 
+ i know that you're sleeping 
+ come on out and see 
+ and now you're warm and tender 
+ and you know what you've been in mind 
+ and it's the hard road, dead or alive
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"around my eyes 
+ and gray in your hair 
+"
+----- Generated lyrics:
+around my eyes 
+ and gray in your hair 
+ now she's a new kind of time and you know 
+ that you were my lady 
+ and you're a only one day 
+ you're a little one by one i want 
+ all i could have to make this life 
+ and the world will be my only day
+
+----- Diversity:0.4
+----- Generating with seed:
+"around my eyes 
+ and gray in your hair 
+"
+----- Generated lyrics:
+around my eyes 
+ and gray in your hair 
+ i was a living like a legend so long, so cold 
+ and i just want to make you lord 
+ and i just want to you 
+ lord i ever want to be your little love i want to you 
+ and i know that i want to you
+
+----- Diversity:0.5
+----- Generating with seed:
+"around my eyes 
+ and gray in your hair 
+"
+----- Generated lyrics:
+around my eyes 
+ and gray in your hair 
+ in a boom-a-boomerang is love 
+ 
+ i can't believe it's a legend gone me 
+ 
+ only a very good man 
+ don't forget you we are 
+ and here we all is we children we know 
+ 
+ and we were trying to be sleep and living like
+
+----- Diversity:0.6
+----- Generating with seed:
+"around my eyes 
+ and gray in your hair 
+"
+----- Generated lyrics:
+around my eyes 
+ and gray in your hair 
+ cause but when i will be my right 
+ 
+ [chorus] 
+ and when i'm with you 
+ i don't wanna live without you 
+ i'm so tired of living like a legend before my time 
+ but i feel so fine 
+ and i know i'm not there 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"around my eyes 
+ and gray in your hair 
+"
+----- Generated lyrics:
+around my eyes 
+ and gray in your hair 
+ in the woman to believe in the time and tender 
+ and is coming from new 
+ better than i'm tired in the morning 
+ well, i'm a sign on a man 
+ and we'd be gonna sing a little love is 
+ and i never stay 
+ and i
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"strong, 
+ it's a lonely night, and i'm trying 
+"
+----- Generated lyrics:
+strong, 
+ it's a lonely night, and i'm trying 
+ to make me understand 
+ and i'm back back the man behind the mask 
+ he will be a man in a smile and a place when i can't help you can't deny it 
+ i know there's a lot of feelings or i've got a way to see my
+
+----- Diversity:0.4
+----- Generating with seed:
+"strong, 
+ it's a lonely night, and i'm trying 
+"
+----- Generated lyrics:
+strong, 
+ it's a lonely night, and i'm trying 
+ the songs that we sing and then i can't get there to your heart 
+ when i feel my heart and breaking my own 
+ i know i knew that could i best 
+ and i'm going back to make a change 
+ stuck in the same old road 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"strong, 
+ it's a lonely night, and i'm trying 
+"
+----- Generated lyrics:
+strong, 
+ it's a lonely night, and i'm trying 
+ and you're my best for you 
+ to you're so good for you 
+ just a little bit of your heart 
+ all i want to go 
+ to the blue 
+ happy is a question of give 
+ to a fool and make a soul for you 
+ don't
+
+----- Diversity:0.6
+----- Generating with seed:
+"strong, 
+ it's a lonely night, and i'm trying 
+"
+----- Generated lyrics:
+strong, 
+ it's a lonely night, and i'm trying 
+ so many evening as we could be gone 
+ now it's a dream is there that i knew 
+ it's a most back to me 
+ and falling down the way to change 
+ in the desert sun go down 
+ and no season ended 
+ there's a man in
+
+----- Diversity:0.7
+----- Generating with seed:
+"strong, 
+ it's a lonely night, and i'm trying 
+"
+----- Generated lyrics:
+strong, 
+ it's a lonely night, and i'm trying 
+ we were trying hard to sleep 
+ sorry clouds are in my hand 
+ knowing she's so going on and to the time but i know, she can make the other thing 
+ with her hand in men and weary far away from home 
+ you'll become of my hands
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"some people follow one man's vision 
+ some others die"
+----- Generated lyrics:
+some people follow one man's vision 
+ some others die and but take me to the wind and the sound of the farm 
+ and then i feel like you've been 
+ and i dream in the morning 
+ that she brings me wine 
+ just a poor man's world 
+ over the hill and head through the world, just
+
+----- Diversity:0.4
+----- Generating with seed:
+"some people follow one man's vision 
+ some others die"
+----- Generated lyrics:
+some people follow one man's vision 
+ some others die and but take me to the people better not a be 
+ and i said i can't see 
+ when we were on and it 
+ and we need going back to that 
+ we were living in love, between the us and feel the same way too 
+ and
+
+----- Diversity:0.5
+----- Generating with seed:
+"some people follow one man's vision 
+ some others die"
+----- Generated lyrics:
+some people follow one man's vision 
+ some others die and but when the world don't fly 
+ on a picture 
+ no morning is on the other side 
+ the first time we go down the steps on the white and in the evening 
+ steps on the edge of blind 
+ oh, oh, oh, oh 
+ i don't
+
+----- Diversity:0.6
+----- Generating with seed:
+"some people follow one man's vision 
+ some others die"
+----- Generated lyrics:
+some people follow one man's vision 
+ some others die and but when the world don't get it but you won't not me 
+ now i know that there's no way for you 
+ and i say that i don't feel like you 
+ and i need you 
+ 
+ between our eyes is a little thing 
+ so put
+
+----- Diversity:0.7
+----- Generating with seed:
+"some people follow one man's vision 
+ some others die"
+----- Generated lyrics:
+some people follow one man's vision 
+ some others die and but when you get you and down you where and i know 
+ not a little heart of time and none of us 
+ heard the day and never changed 
+ i won't be back every time to learn too much 
+ and i just no only feeling lie
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"
+ 
+ i just like the feeling 
+ you give"
+----- Generated lyrics:
+
+ 
+ i just like the feeling 
+ you give me one day of your life, 
+ just a little girl is a little asking 
+ and the world is one who cares 
+ you'll never see my mind 
+ that she brings me the road 
+ i got the place i try to know the words i sit to
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ 
+ i just like the feeling 
+ you give"
+----- Generated lyrics:
+
+ 
+ i just like the feeling 
+ you give me one day of your life, 
+ just a little bit is no more 
+ all i heard a young girl 
+ 
+ the same old sun would shine in the morning 
+ the same bright stars will welcome me home and and the clouds will rise way over 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ 
+ i just like the feeling 
+ you give"
+----- Generated lyrics:
+
+ 
+ i just like the feeling 
+ you give me one day of your life, 
+ we can't see it so long 
+ 
+ think it's gonna be right there 
+ and yet it isn't a chance to change you 
+ 
+ chorus 
+ 
+ the stars in the morning 
+ 
+ words and music arlo guthrie 
+ every
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ 
+ i just like the feeling 
+ you give"
+----- Generated lyrics:
+
+ 
+ i just like the feeling 
+ you give me up 
+ and if you feel that funny 
+ 
+ and you would agree 
+ there ain't nobody fine 
+ you got no place to go 
+ just like you 
+ just that you must go 
+ let's just go back to the way it was 
+ 
+ when
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ 
+ i just like the feeling 
+ you give"
+----- Generated lyrics:
+
+ 
+ i just like the feeling 
+ you give me up and believe the same old time 
+ i just the world that song and dance, and a dream 
+ and i think i'm gonna like a understand 
+ maybe my baby 
+ 
+ when i don't you are it 
+ i try to you, oh 
+ i miss
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"it all right 
+ you're all i ever need, my"
+----- Generated lyrics:
+it all right 
+ you're all i ever need, my darling 
+ and i would just go no 
+ to give you this heart of mine 
+ you know what i need 
+ when i try to explain it i be 
+ that's as i sit here today 
+ many starts is on 
+ tonight 
+ how i need a
+
+----- Diversity:0.4
+----- Generating with seed:
+"it all right 
+ you're all i ever need, my"
+----- Generated lyrics:
+it all right 
+ you're all i ever need, my darling 
+ and i would just go no more 
+ 
+ if you're looking down and put a little love in your heart is no one 
+ can love be 
+ just a little bit of your heart is all i want 
+ just a little bit of your heart
+
+----- Diversity:0.5
+----- Generating with seed:
+"it all right 
+ you're all i ever need, my"
+----- Generated lyrics:
+it all right 
+ you're all i ever need, my darling 
+ 
+ i would just go no more 
+ 
+ if it wasn't for the nights i think that i could take it) 
+ 
+ i just can't make see 
+ lord only knows that i've 
+ 
+ i could never know 
+ it's a most to make me
+
+----- Diversity:0.6
+----- Generating with seed:
+"it all right 
+ you're all i ever need, my"
+----- Generated lyrics:
+it all right 
+ you're all i ever need, my baby 
+ and i would love to sing my heart so stuck 
+ 
+ and i feel my heartbeat 
+ 
+ well, i'm running down the road 
+ tryin' to the a river, he couldn't sing 
+ these he don't dream when she said i could i could take 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"it all right 
+ you're all i ever need, my"
+----- Generated lyrics:
+it all right 
+ you're all i ever need, my darling 
+ and i would just go my own 
+ with this smile and by 
+ how i love you so 
+ 
+ here i am here together 
+ even i hear you, i am the tiger 
+ i am behind you, i'll be back again 
+ i ride the
+
+================================================================================

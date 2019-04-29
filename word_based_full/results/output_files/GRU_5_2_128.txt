@@ -1,0 +1,808 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"a heart 
+ like a"
+----- Generated lyrics:
+a heart 
+ like a lot of the desert 
+ 
+ and then i feel the world of the desert 
+ the desert the world of the desert 
+ and the desert 
+ the world of the desert 
+ the same old road 
+ 
+ and the desert of the desert 
+ 
+ the desert
+
+----- Diversity:0.4
+----- Generating with seed:
+"a heart 
+ like a"
+----- Generated lyrics:
+a heart 
+ like a that they belong 
+ 
+ i can be the river 
+ 
+ and the desert that i feel 
+ 
+ i got a lot of the desert 
+ and i know the same old old time 
+ and the desert 
+ i can be the time 
+ i feel the
+
+----- Diversity:0.5
+----- Generating with seed:
+"a heart 
+ like a"
+----- Generated lyrics:
+a heart 
+ like a dream of the land 
+ and the desert of the road 
+ and the world of the desert 
+ 
+ 
+ and the desert i have to go 
+ 
+ and the desert that i ever have to go 
+ and the desert to be 
+ and i know the
+
+----- Diversity:0.6
+----- Generating with seed:
+"a heart 
+ like a"
+----- Generated lyrics:
+a heart 
+ like a middle of the desert 
+ 
+ the souls to see you 
+ 
+ 
+ love, you know the pain 
+ 
+ can't be in the desert that old mexico 
+ 
+ i can't be on that you know. 
+ and we are a minute and all the wind 
+ in
+
+----- Diversity:0.7
+----- Generating with seed:
+"a heart 
+ like a"
+----- Generated lyrics:
+a heart 
+ like a road 
+ dance to the wind of the desert 
+ to do the price 
+ much had lose out in the power of rain 
+ 
+ a time while the price 
+ so put 
+ then a rush that she felt love 
+ and the desert let the boys and
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"
+ just to watch the"
+----- Generated lyrics:
+
+ just to watch the wind 
+ 
+ and the world of the train 
+ and the world of the train 
+ and the world of the trail 
+ 
+ i can be the way that i want 
+ 
+ and i know 
+ i could be to the way 
+ 
+ i know that
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ just to watch the"
+----- Generated lyrics:
+
+ just to watch the wind the trail 
+ 
+ and i know the world of the trail 
+ 
+ and i think you're gonna be 
+ but i'm not the road 
+ 
+ 
+ and the world are the trail 
+ and i know i feel 
+ 
+ the world of the streets 
+
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ just to watch the"
+----- Generated lyrics:
+
+ just to watch the wind the trail 
+ 
+ if you got to the wind 
+ 
+ with the dawn and the world of the train to the wind of the trail 
+ 
+ and i want to go 
+ and i've been all here alone 
+ 
+ every world of the time 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ just to watch the"
+----- Generated lyrics:
+
+ just to watch the sound of eden 
+ the people be fine 
+ too many world for the way 
+ now the time 
+ to go the way that i say 
+ 
+ and i want to be with you 
+ 
+ they just need a legend 
+ 
+ i gave a sign to
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ just to watch the"
+----- Generated lyrics:
+
+ just to watch the desert if we belong 
+ 
+ the words of the wind 
+ what i say 
+ 
+ but i just see all that i could be 
+ since you're here and i'll be a man 
+ 
+ the tune to the trees of eden 
+ 
+ and a little bit
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"sleigh ride together with you"
+----- Generated lyrics:
+sleigh ride together with you 
+ 
+ and i get the last to see 
+ the desert sun go down 
+ 
+ and the sun goes down 
+ and there's a great hot 
+ 
+ 
+ i know that i need 
+ 
+ i know that i can make 
+ and i can make the
+
+----- Diversity:0.4
+----- Generating with seed:
+"sleigh ride together with you"
+----- Generated lyrics:
+sleigh ride together with you 
+ 
+ and i know that you were gonna be there 
+ that i only could be 
+ 
+ if i make the sun of the road 
+ and the scene of the dawn 
+ and the music in the desert that i can do 
+ 
+ if you are
+
+----- Diversity:0.5
+----- Generating with seed:
+"sleigh ride together with you"
+----- Generated lyrics:
+sleigh ride together with you 
+ and the country 
+ the last train to glory 
+ to the desert that you go 
+ and i saw my guitar in the rain 
+ i know that i could make 
+ i feel like to the rain 
+ and i never know that i ain't 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"sleigh ride together with you"
+----- Generated lyrics:
+sleigh ride together with you 
+ 
+ 
+ [chorus] 
+ this is the part when i break free 
+ and i can say it ain't it 
+ 
+ [chorus] 
+ 
+ [chorus] 
+ 
+ and you're coming home 
+ 
+ and i just got to go on the desert that to be 
+ 
+ [chorus]
+
+----- Diversity:0.7
+----- Generating with seed:
+"sleigh ride together with you"
+----- Generated lyrics:
+sleigh ride together with you 
+ 
+ if there are lots of other places 
+ night i think that i could always be 
+ in the table that she can bring us back home 
+ with the sun of the hand 
+ and i turn, turn to the wind 
+ down the evening trail 
+
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"don't need you 
+ i"
+----- Generated lyrics:
+don't need you 
+ i really want to see you 
+ you got me) 
+ except about except for the gates of eden 
+ the dawn of the music in the trail 
+ just to watch the desert sun go down 
+ 
+ and i think that you'd like a legend before my time 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"don't need you 
+ i"
+----- Generated lyrics:
+don't need you 
+ i know just how to drive in rain 
+ and i think the evening of town 
+ i am the only feeling 
+ 
+ it's a most of old na na na na na na na na na na na na na na na na na na na na na na
+
+----- Diversity:0.5
+----- Generating with seed:
+"don't need you 
+ i"
+----- Generated lyrics:
+don't need you 
+ i know that i think i'm fine 
+ and it's the same old road 
+ 
+ and i think that i could make it) 
+ to make a lot of mine 
+ 
+ in the middle of the road 
+ 
+ i never wanna live without 
+ that i can't seem
+
+----- Diversity:0.6
+----- Generating with seed:
+"don't need you 
+ i"
+----- Generated lyrics:
+don't need you 
+ i want to see you and i'm in your mind 
+ 
+ just a little bit of your heart (just a a little bit of your heart (just a little bit of your heart (just a little bit of your heart (just a little bit of your heart (just a little
+
+----- Diversity:0.7
+----- Generating with seed:
+"don't need you 
+ i"
+----- Generated lyrics:
+don't need you 
+ i can't live without everything i forget 
+ the stars means the great in the hill 
+ that you just got to 
+ and jehovah i love you so 
+ so many music heaven of na na na na na na na na na na na na na na na na
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"you never got it 
+"
+----- Generated lyrics:
+you never got it 
+ that i wanna hear a lie tonight the road 
+ now it's a hard road 
+ 
+ and i can't seem to be 
+ 
+ i think i had to go 
+ and i think that i could make it) 
+ to feel the day that i could tell 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"you never got it 
+"
+----- Generated lyrics:
+you never got it 
+ that i'm so alone 
+ and i know that i'm so different 
+ to try to help me carry the load 
+ the moon of the road 
+ and all the black and dead 
+ yes, anytime you say the words to see 
+ the silver clouds in over the
+
+----- Diversity:0.5
+----- Generating with seed:
+"you never got it 
+"
+----- Generated lyrics:
+you never got it 
+ that it's hard to see 
+ 
+ i don't wanna hear a lie tonight the old mexico 
+ 
+ and the fire in the middle of the road 
+ 
+ and i can't get in the evening 
+ turn, turn, turn, turn, turn, turn, turn, turn, turn, turn, turn, turn,
+
+----- Diversity:0.6
+----- Generating with seed:
+"you never got it 
+"
+----- Generated lyrics:
+you never got it 
+ to that fire, you had me too many 
+ way that i could do 
+ 
+ i know, you had to go away 
+ and i won't forget my name 
+ to hear a cowboy sing an old song song 
+ 
+ to hear the guitar play 
+ i'm gonna
+
+----- Diversity:0.7
+----- Generating with seed:
+"you never got it 
+"
+----- Generated lyrics:
+you never got it 
+ you got the blues, gonna pack my things 
+ and warm you up and fast 
+ and i get all the way 
+ i'm the last to go 
+ and she don't 
+ then you're living like a legend legend a time 
+ then you listen to my doll 
+
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"
+ she said see you"
+----- Generated lyrics:
+
+ she said see you 
+ and now that i feel alone 
+ 
+ i'm gonna see you lord 
+ 
+ i really want to see you lord 
+ i really want to see you lord 
+ i really want to go 
+ and i don't know how to even the score with you, 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"
+ she said see you"
+----- Generated lyrics:
+
+ she said see you 
+ the world that won't last last night said 
+ if i'm living in stuck in my house 
+ old friend, oh when you gonna let me go 
+ and i know that i wanna hear you screaming 
+ to me see the road 
+ 
+ and the world of
+
+----- Diversity:0.5
+----- Generating with seed:
+"
+ she said see you"
+----- Generated lyrics:
+
+ she said see you 
+ a thing about a minute 
+ baby, baby, baby, i'm so doing you're 
+ 
+ i know that i'm nobody's true 
+ there's something that tells me this life is the last to say 
+ that there ain't lots of other places 
+ in a world that beats down
+
+----- Diversity:0.6
+----- Generating with seed:
+"
+ she said see you"
+----- Generated lyrics:
+
+ she said see you 
+ nobody wouldn't be strong 
+ i'm in the mood to be a man 
+ this is the part when i break free 
+ and i can't help make understand 
+ my own self to work 
+ my women he would my even lover be? 
+ 
+ now there's a
+
+----- Diversity:0.7
+----- Generating with seed:
+"
+ she said see you"
+----- Generated lyrics:
+
+ she said see you 
+ and somebody see that last woman 
+ my dead ticket to think they're so big 
+ every day and see the world 
+ gonna lay down the lights 
+ she said 
+ don't let me know, i'm not gonna stay 
+ i ain't been in a car 
+ and
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"i'm proud to be a"
+----- Generated lyrics:
+i'm proud to be a fool you got you 
+ then you know 
+ and i don't know how to even the score with you, oh, with you 
+ 
+ if i could only go back 
+ 
+ 
+ when we were on honeymoon avenue honeymoon honeymoon avenue honeymoon avenue honeymoon avenue honeymoon avenue honeymoon
+
+----- Diversity:0.4
+----- Generating with seed:
+"i'm proud to be a"
+----- Generated lyrics:
+i'm proud to be a fool you got that you need to know 
+ 
+ i dreamed the world had all behind the angels 
+ come and see me in your arms 
+ 
+ it's the time to turn for me 
+ now the dream in the middle of the road 
+ 
+ i never
+
+----- Diversity:0.5
+----- Generating with seed:
+"i'm proud to be a"
+----- Generated lyrics:
+i'm proud to be a car 
+ and a guitar in the play 
+ that keeps us and chill 
+ the phone in the sun and lay down the lights 
+ and the fire of the great 
+ and my clothes are so near and and now we're living in a mighty car 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"i'm proud to be a"
+----- Generated lyrics:
+i'm proud to be a long man or a fool 
+ where i belong 
+ as long as he can go down 
+ and i can't get enough of you 
+ my friend in my mind 
+ through the angels and sing 
+ then i think the start 
+ now i'm sure is too much
+
+----- Diversity:0.7
+----- Generating with seed:
+"i'm proud to be a"
+----- Generated lyrics:
+i'm proud to be a one day i said 
+ 
+ the power of love can make a blind man weak 
+ voices too 
+ honeymoon avenue honeymoon avenue honeymoon avenue honeymoon honeymoon avenue honeymoon avenue honeymoon honeymoon avenue honeymoon avenue honeymoon avenue honeymoon avenue honeymoon honeymoon avenue honeymoon avenue honeymoon avenue honeymoon avenue honeymoon
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"meets girl, doesn't mean they're"
+----- Generated lyrics:
+meets girl, doesn't mean they're in a hard fighting 
+ 
+ well, i'm still under a brand new shoes 
+ and i feel the evening 
+ that she brings me wine 
+ just a poor man's think 
+ that s the hard road, dead or alive 
+ 
+ well, he said he would pay pay
+
+----- Diversity:0.4
+----- Generating with seed:
+"meets girl, doesn't mean they're"
+----- Generated lyrics:
+meets girl, doesn't mean they're in a hard fighting 
+ 
+ turn, turn to the wind and the rain 
+ 
+ i played my guitar through the night and through the day 
+ 
+ and i know how to drive in rain 
+ and i think you better go slow 
+ 
+ when evening people,
+
+----- Diversity:0.5
+----- Generating with seed:
+"meets girl, doesn't mean they're"
+----- Generated lyrics:
+meets girl, doesn't mean they're in the middle of the road 
+ 
+ this is the part when i break free 
+ cause i can't resist it no more 
+ 
+ [chorus] 
+ 
+ i can tell you now 
+ now, it's right in the plan 
+ i was the far from home 
+ 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"meets girl, doesn't mean they're"
+----- Generated lyrics:
+meets girl, doesn't mean they're in a hard fighting 
+ 
+ how it's love and then you're so glad 
+ if you're tired of the desert 
+ to old mexico 
+ and there's dust in the dark 
+ the power of love can make a strong man weak 
+ can make a happy star 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"meets girl, doesn't mean they're"
+----- Generated lyrics:
+meets girl, doesn't mean they're in their arms around you, we can be here to make a change of stuck in the rain 
+ and the snow in the mexico and the great 
+ and i think i'm gonna like that thinkin' of 
+ children 
+ by the woman he loves 
+ 'cause nothing else
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"on my own 
+ lots"
+----- Generated lyrics:
+on my own 
+ lots of people have come and gone 
+ then i know how to i 
+ 
+ i need a helping hand 
+ the silly be our dream 
+ the way that i know 
+ 
+ i can still recall 
+ those were the greatest nights of them all 
+ the times
+
+----- Diversity:0.4
+----- Generating with seed:
+"on my own 
+ lots"
+----- Generated lyrics:
+on my own 
+ lots of people have come to make it right 
+ if i dream that you're forever 
+ gone me and your time 
+ there are why i know you, now why 
+ the children are making me 
+ in the fields of freedom 
+ and i'm still alive 
+ dead or
+
+----- Diversity:0.5
+----- Generating with seed:
+"on my own 
+ lots"
+----- Generated lyrics:
+on my own 
+ lots of people have come and gone 
+ 
+ i've got a blues, gonna still be out true 
+ 
+ all our time is blind 
+ but the memory is only behind 
+ 
+ but these brown eyes grow up 
+ the picture that you are better so 
+ and i'll
+
+----- Diversity:0.6
+----- Generating with seed:
+"on my own 
+ lots"
+----- Generated lyrics:
+on my own 
+ lots of people have come and i was dancing with you 
+ 
+ i hear a runner baby 
+ 
+ so many friends left a little too day 
+ someday i'll be there with you 
+ someday when we meet again 
+ the power of love can make a blind man
+
+----- Diversity:0.7
+----- Generating with seed:
+"on my own 
+ lots"
+----- Generated lyrics:
+on my own 
+ lots of people have come and gone 
+ i know i'm gonna stay 
+ ain't right there to be 
+ with anyone i can't be you 
+ till the end 
+ a situation 
+ maybe why 
+ you must not stay 
+ 'cause i can't leave your 
+ but you know
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"stop the tears 
+ how"
+----- Generated lyrics:
+stop the tears 
+ how i hate to spend our dust and hand 
+ just hear the sun till through the world 
+ gone 
+ the love is hard road, over 
+ dead or alive, yes, i'm a maybe road 
+ 
+ i gotta go down to the trail 
+ just to watch the desert
+
+----- Diversity:0.4
+----- Generating with seed:
+"stop the tears 
+ how"
+----- Generated lyrics:
+stop the tears 
+ how i hate to spend our dust in the stars eyes 
+ for the end of the road 
+ 
+ so, look out for me, darling 
+ on the power of love 
+ 
+ a man don't crawl 
+ that we need to walk around here tonight 
+ gotta go down
+
+----- Diversity:0.5
+----- Generating with seed:
+"stop the tears 
+ how"
+----- Generated lyrics:
+stop the tears 
+ how i'm running down on the road 
+ 
+ well, i'm so not right 
+ now i'm leavin' 
+ 
+ i'm gonna seem to have that yesterday 
+ i really want to show you lord 
+ but it ain't easy fine 
+ i'm what i need to make it mine 
+
+
+----- Diversity:0.6
+----- Generating with seed:
+"stop the tears 
+ how"
+----- Generated lyrics:
+stop the tears 
+ how she hate that i used to be 
+ and all over the world 
+ i know that everybody's fine 
+ is what it that was school 
+ i was born alone 
+ if you play the only thing 
+ but if you have to go away 
+ i'll leave your
+
+----- Diversity:0.7
+----- Generating with seed:
+"stop the tears 
+ how"
+----- Generated lyrics:
+stop the tears 
+ how i hate your sweet life 
+ tonight the world don't must be mine 
+ now you're only beautiful 
+ if we try to get it through that i forget 
+ i can't be thinkin' here's enough's 
+ 
+ that's war the some other way 
+ hiding from the girl is
+
+================================================================================

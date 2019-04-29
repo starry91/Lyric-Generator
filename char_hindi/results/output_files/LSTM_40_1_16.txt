@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"htning on me without the season on her t"
+----- Generated lyrics:
+htning on me without the season on her the and the aing the are the the and mand an and if the beane beand sawhate and in the sing come and 
+
+----- Diversity:0.4
+----- Generating with seed:
+"htning on me without the season on her t"
+----- Generated lyrics:
+htning on me without the season on her thath sace beaing and the with ancand the the ping the creat beane fat ant come to that dant ceare in
+
+----- Diversity:0.5
+----- Generating with seed:
+"htning on me without the season on her t"
+----- Generated lyrics:
+htning on me without the season on her the the have ares ace of are and the had and the leart and haa sam ing ank hei if in that given me an
+
+----- Diversity:0.6
+----- Generating with seed:
+"htning on me without the season on her t"
+----- Generated lyrics:
+htning on me without the season on her thas in my shares aflakke have long in me are are aparges now o in the beace to beang you and on the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"htning on me without the season on her t"
+----- Generated lyrics:
+htning on me without the season on her thang san syoure ale string spainat aneare the are wach is you deang to buched in you as i sme nanget
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+" loved and worshipped that person broke "
+----- Generated lyrics:
+ loved and worshipped that person broke the what me the ang in the fars ane the and stay have beare the and and i sa have and das and have a
+
+----- Diversity:0.4
+----- Generating with seed:
+" loved and worshipped that person broke "
+----- Generated lyrics:
+ loved and worshipped that person broke mame arant the have now of and the ave heart has and and that in and the love are the and in the do 
+
+----- Diversity:0.5
+----- Generating with seed:
+" loved and worshipped that person broke "
+----- Generated lyrics:
+ loved and worshipped that person broke mand what be me crazing in a canlove he way mafacre have in me learsing in the ag me ane hall am sha
+
+----- Diversity:0.6
+----- Generating with seed:
+" loved and worshipped that person broke "
+----- Generated lyrics:
+ loved and worshipped that person broke ma heart the leare be anceant astanes makent as as love as are came searat ane syas andevert ane in 
+
+----- Diversity:0.7
+----- Generating with seed:
+" loved and worshipped that person broke "
+----- Generated lyrics:
+ loved and worshipped that person broke madlams he wall aas grang you to beant bi given sand tame blandughing that you bland bngatie my hard
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"l die without you i wont live i will die"
+----- Generated lyrics:
+l die without you i wont live i will dient beloved when is and become and call the was and in the me and sace have badan same as make me hav
+
+----- Diversity:0.4
+----- Generating with seed:
+"l die without you i wont live i will die"
+----- Generated lyrics:
+l die without you i wont live i will dien my brauk of whenever abe come that and bearted shat is as became and the what sand have beare as b
+
+----- Diversity:0.5
+----- Generating with seed:
+"l die without you i wont live i will die"
+----- Generated lyrics:
+l die without you i wont live i will die to your was with bo ald ape beat aince babeut stades ear in my bay in with even who goes and in and
+
+----- Diversity:0.6
+----- Generating with seed:
+"l die without you i wont live i will die"
+----- Generated lyrics:
+l die without you i wont live i will diesing you all world sting in my live is i canewby love what fore me all and the light with you ame an
+
+----- Diversity:0.7
+----- Generating with seed:
+"l die without you i wont live i will die"
+----- Generated lyrics:
+l die without you i wont live i will dien will love the given if ive have af gettere are my are all if of gees has given eees crazy ave mare
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"e groan my precious rainy season is gett"
+----- Generated lyrics:
+e groan my precious rainy season is gettere and the ance whenever in me crazy i have broughot beat my have but and with have baing this and 
+
+----- Diversity:0.4
+----- Generating with seed:
+"e groan my precious rainy season is gett"
+----- Generated lyrics:
+e groan my precious rainy season is gette that af in youre in the stall song cone the wand in fale and the dand what what have beathe and ha
+
+----- Diversity:0.5
+----- Generating with seed:
+"e groan my precious rainy season is gett"
+----- Generated lyrics:
+e groan my precious rainy season is gettere my i sancingo an the that and sting ank ance and that in the wack so my beat do that badhing wan
+
+----- Diversity:0.6
+----- Generating with seed:
+"e groan my precious rainy season is gett"
+----- Generated lyrics:
+e groan my precious rainy season is getts love a shay i lain a cimerta abe you and heart ive lanang aristan badit in the badarno babath fall
+
+----- Diversity:0.7
+----- Generating with seed:
+"e groan my precious rainy season is gett"
+----- Generated lyrics:
+e groan my precious rainy season is getting and to there ame becaus the cared been awhel paresbed that poat stay to a have nagiven the statl
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"have sworn we will never drift apart tha"
+----- Generated lyrics:
+have sworn we will never drift apart that in my have name and beat and in the arain of love and the cans the was dont came beaut of come the
+
+----- Diversity:0.4
+----- Generating with seed:
+"have sworn we will never drift apart tha"
+----- Generated lyrics:
+have sworn we will never drift apart that and with abe my a been ance of and in the a ane mand for in the beat you are and buch come beat a 
+
+----- Diversity:0.5
+----- Generating with seed:
+"have sworn we will never drift apart tha"
+----- Generated lyrics:
+have sworn we will never drift apart that me when in the and have ance in me thouthe whind the beate maday was that stan that was ive me bre
+
+----- Diversity:0.6
+----- Generating with seed:
+"have sworn we will never drift apart tha"
+----- Generated lyrics:
+have sworn we will never drift apart that ive asars the fare and and kame a lover you have beander fad as for and for you aur araaine in nam
+
+----- Diversity:0.7
+----- Generating with seed:
+"have sworn we will never drift apart tha"
+----- Generated lyrics:
+have sworn we will never drift apart that me whhat with me becant of youre mad what betere my and and shad in a and the un youre ake arce av
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"ne you should forget the infatuation you"
+----- Generated lyrics:
+ne you should forget the infatuation you are when in my heart samace of all in just and are the and has this and beat if love aght and are t
+
+----- Diversity:0.4
+----- Generating with seed:
+"ne you should forget the infatuation you"
+----- Generated lyrics:
+ne you should forget the infatuation you samat i fane and and beautiful one with me afe fall are all way a say youre was make see shace i st
+
+----- Diversity:0.5
+----- Generating with seed:
+"ne you should forget the infatuation you"
+----- Generated lyrics:
+ne you should forget the infatuation you aras me in the beauty beat are in my heart beloved in youre you sand bids im with me when me every 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ne you should forget the infatuation you"
+----- Generated lyrics:
+ne you should forget the infatuation youre was is the ears in will me ance come dain in mace is the me this is heart cance my beatree you ca
+
+----- Diversity:0.7
+----- Generating with seed:
+"ne you should forget the infatuation you"
+----- Generated lyrics:
+ne you should forget the infatuation your bode staly asing is a slaco in sways you are world tad like moment ssess like ting awas the breake
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"ra my ghagra whats this about brother im"
+----- Generated lyrics:
+ra my ghagra whats this about brother im have beat and what come on this made beloved the me and beautiful and world it was and and and in t
+
+----- Diversity:0.4
+----- Generating with seed:
+"ra my ghagra whats this about brother im"
+----- Generated lyrics:
+ra my ghagra whats this about brother im sarr bedat seated in my bearay for in my heart boes leads a me cance are and in my blain the bucili
+
+----- Diversity:0.5
+----- Generating with seed:
+"ra my ghagra whats this about brother im"
+----- Generated lyrics:
+ra my ghagra whats this about brother im have breaths a as are away that is in make as a fare and this it is with you ond in me the ive and 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ra my ghagra whats this about brother im"
+----- Generated lyrics:
+ra my ghagra whats this about brother im anich become buch a knam crmabazu had in my beloved make i with me now in raam see love an the when
+
+----- Diversity:0.7
+----- Generating with seed:
+"ra my ghagra whats this about brother im"
+----- Generated lyrics:
+ra my ghagra whats this about brother im ance wishes care of my are male in youre of been arce are wastine sloen to lost a faraent every the
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"he heartbeat left the heart and where ha"
+----- Generated lyrics:
+he heartbeat left the heart and where has become and baben me and all and the beauty is ance ave and and that become all stace if may in my 
+
+----- Diversity:0.4
+----- Generating with seed:
+"he heartbeat left the heart and where ha"
+----- Generated lyrics:
+he heartbeat left the heart and where have my heart ive fare for me sorotime a to crazy of my eyes are the every and shade me and the leave 
+
+----- Diversity:0.5
+----- Generating with seed:
+"he heartbeat left the heart and where ha"
+----- Generated lyrics:
+he heartbeat left the heart and where han was in when the share that in the bean every have are have been a thay beloved if you nawan the a 
+
+----- Diversity:0.6
+----- Generating with seed:
+"he heartbeat left the heart and where ha"
+----- Generated lyrics:
+he heartbeat left the heart and where hai come god and saare me has why saraces life abecoy wand whind becaurce body in bee sacy babeate wha
+
+----- Diversity:0.7
+----- Generating with seed:
+"he heartbeat left the heart and where ha"
+----- Generated lyrics:
+he heartbeat left the heart and where hare some the waid a psearraca an bear stime in in the have stans ahe i say in it beated i was feath t
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"ku ku ku ku tell me how the girl should "
+----- Generated lyrics:
+ku ku ku ku tell me how the girl should ble became and beate became become and beauty became all me became will go you ade came and my love 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ku ku ku ku tell me how the girl should "
+----- Generated lyrics:
+ku ku ku ku tell me how the girl should ble of my bris in my have been beauty if youre beat has became fade this in youre you all the will a
+
+----- Diversity:0.5
+----- Generating with seed:
+"ku ku ku ku tell me how the girl should "
+----- Generated lyrics:
+ku ku ku ku tell me how the girl should ble and my a are away see bearayfaight in youre mu hai is have beloved beday if what love and beauty
+
+----- Diversity:0.6
+----- Generating with seed:
+"ku ku ku ku tell me how the girl should "
+----- Generated lyrics:
+ku ku ku ku tell me how the girl should beauunculo as are me beautiful lood scries are the every beat i will leangs care even moon the some 
+
+----- Diversity:0.7
+----- Generating with seed:
+"ku ku ku ku tell me how the girl should "
+----- Generated lyrics:
+ku ku ku ku tell me how the girl should shp bud i om you life my bless ol arle the do hals youre was maben you dont knam am have camarnie my
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"imes ive asked that is how i found you y"
+----- Generated lyrics:
+imes ive asked that is how i found you you are made are and and with a beating in youre was youre you daing youre and and start and what is 
+
+----- Diversity:0.4
+----- Generating with seed:
+"imes ive asked that is how i found you y"
+----- Generated lyrics:
+imes ive asked that is how i found you you are the mine me and beauty seall ane my have storld bee ave me and maye and stall made you and a 
+
+----- Diversity:0.5
+----- Generating with seed:
+"imes ive asked that is how i found you y"
+----- Generated lyrics:
+imes ive asked that is how i found you you sand beauty forget the sand bee to face of for you god nearled the was and fall and in stant i ju
+
+----- Diversity:0.6
+----- Generating with seed:
+"imes ive asked that is how i found you y"
+----- Generated lyrics:
+imes ive asked that is how i found you you of coning in the love youre you have sang going life a leave i am alway wake you wanner breath i 
+
+----- Diversity:0.7
+----- Generating with seed:
+"imes ive asked that is how i found you y"
+----- Generated lyrics:
+imes ive asked that is how i found you you going if youre with of came your hips the in but for youre made you to love me but i am in haing 
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"e never leaves me alone x ok ok ok i adm"
+----- Generated lyrics:
+e never leaves me alone x ok ok ok i adme and the all want i beant you are my heart dame me are ive see of youre way me me my god was se a y
+
+----- Diversity:0.4
+----- Generating with seed:
+"e never leaves me alone x ok ok ok i adm"
+----- Generated lyrics:
+e never leaves me alone x ok ok ok i adm baye me and my heart sad your forgets come bear are i have beang you a brang i have beaurn bleatif 
+
+----- Diversity:0.5
+----- Generating with seed:
+"e never leaves me alone x ok ok ok i adm"
+----- Generated lyrics:
+e never leaves me alone x ok ok ok i adming from in your face of come the poall still of me the sing me away have come the beautiful heart b
+
+----- Diversity:0.6
+----- Generating with seed:
+"e never leaves me alone x ok ok ok i adm"
+----- Generated lyrics:
+e never leaves me alone x ok ok ok i adme anges beauty are you feel time if youre way staay and only we a a face the with the staly taye in 
+
+----- Diversity:0.7
+----- Generating with seed:
+"e never leaves me alone x ok ok ok i adm"
+----- Generated lyrics:
+e never leaves me alone x ok ok ok i admine in make a on the wand i have bein ance i has become and bodance orbe as beate fore broughtb to a
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"ave been robbed of everything in your lo"
+----- Generated lyrics:
+ave been robbed of everything in your love i staly and for you want beauty love became i am a some becate live like this and the for was cha
+
+----- Diversity:0.4
+----- Generating with seed:
+"ave been robbed of everything in your lo"
+----- Generated lyrics:
+ave been robbed of everything in your love mance is make shall for are to youre in my dries and youre in youre the sand shade is in you and 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ave been robbed of everything in your lo"
+----- Generated lyrics:
+ave been robbed of everything in your love what is and and and in that a chas but i will all the beaut fall you a have beautiful a has and s
+
+----- Diversity:0.6
+----- Generating with seed:
+"ave been robbed of everything in your lo"
+----- Generated lyrics:
+ave been robbed of everything in your loved if you a in my gaze face and will have and the fall forgive with you wearing fane my beauty fore
+
+----- Diversity:0.7
+----- Generating with seed:
+"ave been robbed of everything in your lo"
+----- Generated lyrics:
+ave been robbed of everything in your love with me not for see never stain the abeat may sun carnad every how was the i was has shace for ey
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"ke a colorful spring you are like a mad "
+----- Generated lyrics:
+ke a colorful spring you are like a mad in in my love me in my lover in my heart my frae me are in your the me in my heart in i see in your 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ke a colorful spring you are like a mad "
+----- Generated lyrics:
+ke a colorful spring you are like a mad in my frar has become in your in youre bat you are may in youre and dreams me the reamare it youre m
+
+----- Diversity:0.5
+----- Generating with seed:
+"ke a colorful spring you are like a mad "
+----- Generated lyrics:
+ke a colorful spring you are like a mad is the reass me in and to me that is loved god on with you love i cans and stand with me and bodald 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ke a colorful spring you are like a mad "
+----- Generated lyrics:
+ke a colorful spring you are like a mad in life ar shen in sorratte saye become ham and me and say on become cant it me my heart in youre yo
+
+----- Diversity:0.7
+----- Generating with seed:
+"ke a colorful spring you are like a mad "
+----- Generated lyrics:
+ke a colorful spring you are like a mad in like af you at me all and my dearing in away all you in my bods you it for you sometime i same fo
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"you are the heartbeat im the heart you b"
+----- Generated lyrics:
+you are the heartbeat im the heart you beaut if youre will be and your are my care in youre seaving that you are that in youre youre but you
+
+----- Diversity:0.4
+----- Generating with seed:
+"you are the heartbeat im the heart you b"
+----- Generated lyrics:
+you are the heartbeat im the heart you been in my heart belove and are you come the dream are the and say youre wand mand my bables but if m
+
+----- Diversity:0.5
+----- Generating with seed:
+"you are the heartbeat im the heart you b"
+----- Generated lyrics:
+you are the heartbeat im the heart you beautiful and the reate reate in my sayes are and stalless on youre your face the beauty bright to lo
+
+----- Diversity:0.6
+----- Generating with seed:
+"you are the heartbeat im the heart you b"
+----- Generated lyrics:
+you are the heartbeat im the heart you beloved you the even a das if youre with me never peane is are you in the i want talk my for in your 
+
+----- Diversity:0.7
+----- Generating with seed:
+"you are the heartbeat im the heart you b"
+----- Generated lyrics:
+you are the heartbeat im the heart you beatd the heart never ha pase a con you mand at become the of youre wastes the me youre such a that a
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+" if there is a lightening breaths your b"
+----- Generated lyrics:
+ if there is a lightening breaths your blate beautiful a crazy i am beautiful a canter i was canter my love and became are in with you are o
+
+----- Diversity:0.4
+----- Generating with seed:
+" if there is a lightening breaths your b"
+----- Generated lyrics:
+ if there is a lightening breaths your befoved i have and beautiful and with me are for name ance can became and say shabe i day come whenev
+
+----- Diversity:0.5
+----- Generating with seed:
+" if there is a lightening breaths your b"
+----- Generated lyrics:
+ if there is a lightening breaths your beloved ald and i have bababi you mart as never if and made stain in in the every in my pas and name 
+
+----- Diversity:0.6
+----- Generating with seed:
+" if there is a lightening breaths your b"
+----- Generated lyrics:
+ if there is a lightening breaths your by is in youre like a ta you gould alway a ka came it if youre will beat you tare that care and the l
+
+----- Diversity:0.7
+----- Generating with seed:
+" if there is a lightening breaths your b"
+----- Generated lyrics:
+ if there is a lightening breaths your bring is the ive ance i am and face the staly fall i stall even a cannot that in how me slow a keep l
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"e and how will you hide the tears in you"
+----- Generated lyrics:
+e and how will you hide the tears in youre what have love the become and shall hot became and the sees and the start of leave what in youre 
+
+----- Diversity:0.4
+----- Generating with seed:
+"e and how will you hide the tears in you"
+----- Generated lyrics:
+e and how will you hide the tears in your living fore with me see leart of could the eyes and what your love much that is shand in of eyes o
+
+----- Diversity:0.5
+----- Generating with seed:
+"e and how will you hide the tears in you"
+----- Generated lyrics:
+e and how will you hide the tears in your eyes or world will you seace for you winlont shall you have goas and say share i hov in make abe o
+
+----- Diversity:0.6
+----- Generating with seed:
+"e and how will you hide the tears in you"
+----- Generated lyrics:
+e and how will you hide the tears in your it and have ass mine in your goze what you have sand in every for with mand shall some and in male
+
+----- Diversity:0.7
+----- Generating with seed:
+"e and how will you hide the tears in you"
+----- Generated lyrics:
+e and how will you hide the tears in youre this louse of in in thy have liov and if the i beauty for mace blenes you hearted crazy in of fee
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"t come in my thoughts all the timedont c"
+----- Generated lyrics:
+t come in my thoughts all the timedont crazy in the beaut whe the me sometimes ups cries that will start of whenever a see and see and start
+
+----- Diversity:0.4
+----- Generating with seed:
+"t come in my thoughts all the timedont c"
+----- Generated lyrics:
+t come in my thoughts all the timedont crazy in youre the start to live may and fire and and with you seall the with you are in my heart sel
+
+----- Diversity:0.5
+----- Generating with seed:
+"t come in my thoughts all the timedont c"
+----- Generated lyrics:
+t come in my thoughts all the timedont crued the standing world with that leaven sance soance have of my are the heart ass you are in in sep
+
+----- Diversity:0.6
+----- Generating with seed:
+"t come in my thoughts all the timedont c"
+----- Generated lyrics:
+t come in my thoughts all the timedont canth this the stay seonen my heart coment that sacrif was the stori heath are ond the have comeet of
+
+----- Diversity:0.7
+----- Generating with seed:
+"t come in my thoughts all the timedont c"
+----- Generated lyrics:
+t come in my thoughts all the timedont comening to leart was crazy youre sanrt ive my crazy is am in my heart given for me and in your eart 
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+" how do i let you know i feel anxious wi"
+----- Generated lyrics:
+ how do i let you know i feel anxious with you are my life you are the stay sadly ive any as a can ands start say in and talk fall a have be
+
+----- Diversity:0.4
+----- Generating with seed:
+" how do i let you know i feel anxious wi"
+----- Generated lyrics:
+ how do i let you know i feel anxious with be is if you store talk hen myseling a stall to live away a me not is stain i love i start ands a
+
+----- Diversity:0.5
+----- Generating with seed:
+" how do i let you know i feel anxious wi"
+----- Generated lyrics:
+ how do i let you know i feel anxious with make me with may i for are on myce always belm stras you a all afoure cansong whathie is ands alw
+
+----- Diversity:0.6
+----- Generating with seed:
+" how do i let you know i feel anxious wi"
+----- Generated lyrics:
+ how do i let you know i feel anxious with wo i am a can i say lincte allove is the coment a thammef you shen heart in even if my heart is i
+
+----- Diversity:0.7
+----- Generating with seed:
+" how do i let you know i feel anxious wi"
+----- Generated lyrics:
+ how do i let you know i feel anxious with got has die you sche my eyes sitse like and keeping i paskent be only in in my cell gonel a that 
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+" complain to you god its unfaithfulness "
+----- Generated lyrics:
+ complain to you god its unfaithfulness and this an was theses and wo love with you all and stord in and beaut you arant and able in your lo
+
+----- Diversity:0.4
+----- Generating with seed:
+" complain to you god its unfaithfulness "
+----- Generated lyrics:
+ complain to you god its unfaithfulness is i nas dance beat falling i can the is in day that bow dreams in what gous the that say who ha lea
+
+----- Diversity:0.5
+----- Generating with seed:
+" complain to you god its unfaithfulness "
+----- Generated lyrics:
+ complain to you god its unfaithfulness and the with you all and the cans be oucon gow ave are and st love lance in and the thate say in fin
+
+----- Diversity:0.6
+----- Generating with seed:
+" complain to you god its unfaithfulness "
+----- Generated lyrics:
+ complain to you god its unfaithfulness and there saning song gow complene you letato cons me for come ha cansing you in my has time in your
+
+----- Diversity:0.7
+----- Generating with seed:
+" complain to you god its unfaithfulness "
+----- Generated lyrics:
+ complain to you god its unfaithfulness the in my hare be withe day hat take the has brabe he dan in madd bat stere havaants and becane futa
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"eloved didnt come beloved didnt come tha"
+----- Generated lyrics:
+eloved didnt come beloved didnt come that beloved didnt come beaut the beade god on shall and shall god about you are and seare you are the 
+
+----- Diversity:0.4
+----- Generating with seed:
+"eloved didnt come beloved didnt come tha"
+----- Generated lyrics:
+eloved didnt come beloved didnt come that beloved didnt come boet of in you downce and love and you come me that in your have my hare my hav
+
+----- Diversity:0.5
+----- Generating with seed:
+"eloved didnt come beloved didnt come tha"
+----- Generated lyrics:
+eloved didnt come beloved didnt come that beloved didnt come beaut the but is love and the world how care and this that god stlee sworls awa
+
+----- Diversity:0.6
+----- Generating with seed:
+"eloved didnt come beloved didnt come tha"
+----- Generated lyrics:
+eloved didnt come beloved didnt come that beloved youn moment hoo me only dam i chep anyes i shale shad i fall are of may may is all shaur f
+
+----- Diversity:0.7
+----- Generating with seed:
+"eloved didnt come beloved didnt come tha"
+----- Generated lyrics:
+eloved didnt come beloved didnt come that beloved dadn feo live of youre bead tare wohs if my loft i sealling is love will all on going ack 
+
+================================================================================

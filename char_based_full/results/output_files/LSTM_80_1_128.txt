@@ -1,0 +1,330 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"rite a little, and i cry a little it's so hard to find a way to say goodbye a li"
+----- Generated lyrics:
+rite a little, and i cry a little it's so hard to find a way to say goodbye a little on the was long the for hear we don't and the so the so words the sind the fire so so i feel an
+
+----- Diversity:0.4
+----- Generating with seed:
+"rite a little, and i cry a little it's so hard to find a way to say goodbye a li"
+----- Generated lyrics:
+rite a little, and i cry a little it's so hard to find a way to say goodbye a little bit baby come and me the light i want to me on the life i side mone and i know you got me line 
+
+----- Diversity:0.5
+----- Generating with seed:
+"rite a little, and i cry a little it's so hard to find a way to say goodbye a li"
+----- Generated lyrics:
+rite a little, and i cry a little it's so hard to find a way to say goodbye a little bit little boy i think i gonna the long the say wis the was in the got on the hiddled and the f
+
+----- Diversity:0.6
+----- Generating with seed:
+"rite a little, and i cry a little it's so hard to find a way to say goodbye a li"
+----- Generated lyrics:
+rite a little, and i cry a little it's so hard to find a way to say goodbye a little bit i gonna so got my give the down to g and a say i well mind it when they call you got the be
+
+----- Diversity:0.7
+----- Generating with seed:
+"rite a little, and i cry a little it's so hard to find a way to say goodbye a li"
+----- Generated lyrics:
+rite a little, and i cry a little it's so hard to find a way to say goodbye a light i left of go may lonely you walk i'm and is lord and to go bat you mone no man the song night th
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+" was gone for all those days but i, was not all alone i made friends with a lot "
+----- Generated lyrics:
+ was gone for all those days but i, was not all alone i made friends with a lot i don't little bit all the was the walk the song on the was the some to like the say the some with t
+
+----- Diversity:0.4
+----- Generating with seed:
+" was gone for all those days but i, was not all alone i made friends with a lot "
+----- Generated lyrics:
+ was gone for all those days but i, was not all alone i made friends with a lot and i want to be we wind the see and i was walkin' man the side the from a little some and i was lov
+
+----- Diversity:0.5
+----- Generating with seed:
+" was gone for all those days but i, was not all alone i made friends with a lot "
+----- Generated lyrics:
+ was gone for all those days but i, was not all alone i made friends with a lot the with land for and the line was the lide on my life sail i was a little you and i for love in all
+
+----- Diversity:0.6
+----- Generating with seed:
+" was gone for all those days but i, was not all alone i made friends with a lot "
+----- Generated lyrics:
+ was gone for all those days but i, was not all alone i made friends with a lot he man say to hear be man la some and the feel follow a land the light is love you say ride of my ho
+
+----- Diversity:0.7
+----- Generating with seed:
+" was gone for all those days but i, was not all alone i made friends with a lot "
+----- Generated lyrics:
+ was gone for all those days but i, was not all alone i made friends with a lot and " all me slide make and the morning the sun dest rest to let life all for when still be lovely l
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"not when i master.. hills i pulled my groin i pulled my groin if you haven't hea"
+----- Generated lyrics:
+not when i master.. hills i pulled my groin i pulled my groin if you haven't hear i was the see the same for some the words the down when i was the far when you so me i feel i was 
+
+----- Diversity:0.4
+----- Generating with seed:
+"not when i master.. hills i pulled my groin i pulled my groin if you haven't hea"
+----- Generated lyrics:
+not when i master.. hills i pulled my groin i pulled my groin if you haven't hear you see no on the was on the song bay for life when i know i was the find the sing on the wind the
+
+----- Diversity:0.5
+----- Generating with seed:
+"not when i master.. hills i pulled my groin i pulled my groin if you haven't hea"
+----- Generated lyrics:
+not when i master.. hills i pulled my groin i pulled my groin if you haven't hear the boy love you want to me on the fire the slippin i left was that we world down i knew down the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"not when i master.. hills i pulled my groin i pulled my groin if you haven't hea"
+----- Generated lyrics:
+not when i master.. hills i pulled my groin i pulled my groin if you haven't head is for you left whisper all i will day down my sun alone the sun last you some he for on my left c
+
+----- Diversity:0.7
+----- Generating with seed:
+"not when i master.. hills i pulled my groin i pulled my groin if you haven't hea"
+----- Generated lyrics:
+not when i master.. hills i pulled my groin i pulled my groin if you haven't hear if eyes hand i gotta dream for light me no more no i go down and i was the seed me in the did me p
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"me " my mama said oh i want to live my life want to live my life la-la-la, la-la"
+----- Generated lyrics:
+me " my mama said oh i want to live my life want to live my life la-la-la, la-lad be sing like i know when you when i know he was lang to the world life find i got the say the see 
+
+----- Diversity:0.4
+----- Generating with seed:
+"me " my mama said oh i want to live my life want to live my life la-la-la, la-la"
+----- Generated lyrics:
+me " my mama said oh i want to live my life want to live my life la-la-la, la-land in the light like a little long in the light the even i got a little billing alone of the line to
+
+----- Diversity:0.5
+----- Generating with seed:
+"me " my mama said oh i want to live my life want to live my life la-la-la, la-la"
+----- Generated lyrics:
+me " my mama said oh i want to live my life want to live my life la-la-la, la-la-lease my mind i san a little i don't know you the dig in the sayin' of left me i can never the find
+
+----- Diversity:0.6
+----- Generating with seed:
+"me " my mama said oh i want to live my life want to live my life la-la-la, la-la"
+----- Generated lyrics:
+me " my mama said oh i want to live my life want to live my life la-la-la, la-lan be you may i was on the blue of the some the girl mot you to the wind you lot the see that i don't
+
+----- Diversity:0.7
+----- Generating with seed:
+"me " my mama said oh i want to live my life want to live my life la-la-la, la-la"
+----- Generated lyrics:
+me " my mama said oh i want to live my life want to live my life la-la-la, la-lave you don't for love in my from lose in my life 'cause i life with you are you don't you say we fee
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh"
+----- Generated lyrics:
+r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh old me to say i was that was a little boy and like the land and i hold the say the fill make a litt
+
+----- Diversity:0.4
+----- Generating with seed:
+"r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh"
+----- Generated lyrics:
+r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh up of were and i know what for a little give and the find the saw go to live we one the say is was 
+
+----- Diversity:0.5
+----- Generating with seed:
+"r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh"
+----- Generated lyrics:
+r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh song and and i'm in the ride a minute a more were you and i feel you the way i say so lond i was a 
+
+----- Diversity:0.6
+----- Generating with seed:
+"r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh"
+----- Generated lyrics:
+r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh ooh back a fool i was the see i feel come just a little she confle she callin' to me on the falls l
+
+----- Diversity:0.7
+----- Generating with seed:
+"r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh"
+----- Generated lyrics:
+r me to eat lots of coal makin' lots of 'eat warm face, warm 'ands, warm feet oh to like this moke the wind me a polico i don't want to get me i will be lay on the boot of the day 
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"out things that are wrong from new york to l.a. well that's just not my nature t"
+----- Generated lyrics:
+out things that are wrong from new york to l.a. well that's just not my nature the sun on the hile walking of the wind the seem boy of the find i can come and i was the from the be
+
+----- Diversity:0.4
+----- Generating with seed:
+"out things that are wrong from new york to l.a. well that's just not my nature t"
+----- Generated lyrics:
+out things that are wrong from new york to l.a. well that's just not my nature the say of your heart and the wind i never feel the stars that i say come on the chorus on the shine 
+
+----- Diversity:0.5
+----- Generating with seed:
+"out things that are wrong from new york to l.a. well that's just not my nature t"
+----- Generated lyrics:
+out things that are wrong from new york to l.a. well that's just not my nature the find for you need and the play no change of love got a pance to gal love and land the side and go
+
+----- Diversity:0.6
+----- Generating with seed:
+"out things that are wrong from new york to l.a. well that's just not my nature t"
+----- Generated lyrics:
+out things that are wrong from new york to l.a. well that's just not my nature the find with the wind the should the dears will be down when i see my life this land be life the sun
+
+----- Diversity:0.7
+----- Generating with seed:
+"out things that are wrong from new york to l.a. well that's just not my nature t"
+----- Generated lyrics:
+out things that are wrong from new york to l.a. well that's just not my nature the day. so who wonder fun sin up her bare not! when the farm this for run you so there's no for the 
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"ike the pride of your home town but how can you hold out when your luck is down "
+----- Generated lyrics:
+ike the pride of your home town but how can you hold out when your luck is down the shore to the mountain the way on the fire and i was in the sun hold his the sun i was but when i
+
+----- Diversity:0.4
+----- Generating with seed:
+"ike the pride of your home town but how can you hold out when your luck is down "
+----- Generated lyrics:
+ike the pride of your home town but how can you hold out when your luck is down you some i can and don't want to so you when you when i need to know when you're so kids of my to th
+
+----- Diversity:0.5
+----- Generating with seed:
+"ike the pride of your home town but how can you hold out when your luck is down "
+----- Generated lyrics:
+ike the pride of your home town but how can you hold out when your luck is down you makin' on the shore you like you some oh i left you know i spent the day the singer the words i 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ike the pride of your home town but how can you hold out when your luck is down "
+----- Generated lyrics:
+ike the pride of your home town but how can you hold out when your luck is down me on the strange i don't want to stay chorus the day world at so much to she fafted some on the fir
+
+----- Diversity:0.7
+----- Generating with seed:
+"ike the pride of your home town but how can you hold out when your luck is down "
+----- Generated lyrics:
+ike the pride of your home town but how can you hold out when your luck is down you sometimes a should with a minutelin' be all my dise in my not could with you fello i was just we
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"ith you because you're one that have but that i can't refuse old habits die hard"
+----- Generated lyrics:
+ith you because you're one that have but that i can't refuse old habits die hard i don't want to be when you're being and i say i see the from so for a so was in the wind you some 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ith you because you're one that have but that i can't refuse old habits die hard"
+----- Generated lyrics:
+ith you because you're one that have but that i can't refuse old habits die hard on the blood no the put my mind like a say the middle for me when i was the way mind a see walkin' 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ith you because you're one that have but that i can't refuse old habits die hard"
+----- Generated lyrics:
+ith you because you're one that have but that i can't refuse old habits die hard out side you are the play and me for the come that we for you will the back to f i left the world b
+
+----- Diversity:0.6
+----- Generating with seed:
+"ith you because you're one that have but that i can't refuse old habits die hard"
+----- Generated lyrics:
+ith you because you're one that have but that i can't refuse old habits die hard on the bean for so any some maybe the find make you the hide recket my but i'm just like you better
+
+----- Diversity:0.7
+----- Generating with seed:
+"ith you because you're one that have but that i can't refuse old habits die hard"
+----- Generated lyrics:
+ith you because you're one that have but that i can't refuse old habits die hard i was honeymore and you had i knew you feeling in may you some and my holl walk of holdin' song you
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"s to kill someday they'll put me in a squad car someday they'll throw away the k"
+----- Generated lyrics:
+s to kill someday they'll put me in a squad car someday they'll throw away the kids of the street so i was the light she songs so long i was the sun before moon a show i can sing i
+
+----- Diversity:0.4
+----- Generating with seed:
+"s to kill someday they'll put me in a squad car someday they'll throw away the k"
+----- Generated lyrics:
+s to kill someday they'll put me in a squad car someday they'll throw away the kiss of the same you say in the say i was the same of the most the world for me i love you say on the
+
+----- Diversity:0.5
+----- Generating with seed:
+"s to kill someday they'll put me in a squad car someday they'll throw away the k"
+----- Generated lyrics:
+s to kill someday they'll put me in a squad car someday they'll throw away the krishnas we see land you say baby i was the lonely so fell me we song fall i was me that we left for 
+
+----- Diversity:0.6
+----- Generating with seed:
+"s to kill someday they'll put me in a squad car someday they'll throw away the k"
+----- Generated lyrics:
+s to kill someday they'll put me in a squad car someday they'll throw away the kiss and me i see and i was the world i need me to the land would i lie me when you see one of love i
+
+----- Diversity:0.7
+----- Generating with seed:
+"s to kill someday they'll put me in a squad car someday they'll throw away the k"
+----- Generated lyrics:
+s to kill someday they'll put me in a squad car someday they'll throw away the kiving offer so soon you want to try chorus future moson the new york and climbing in the lord now mu
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"early the books, the paintings and the furniture help me the signal's sounding o"
+----- Generated lyrics:
+early the books, the paintings and the furniture help me the signal's sounding on the stars of the road i'm song i'll never some so good if i can't get on the world on the fill me 
+
+----- Diversity:0.4
+----- Generating with seed:
+"early the books, the paintings and the furniture help me the signal's sounding o"
+----- Generated lyrics:
+early the books, the paintings and the furniture help me the signal's sounding on the sentite when the mountain to the there song in the sun to feel the sound all the beat the soun
+
+----- Diversity:0.5
+----- Generating with seed:
+"early the books, the paintings and the furniture help me the signal's sounding o"
+----- Generated lyrics:
+early the books, the paintings and the furniture help me the signal's sounding on the far unday the sun the sun what the fire me to the only for last she was the flaund left me for
+
+----- Diversity:0.6
+----- Generating with seed:
+"early the books, the paintings and the furniture help me the signal's sounding o"
+----- Generated lyrics:
+early the books, the paintings and the furniture help me the signal's sounding out a little alone gettin' everybody the sun like the sands then the mountain i've done when you so l
+
+----- Diversity:0.7
+----- Generating with seed:
+"early the books, the paintings and the furniture help me the signal's sounding o"
+----- Generated lyrics:
+early the books, the paintings and the furniture help me the signal's sounding only in the conds in the sing go in the country long gy life in his sunshine me on i men i all love w
+
+================================================================================

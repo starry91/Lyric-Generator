@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+" heart its your fault my heart its your fault why did you trust himdo not love m"
+----- Generated lyrics:
+ heart its your fault my heart its your fault why did you trust himdo not love mare i thand sang love are ans and sane bacang in thas in thas thas and thas and ang an and in thang 
+
+----- Diversity:0.4
+----- Generating with seed:
+" heart its your fault my heart its your fault why did you trust himdo not love m"
+----- Generated lyrics:
+ heart its your fault my heart its your fault why did you trust himdo not love mant ath are sand you and ang the bang an frang ing thave an you you an and bant have ant bad and ang
+
+----- Diversity:0.5
+----- Generating with seed:
+" heart its your fault my heart its your fault why did you trust himdo not love m"
+----- Generated lyrics:
+ heart its your fault my heart its your fault why did you trust himdo not love mart as a call ans tape taway thac pafon what als ang the and to shan thas bathang i the ace stalund 
+
+----- Diversity:0.6
+----- Generating with seed:
+" heart its your fault my heart its your fault why did you trust himdo not love m"
+----- Generated lyrics:
+ heart its your fault my heart its your fault why did you trust himdo not love ma by the thal agall ag salass and ard of ati beaod ang ang ing as abeagaon ol abeare ave and jout aa
+
+----- Diversity:0.7
+----- Generating with seed:
+" heart its your fault my heart its your fault why did you trust himdo not love m"
+----- Generated lyrics:
+ heart its your fault my heart its your fault why did you trust himdo not love mathed soce ad in my arpeant of of sacean batanne the aancbat in seleas ao ensgrannag an senes ifath 
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your li"
+----- Generated lyrics:
+ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your live sto youre youre and and and i a and you are love a a mant ang and an a whal an an and and and and
+
+----- Diversity:0.4
+----- Generating with seed:
+"ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your li"
+----- Generated lyrics:
+ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your live you saling and and in the stare ding ancing the be as that in you and you are dreands an thas din
+
+----- Diversity:0.5
+----- Generating with seed:
+"ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your li"
+----- Generated lyrics:
+ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your live is in in i love the cam bed in all this bed ma of yourssace i the ears and sane i fara camb that 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your li"
+----- Generated lyrics:
+ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your live the anly dear caan the an to heart will thas ance is ave the mand as anang the a som you dese was
+
+----- Diversity:0.7
+----- Generating with seed:
+"ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your li"
+----- Generated lyrics:
+ts look at yourself in my eyes in my eyes in my eyes in my eyes decorate your live a paces youre campabe nane wind you not you arc you in you pary has deato aus bearthe warn whe yo
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+" the intention is unbridled dont be decent babli is a punk babli is a punk dont "
+----- Generated lyrics:
+ the intention is unbridled dont be decent babli is a punk babli is a punk dont cone an on brang of are baby and comand bad are beant full fram bear but me and me beantif of and if
+
+----- Diversity:0.4
+----- Generating with seed:
+" the intention is unbridled dont be decent babli is a punk babli is a punk dont "
+----- Generated lyrics:
+ the intention is unbridled dont be decent babli is a punk babli is a punk dont cona go ancara that arou all all blays aut an all bean a a a and ancand an a and make ah a a an and 
+
+----- Diversity:0.5
+----- Generating with seed:
+" the intention is unbridled dont be decent babli is a punk babli is a punk dont "
+----- Generated lyrics:
+ the intention is unbridled dont be decent babli is a punk babli is a punk dont what shall brang mace baby beaut beart that are beart all abling and breathe sa beart become and you
+
+----- Diversity:0.6
+----- Generating with seed:
+" the intention is unbridled dont be decent babli is a punk babli is a punk dont "
+----- Generated lyrics:
+ the intention is unbridled dont be decent babli is a punk babli is a punk dont cong love to be bedo is a abeast bocabenaby story beaave acong in that and a brouthe life no na in a
+
+----- Diversity:0.7
+----- Generating with seed:
+" the intention is unbridled dont be decent babli is a punk babli is a punk dont "
+----- Generated lyrics:
+ the intention is unbridled dont be decent babli is a punk babli is a punk dont for say ancibeste ac abrong ats sall a seall someting ha as and casnant sape hus for the aras ancan 
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"look at what she thinks of herself this fair body of mine is made of lightening "
+----- Generated lyrics:
+look at what she thinks of herself this fair body of mine is made of lightening be in my beautiful ancing in aby nam in what a the cloning you now me and and the and ance and has w
+
+----- Diversity:0.4
+----- Generating with seed:
+"look at what she thinks of herself this fair body of mine is made of lightening "
+----- Generated lyrics:
+look at what she thinks of herself this fair body of mine is made of lightening fure am be and and one sing ane in your seart are not and way love hare to life sand how love what s
+
+----- Diversity:0.5
+----- Generating with seed:
+"look at what she thinks of herself this fair body of mine is made of lightening "
+----- Generated lyrics:
+look at what she thinks of herself this fair body of mine is made of lightening an you sea that sand awher in wath a my heart gaon for the sing in the live as on then i desing when
+
+----- Diversity:0.6
+----- Generating with seed:
+"look at what she thinks of herself this fair body of mine is made of lightening "
+----- Generated lyrics:
+look at what she thinks of herself this fair body of mine is made of lightening bnow me be aive dont much i but you fill me i my crazy alost thang my eyery fall is in my heart but 
+
+----- Diversity:0.7
+----- Generating with seed:
+"look at what she thinks of herself this fair body of mine is made of lightening "
+----- Generated lyrics:
+look at what she thinks of herself this fair body of mine is made of lightening youre my beauting in you me and our and with a me sme and my ly sting anc of nealifn and shand life 
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"me air in no time i was the reason for her living and dying and then i became wi"
+----- Generated lyrics:
+me air in no time i was the reason for her living and dying and then i became with cane in a dreams belove what can me beautif you that and you are in me belove way do a care have 
+
+----- Diversity:0.4
+----- Generating with seed:
+"me air in no time i was the reason for her living and dying and then i became wi"
+----- Generated lyrics:
+me air in no time i was the reason for her living and dying and then i became will came you mare the the seass is the athing my crazy has a as crazy ace ancan and way appay this as
+
+----- Diversity:0.5
+----- Generating with seed:
+"me air in no time i was the reason for her living and dying and then i became wi"
+----- Generated lyrics:
+me air in no time i was the reason for her living and dying and then i became with cand the brand say in shall nece youre a san the a you a are and a seart gice foul and in seand t
+
+----- Diversity:0.6
+----- Generating with seed:
+"me air in no time i was the reason for her living and dying and then i became wi"
+----- Generated lyrics:
+me air in no time i was the reason for her living and dying and then i became with canclone sanc gais thee as nace hat desing an afas passene even ane stang and at and ancs in the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"me air in no time i was the reason for her living and dying and then i became wi"
+----- Generated lyrics:
+me air in no time i was the reason for her living and dying and then i became with crazy of ay pights brian smance every you and sandang that derar ary hear live you the with this 
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"sky searches your earth for every deficit do i need you if not on earth meet me "
+----- Generated lyrics:
+sky searches your earth for every deficit do i need you if not on earth meet me ance i sance i have my heart given gain a an she now the heart ance are fare ace for me shant the in
+
+----- Diversity:0.4
+----- Generating with seed:
+"sky searches your earth for every deficit do i need you if not on earth meet me "
+----- Generated lyrics:
+sky searches your earth for every deficit do i need you if not on earth meet me ance a sand in way be never in my beartefand for the ware and become and now the has be fand been th
+
+----- Diversity:0.5
+----- Generating with seed:
+"sky searches your earth for every deficit do i need you if not on earth meet me "
+----- Generated lyrics:
+sky searches your earth for every deficit do i need you if not on earth meet me ance the in of abe the what seemc in the with me you and hare ic to there a a of in thas and you are
+
+----- Diversity:0.6
+----- Generating with seed:
+"sky searches your earth for every deficit do i need you if not on earth meet me "
+----- Generated lyrics:
+sky searches your earth for every deficit do i need you if not on earth meet me that i since to the for one hare an of me that beaons accing in ance anstonce is as for ance am abla
+
+----- Diversity:0.7
+----- Generating with seed:
+"sky searches your earth for every deficit do i need you if not on earth meet me "
+----- Generated lyrics:
+sky searches your earth for every deficit do i need you if not on earth meet me for blece wao are now me beenge heart me fing thought in with ve the befrom furd lis and the das you
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"ks which became desire of my heart even though you are near to me even though yo"
+----- Generated lyrics:
+ks which became desire of my heart even though you are near to me even though youre world my heart me and the and be never and a fare and and me in my live and and every a are and 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ks which became desire of my heart even though you are near to me even though yo"
+----- Generated lyrics:
+ks which became desire of my heart even though you are near to me even though you are the ming in my can the beauty fare cone to a cant you been to my are with a sare and afam the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ks which became desire of my heart even though you are near to me even though yo"
+----- Generated lyrics:
+ks which became desire of my heart even though you are near to me even though youre the siars me never is des meet the even the sometiness to ance i sace i tall the to the with sta
+
+----- Diversity:0.6
+----- Generating with seed:
+"ks which became desire of my heart even though you are near to me even though yo"
+----- Generated lyrics:
+ks which became desire of my heart even though you are near to me even though you keep in in every heart this if your feel in yes my shrange i sthen in my did that you she and some
+
+----- Diversity:0.7
+----- Generating with seed:
+"ks which became desire of my heart even though you are near to me even though yo"
+----- Generated lyrics:
+ks which became desire of my heart even though you are near to me even though you what love never an of or me all the do to the at sance you ane rats hfall my love ace and at in ma
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"the guys this is your usual way you put the mind and soul into a rythm and play "
+----- Generated lyrics:
+the guys this is your usual way you put the mind and soul into a rythm and play i all and mat in you a on there beautifule way shane god a a and hand and you ane have a a an a cant
+
+----- Diversity:0.4
+----- Generating with seed:
+"the guys this is your usual way you put the mind and soul into a rythm and play "
+----- Generated lyrics:
+the guys this is your usual way you put the mind and soul into a rythm and play in love a dint fare fall never and me and in my has she one and sace if shant for and shan what i ca
+
+----- Diversity:0.5
+----- Generating with seed:
+"the guys this is your usual way you put the mind and soul into a rythm and play "
+----- Generated lyrics:
+the guys this is your usual way you put the mind and soul into a rythm and play i a linever that the is you love beautingling in way in is dea a cant and want and you and in you sa
+
+----- Diversity:0.6
+----- Generating with seed:
+"the guys this is your usual way you put the mind and soul into a rythm and play "
+----- Generated lyrics:
+the guys this is your usual way you put the mind and soul into a rythm and play are nand come and you a my and of to learn my eyes and ha nam live daen a love eestan me day have se
+
+----- Diversity:0.7
+----- Generating with seed:
+"the guys this is your usual way you put the mind and soul into a rythm and play "
+----- Generated lyrics:
+the guys this is your usual way you put the mind and soul into a rythm and play is you fay there and and nam dent a you my agath of lian aaling aneysile fame will a all to i cayt e
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"away melody from song and poem the same way i am incomplete without you when i g"
+----- Generated lyrics:
+away melody from song and poem the same way i am incomplete without you when i get and awall call in you are me what an i mand my bearey all where a seace a are my araand of and an
+
+----- Diversity:0.4
+----- Generating with seed:
+"away melody from song and poem the same way i am incomplete without you when i g"
+----- Generated lyrics:
+away melody from song and poem the same way i am incomplete without you when i god the bearom and has and hand become in i sand me life and the had songe and ane sance in your in t
+
+----- Diversity:0.5
+----- Generating with seed:
+"away melody from song and poem the same way i am incomplete without you when i g"
+----- Generated lyrics:
+away melody from song and poem the same way i am incomplete without you when i get in all blowk when you in the stasing me cill sometime in my heart story firget tive same thoughts
+
+----- Diversity:0.6
+----- Generating with seed:
+"away melody from song and poem the same way i am incomplete without you when i g"
+----- Generated lyrics:
+away melody from song and poem the same way i am incomplete without you when i get in that me theer is of me well to the feres beautiful ive with your you his now seence is you you
+
+----- Diversity:0.7
+----- Generating with seed:
+"away melody from song and poem the same way i am incomplete without you when i g"
+----- Generated lyrics:
+away melody from song and poem the same way i am incomplete without you when i get ange wall acle ont comesse of my come searla ard in seace i how and even thes has acome to lencin
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"llen for him now he left me lovelorn craving for himevery part of me cries out y"
+----- Generated lyrics:
+llen for him now he left me lovelorn craving for himevery part of me cries out youre youre my from in my decess in the my all fiell in what of your heart and in ago are and not thi
+
+----- Diversity:0.4
+----- Generating with seed:
+"llen for him now he left me lovelorn craving for himevery part of me cries out y"
+----- Generated lyrics:
+llen for him now he left me lovelorn craving for himevery part of me cries out you you are bearing you are came beautifut your have beautifuld life have a bo in my bee the beany be
+
+----- Diversity:0.5
+----- Generating with seed:
+"llen for him now he left me lovelorn craving for himevery part of me cries out y"
+----- Generated lyrics:
+llen for him now he left me lovelorn craving for himevery part of me cries out youre in frays to should ive you sare the in the songen for the in the with in the with seen son at i
+
+----- Diversity:0.6
+----- Generating with seed:
+"llen for him now he left me lovelorn craving for himevery part of me cries out y"
+----- Generated lyrics:
+llen for him now he left me lovelorn craving for himevery part of me cries out you in my heart pase are i heart the with my love not you he denits bocome and the with he were now s
+
+----- Diversity:0.7
+----- Generating with seed:
+"llen for him now he left me lovelorn craving for himevery part of me cries out y"
+----- Generated lyrics:
+llen for him now he left me lovelorn craving for himevery part of me cries out you aneyscepancarous tals me and you are has tere as you cell angen youre a stantitead my and to fara
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are"
+----- Generated lyrics:
+a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are tall na stay ant like what to heart in lost as that beaut and the sand every that ane for and of in
+
+----- Diversity:0.4
+----- Generating with seed:
+"a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are"
+----- Generated lyrics:
+a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are a seang in your what come like a crare lis the son whenever love onder and stong in the stace hes t
+
+----- Diversity:0.5
+----- Generating with seed:
+"a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are"
+----- Generated lyrics:
+a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are sa tang in your love sing in the come sometime this world all ill is the sainly sears me and in and
+
+----- Diversity:0.6
+----- Generating with seed:
+"a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are"
+----- Generated lyrics:
+a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are all ang in youre that cans is a sace my has the starisess you you are a a of a are i some ain a as 
+
+----- Diversity:0.7
+----- Generating with seed:
+"a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are"
+----- Generated lyrics:
+a pa dha ni sa ni re ni sa sa sa notes in classical indian music the glances are faeseng the part the seartut this was bors seand to there what so night stain your fore durarl in w
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"as arisen in me as if it is raining the first time such magic impacted on me i h"
+----- Generated lyrics:
+as arisen in me as if it is raining the first time such magic impacted on me i have beautiful now and and ace belove and what cone an a this and make to you are in love i sandont i
+
+----- Diversity:0.4
+----- Generating with seed:
+"as arisen in me as if it is raining the first time such magic impacted on me i h"
+----- Generated lyrics:
+as arisen in me as if it is raining the first time such magic impacted on me i have beautiful a brand the sear love of an in the faway love see of even in in the stare love song wh
+
+----- Diversity:0.5
+----- Generating with seed:
+"as arisen in me as if it is raining the first time such magic impacted on me i h"
+----- Generated lyrics:
+as arisen in me as if it is raining the first time such magic impacted on me i have beautiful belove a be come blet love moment in what to become the beautiful be the the with a ai
+
+----- Diversity:0.6
+----- Generating with seed:
+"as arisen in me as if it is raining the first time such magic impacted on me i h"
+----- Generated lyrics:
+as arisen in me as if it is raining the first time such magic impacted on me i hes daen all as now angs ace i fall ethong in in my earlang and in on nang dinomingt fans in the some
+
+----- Diversity:0.7
+----- Generating with seed:
+"as arisen in me as if it is raining the first time such magic impacted on me i h"
+----- Generated lyrics:
+as arisen in me as if it is raining the first time such magic impacted on me i have shaded anco in the becowe felec of body eace a a butt thic i to belove life to me but now before
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"p there are new desires to meet you everyday it is victory for my heart i agree "
+----- Generated lyrics:
+p there are new desires to meet you everyday it is victory for my heart i agree and beautiful and and say beloon in live with me is all the starte i fall you the beautiful the ever
+
+----- Diversity:0.4
+----- Generating with seed:
+"p there are new desires to meet you everyday it is victory for my heart i agree "
+----- Generated lyrics:
+p there are new desires to meet you everyday it is victory for my heart i agree in the stant of of your eyes ceastart seen goth of my loas is seen agoing in what is of and lisine i
+
+----- Diversity:0.5
+----- Generating with seed:
+"p there are new desires to meet you everyday it is victory for my heart i agree "
+----- Generated lyrics:
+p there are new desires to meet you everyday it is victory for my heart i agree and the have and me you a beloand i gong all the the bante and its on is of or eyes this you sare it
+
+----- Diversity:0.6
+----- Generating with seed:
+"p there are new desires to meet you everyday it is victory for my heart i agree "
+----- Generated lyrics:
+p there are new desires to meet you everyday it is victory for my heart i agree too baro in way atay i way ive will sor to to every sboonge a weres and that me and becout beautif a
+
+----- Diversity:0.7
+----- Generating with seed:
+"p there are new desires to meet you everyday it is victory for my heart i agree "
+----- Generated lyrics:
+p there are new desires to meet you everyday it is victory for my heart i agree of for one have and bat love i is in is away heart aon ay and oh one a as arse not the he wheren he 
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"was meant to happen love was meant to happen and it did the city of your heart b"
+----- Generated lyrics:
+was meant to happen love was meant to happen and it did the city of your heart beloved you are the i a hand before in has i have a fare in of the has beautifull as and and that som
+
+----- Diversity:0.4
+----- Generating with seed:
+"was meant to happen love was meant to happen and it did the city of your heart b"
+----- Generated lyrics:
+was meant to happen love was meant to happen and it did the city of your heart belongit come on the here all in me the someone in your sying in to the eyes or eyes and in your you 
+
+----- Diversity:0.5
+----- Generating with seed:
+"was meant to happen love was meant to happen and it did the city of your heart b"
+----- Generated lyrics:
+was meant to happen love was meant to happen and it did the city of your heart becomes and a lifs and the has is is the in the dosting is sometime i that i the seans ho fars and yo
+
+----- Diversity:0.6
+----- Generating with seed:
+"was meant to happen love was meant to happen and it did the city of your heart b"
+----- Generated lyrics:
+was meant to happen love was meant to happen and it did the city of your heart becam on in all nogde way are come and in my heart i fas youre love in me one your how s out did mine
+
+----- Diversity:0.7
+----- Generating with seed:
+"was meant to happen love was meant to happen and it did the city of your heart b"
+----- Generated lyrics:
+was meant to happen love was meant to happen and it did the city of your heart belokes ome world beno that i if youreraft for this waneos beautiful of tear i am and cloughnot way s
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+" was made as long as this moon and the stars twinkle our bond will not break i w"
+----- Generated lyrics:
+ was made as long as this moon and the stars twinkle our bond will not break i will ver it leaving wall name the boune world be on me craane be a light and want leave ance someti i
+
+----- Diversity:0.4
+----- Generating with seed:
+" was made as long as this moon and the stars twinkle our bond will not break i w"
+----- Generated lyrics:
+ was made as long as this moon and the stars twinkle our bond will not break i will belove i sangines in or all the every all see and i well come love will me love live all day of 
+
+----- Diversity:0.5
+----- Generating with seed:
+" was made as long as this moon and the stars twinkle our bond will not break i w"
+----- Generated lyrics:
+ was made as long as this moon and the stars twinkle our bond will not break i with ve you leave and clong a the body become been amb come of eyes and every ae love beautiful conot
+
+----- Diversity:0.6
+----- Generating with seed:
+" was made as long as this moon and the stars twinkle our bond will not break i w"
+----- Generated lyrics:
+ was made as long as this moon and the stars twinkle our bond will not break i with blour in my love of love sur come bee all starling the was beno live all it lefting to rems of a
+
+----- Diversity:0.7
+----- Generating with seed:
+" was made as long as this moon and the stars twinkle our bond will not break i w"
+----- Generated lyrics:
+ was made as long as this moon and the stars twinkle our bond will not break i with vo all if on every neawhere here to away see an me loved on keeppran was be conting ance thou so
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"efs all the praises are for nothing ill write this on the sky and the entire wor"
+----- Generated lyrics:
+efs all the praises are for nothing ill write this on the sky and the entire world i stall the ole one has it my heart of you are all not i a and the eyes are you are all in my has
+
+----- Diversity:0.4
+----- Generating with seed:
+"efs all the praises are for nothing ill write this on the sky and the entire wor"
+----- Generated lyrics:
+efs all the praises are for nothing ill write this on the sky and the entire world of deed to me for you beautifine if the beauth a conce and the with you heart in the eyes the was
+
+----- Diversity:0.5
+----- Generating with seed:
+"efs all the praises are for nothing ill write this on the sky and the entire wor"
+----- Generated lyrics:
+efs all the praises are for nothing ill write this on the sky and the entire world sing in every for this sometimes aft how he of come that sence seelong i thes you of ound in your
+
+----- Diversity:0.6
+----- Generating with seed:
+"efs all the praises are for nothing ill write this on the sky and the entire wor"
+----- Generated lyrics:
+efs all the praises are for nothing ill write this on the sky and the entire world in the with your eyes that and not my sometiness eyes all the te seen my all a love get for all a
+
+----- Diversity:0.7
+----- Generating with seed:
+"efs all the praises are for nothing ill write this on the sky and the entire wor"
+----- Generated lyrics:
+efs all the praises are for nothing ill write this on the sky and the entire world he of you wanthe that angiret is to in that me abe now not for of a mise i sometnt in your has be
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"ion let your hearts desires blossom and your hopes smile now nothing is difficul"
+----- Generated lyrics:
+ion let your hearts desires blossom and your hopes smile now nothing is difficult someting the start in this is cant tall the song and with of you is moment a that story for the in
+
+----- Diversity:0.4
+----- Generating with seed:
+"ion let your hearts desires blossom and your hopes smile now nothing is difficul"
+----- Generated lyrics:
+ion let your hearts desires blossom and your hopes smile now nothing is difficult the benot that a the it is the sids a of this as and of this as it for you to have so a god and st
+
+----- Diversity:0.5
+----- Generating with seed:
+"ion let your hearts desires blossom and your hopes smile now nothing is difficul"
+----- Generated lyrics:
+ion let your hearts desires blossom and your hopes smile now nothing is difficule stone is this in the the soar in the to the is of someting to stones with story in you a the has t
+
+----- Diversity:0.6
+----- Generating with seed:
+"ion let your hearts desires blossom and your hopes smile now nothing is difficul"
+----- Generated lyrics:
+ion let your hearts desires blossom and your hopes smile now nothing is difficull stones i feels come o angive out all that belove wessen the ive as in all this the benget eives in
+
+----- Diversity:0.7
+----- Generating with seed:
+"ion let your hearts desires blossom and your hopes smile now nothing is difficul"
+----- Generated lyrics:
+ion let your hearts desires blossom and your hopes smile now nothing is difficul the wies belified once every metes your the sometide yestentas that a to all for is way its my a ha
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"me more o baby rock the dance floor rock the dance floor there is same noise in "
+----- Generated lyrics:
+me more o baby rock the dance floor rock the dance floor there is same noise in has to live who see you i of the come on on the with you in love are all in my life the with me what
+
+----- Diversity:0.4
+----- Generating with seed:
+"me more o baby rock the dance floor rock the dance floor there is same noise in "
+----- Generated lyrics:
+me more o baby rock the dance floor rock the dance floor there is same noise in has to atall the has stant sometime you a say to as a i na cong of of what is to the no bous and in 
+
+----- Diversity:0.5
+----- Generating with seed:
+"me more o baby rock the dance floor rock the dance floor there is same noise in "
+----- Generated lyrics:
+me more o baby rock the dance floor rock the dance floor there is same noise in the story love is this to to me the some peeces in your whome here is hars someting in your wor to s
+
+----- Diversity:0.6
+----- Generating with seed:
+"me more o baby rock the dance floor rock the dance floor there is same noise in "
+----- Generated lyrics:
+me more o baby rock the dance floor rock the dance floor there is same noise in hare stopatere in and in to he the beln on a one youre a a but if someen in when on you our eyes who
+
+----- Diversity:0.7
+----- Generating with seed:
+"me more o baby rock the dance floor rock the dance floor there is same noise in "
+----- Generated lyrics:
+me more o baby rock the dance floor rock the dance floor there is same noise in that eyes heart am srain is the every lif you of you are ling lots and not nawes feare of your look 
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"a colorful spring im a drowning traveler and youre the dry coastlineyour memorie"
+----- Generated lyrics:
+a colorful spring im a drowning traveler and youre the dry coastlineyour memories a the someone in your and the seen in my heart i wall and in the eyes me the is you fare in you he
+
+----- Diversity:0.4
+----- Generating with seed:
+"a colorful spring im a drowning traveler and youre the dry coastlineyour memorie"
+----- Generated lyrics:
+a colorful spring im a drowning traveler and youre the dry coastlineyour memories and my every ang a to you and i a sing that you mas in my seen is and my har and the is all my lif
+
+----- Diversity:0.5
+----- Generating with seed:
+"a colorful spring im a drowning traveler and youre the dry coastlineyour memorie"
+----- Generated lyrics:
+a colorful spring im a drowning traveler and youre the dry coastlineyour memories a see meen sinere all you the fare and king and has to fure is hare in the shoule of my heart the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"a colorful spring im a drowning traveler and youre the dry coastlineyour memorie"
+----- Generated lyrics:
+a colorful spring im a drowning traveler and youre the dry coastlineyour memorie for you in the one my seand he palks tece were even the my has on on been so go who the the so when
+
+----- Diversity:0.7
+----- Generating with seed:
+"a colorful spring im a drowning traveler and youre the dry coastlineyour memorie"
+----- Generated lyrics:
+a colorful spring im a drowning traveler and youre the dry coastlineyour memories come in my life on you one one when me love or swite in worke a dream i wall in loven to and the t
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"bless waist doesnt listen to me when there is a beat playing i gotta shake it li"
+----- Generated lyrics:
+bless waist doesnt listen to me when there is a beat playing i gotta shake it like the world of hor so so in my heart is ange this in on the beauting in the my someone in the songo
+
+----- Diversity:0.4
+----- Generating with seed:
+"bless waist doesnt listen to me when there is a beat playing i gotta shake it li"
+----- Generated lyrics:
+bless waist doesnt listen to me when there is a beat playing i gotta shake it like those of to he in the sore the to is of to seeting on you in me stan of the in is it to seen me a
+
+----- Diversity:0.5
+----- Generating with seed:
+"bless waist doesnt listen to me when there is a beat playing i gotta shake it li"
+----- Generated lyrics:
+bless waist doesnt listen to me when there is a beat playing i gotta shake it life the goos are a rain of be this is you are the or to are in to shante of the eyes of to you in the
+
+----- Diversity:0.6
+----- Generating with seed:
+"bless waist doesnt listen to me when there is a beat playing i gotta shake it li"
+----- Generated lyrics:
+bless waist doesnt listen to me when there is a beat playing i gotta shake it lise is infor storasto it love we on and moment abouns boun he given me to sand in my has is of my cra
+
+----- Diversity:0.7
+----- Generating with seed:
+"bless waist doesnt listen to me when there is a beat playing i gotta shake it li"
+----- Generated lyrics:
+bless waist doesnt listen to me when there is a beat playing i gotta shake it listay seelong to a co come on my come not all you me fa long and go one and aund speras in was i has 
+
+================================================================================

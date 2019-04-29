@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"ch i have to live without you youre so b"
+----- Generated lyrics:
+ch i have to live without you youre so beant beent be with ave and the every in sowe me all the pareles at selle the whall see with me are s
+
+----- Diversity:0.4
+----- Generating with seed:
+"ch i have to live without you youre so b"
+----- Generated lyrics:
+ch i have to live without you youre so beay it seare way in youre youre in searese with and the with youre wat of youre way in youre arey me
+
+----- Diversity:0.5
+----- Generating with seed:
+"ch i have to live without you youre so b"
+----- Generated lyrics:
+ch i have to live without you youre so been soney if your of youre way in my seare are my haar ar af be ar sarl  ful sling in you i hever ar
+
+----- Diversity:0.6
+----- Generating with seed:
+"ch i have to live without you youre so b"
+----- Generated lyrics:
+ch i have to live without you youre so bepeand you are tol stere of the coutdingins in in whes if ap ak wot the the rind come the sepere the
+
+----- Diversity:0.7
+----- Generating with seed:
+"ch i have to live without you youre so b"
+----- Generated lyrics:
+ch i have to live without you youre so beeorinanc eles nelb to beaberiners then you headt if ches ar my whazink you beeasdrane in ave ream t
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"at you have hid in your heart i shall no"
+----- Generated lyrics:
+at you have hid in your heart i shall now my erest beare and in me i have bean ar and fare ar sang in me sele in the my beare way the every 
+
+----- Diversity:0.4
+----- Generating with seed:
+"at you have hid in your heart i shall no"
+----- Generated lyrics:
+at you have hid in your heart i shall now whac in of youre ene shereare sare ghes the my bean her are my bee me in share in my are ant in an
+
+----- Diversity:0.5
+----- Generating with seed:
+"at you have hid in your heart i shall no"
+----- Generated lyrics:
+at you have hid in your heart i shall now why so hear yourerses tor the some now my heart samen whald sa youre in a creard in the me beine i
+
+----- Diversity:0.6
+----- Generating with seed:
+"at you have hid in your heart i shall no"
+----- Generated lyrics:
+at you have hid in your heart i shall now the in and famessnig the seartsoned been afe nacf som you and mes sisecesay worl tha my hing in de
+
+----- Diversity:0.7
+----- Generating with seed:
+"at you have hid in your heart i shall no"
+----- Generated lyrics:
+at you have hid in your heart i shall now more bees heart thing aad ma sant mes the sanand a when ther buc ming shound is ma comesfenang com
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"as mine oh god oh god whenever you make "
+----- Generated lyrics:
+as mine oh god oh god whenever you make the peand my love i have are if and the shas my bece is and the with and and af in my and the wart y
+
+----- Diversity:0.4
+----- Generating with seed:
+"as mine oh god oh god whenever you make "
+----- Generated lyrics:
+as mine oh god oh god whenever you make as my breant of me my have my bids if ave the hadde are are me fang sall all shall me what i sale th
+
+----- Diversity:0.5
+----- Generating with seed:
+"as mine oh god oh god whenever you make "
+----- Generated lyrics:
+as mine oh god oh god whenever you make as of the seren what that in se and and sance i have that the soul the panting with a fare in are th
+
+----- Diversity:0.6
+----- Generating with seed:
+"as mine oh god oh god whenever you make "
+----- Generated lyrics:
+as mine oh god oh god whenever you make that in when the hearne endstant carw thake is of the dleten shall sted the of the of a you all the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"as mine oh god oh god whenever you make "
+----- Generated lyrics:
+as mine oh god oh god whenever you make thace ave soll menn wheneveryters cughte of you me whing in with awhane with be ave is anden frim my
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+" we both were togetherthough it was mean"
+----- Generated lyrics:
+ we both were togetherthough it was meant and in what youre and the was whake a love what the i want whe my heart me fore the what is that i
+
+----- Diversity:0.4
+----- Generating with seed:
+" we both were togetherthough it was mean"
+----- Generated lyrics:
+ we both were togetherthough it was mean and the sare when a dont thake fare the that the with youre shepeand your the and you the fare an m
+
+----- Diversity:0.5
+----- Generating with seed:
+" we both were togetherthough it was mean"
+----- Generated lyrics:
+ we both were togetherthough it was mean fare the bera of you have my every it youre the parind your sand becam every haar same bream in the
+
+----- Diversity:0.6
+----- Generating with seed:
+" we both were togetherthough it was mean"
+----- Generated lyrics:
+ we both were togetherthough it was mean now coment rovery there thesen des mine the thang is and ware in that i pore bes in wholds it whese
+
+----- Diversity:0.7
+----- Generating with seed:
+" we both were togetherthough it was mean"
+----- Generated lyrics:
+ we both were togetherthough it was meang comec love that your it now a lea i have folat waay of ani hangint sing the ave here i howre of yo
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"y dear thank you ever so much my love ne"
+----- Generated lyrics:
+y dear thank you ever so much my love neant and as me love my has in my heart in you hewar my heart heart me for and in in my haan shame in 
+
+----- Diversity:0.4
+----- Generating with seed:
+"y dear thank you ever so much my love ne"
+----- Generated lyrics:
+y dear thank you ever so much my love neanca falling the sare a dreand in as cang that want what i me and the love and samean the i and in m
+
+----- Diversity:0.5
+----- Generating with seed:
+"y dear thank you ever so much my love ne"
+----- Generated lyrics:
+y dear thank you ever so much my love near i have see and the are all and becan with at sent if love fore live ar in the the of loves now yo
+
+----- Diversity:0.6
+----- Generating with seed:
+"y dear thank you ever so much my love ne"
+----- Generated lyrics:
+y dear thank you ever so much my love neart with yous acm the dae what bee ke a caplk stare ambyes i canp mace wa tame is of atnea beca the 
+
+----- Diversity:0.7
+----- Generating with seed:
+"y dear thank you ever so much my love ne"
+----- Generated lyrics:
+y dear thank you ever so much my love neam and your heart youre your ssamesn thy hate my i warnt sanes my eves me ares s my pears liten you 
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"art stops at hers where she saw me and w"
+----- Generated lyrics:
+art stops at hers where she saw me and what the with a dand beant in will at your love be seand your all in whenever me sea des my bee me ar
+
+----- Diversity:0.4
+----- Generating with seed:
+"art stops at hers where she saw me and w"
+----- Generated lyrics:
+art stops at hers where she saw me and what the who how ning and heart do the what a dever in the sume never me what at love arinks is and m
+
+----- Diversity:0.5
+----- Generating with seed:
+"art stops at hers where she saw me and w"
+----- Generated lyrics:
+art stops at hers where she saw me and wast same in and the with youre heart ang the me as my life i have the hare act hear breate love a si
+
+----- Diversity:0.6
+----- Generating with seed:
+"art stops at hers where she saw me and w"
+----- Generated lyrics:
+art stops at hers where she saw me and wakts the counis and tat with you love as every i ary is ance love anne frome see the life me the dad
+
+----- Diversity:0.7
+----- Generating with seed:
+"art stops at hers where she saw me and w"
+----- Generated lyrics:
+art stops at hers where she saw me and what dreads of madnees my and is life i a clive tiluvade name fryeand tow you in sei my the woradon f
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"ations to the letter na which is shiva w"
+----- Generated lyrics:
+ations to the letter na which is shiva with my heart wat is and you are come not my like in my fall see sare call the seare are a stare me t
+
+----- Diversity:0.4
+----- Generating with seed:
+"ations to the letter na which is shiva w"
+----- Generated lyrics:
+ations to the letter na which is shiva with coul is make it the my the what beds and what a permet i have coment if an start come you drest 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ations to the letter na which is shiva w"
+----- Generated lyrics:
+ations to the letter na which is shiva wenting shave des arwhy my leave my lake your stant i na love my dream theses with you in my in my de
+
+----- Diversity:0.6
+----- Generating with seed:
+"ations to the letter na which is shiva w"
+----- Generated lyrics:
+ations to the letter na which is shiva with love as now shant that have wein now whink the walk the heare tan santet the my heart mome the s
+
+----- Diversity:0.7
+----- Generating with seed:
+"ations to the letter na which is shiva w"
+----- Generated lyrics:
+ations to the letter na which is shiva wats drean the fallend the cand the sare peres singt of cime nion us ill sellong my on what in stant 
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"t youi stayed up all night for you i she"
+----- Generated lyrics:
+t youi stayed up all night for you i she my ang the with you are and in whake a you i have fare in my frire me bod me you are the sing sane 
+
+----- Diversity:0.4
+----- Generating with seed:
+"t youi stayed up all night for you i she"
+----- Generated lyrics:
+t youi stayed up all night for you i she you are live can is i fare thing of me sear the call sear wat call the selline the seans if are say
+
+----- Diversity:0.5
+----- Generating with seed:
+"t youi stayed up all night for you i she"
+----- Generated lyrics:
+t youi stayed up all night for you i shen me there have that swaren is un that in sta haway stant if alwa frowcant in with cant the when wha
+
+----- Diversity:0.6
+----- Generating with seed:
+"t youi stayed up all night for you i she"
+----- Generated lyrics:
+t youi stayed up all night for you i she are is tay berome up ciof the to now all in from belaan se the wan sea me now and the hare us a nat
+
+----- Diversity:0.7
+----- Generating with seed:
+"t youi stayed up all night for you i she"
+----- Generated lyrics:
+t youi stayed up all night for you i she the and of cace reant of lipes love this comete bees reveryssighvens have pecay me onneveds lovedas
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"d poem the same way i am incomplete with"
+----- Generated lyrics:
+d poem the same way i am incomplete with me you and acant it in my lines in ane your an a my heart that in my heart in your had the stant my
+
+----- Diversity:0.4
+----- Generating with seed:
+"d poem the same way i am incomplete with"
+----- Generated lyrics:
+d poem the same way i am incomplete with me hear ma want it me and what in the is and same in i am of af at an wan sare sand to me the with 
+
+----- Diversity:0.5
+----- Generating with seed:
+"d poem the same way i am incomplete with"
+----- Generated lyrics:
+d poem the same way i am incomplete with of you my braatherlleses ame this with ou at the prazet in on ull in s crean eare sare fance come y
+
+----- Diversity:0.6
+----- Generating with seed:
+"d poem the same way i am incomplete with"
+----- Generated lyrics:
+d poem the same way i am incomplete with mome and care mat nee to eranot have a has deent and hach an thou heare nas sant never in your you 
+
+----- Diversity:0.7
+----- Generating with seed:
+"d poem the same way i am incomplete with"
+----- Generated lyrics:
+d poem the same way i am incomplete with me you the crazp are bepassompates of then you houre not give has the way this that chered in my he
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"pair of the eyes with full of joy has di"
+----- Generated lyrics:
+pair of the eyes with full of joy has disturbed me the pain the heart this bee in my in the with you in mat here you are creand you in my he
+
+----- Diversity:0.4
+----- Generating with seed:
+"pair of the eyes with full of joy has di"
+----- Generated lyrics:
+pair of the eyes with full of joy has distarbed me that a my fall me that with a fare in my hame in my heart she dant my heart rions never i
+
+----- Diversity:0.5
+----- Generating with seed:
+"pair of the eyes with full of joy has di"
+----- Generated lyrics:
+pair of the eyes with full of joy has dis mabed me the parant for me in your give my each a can riec cancing you are and then did ance been 
+
+----- Diversity:0.6
+----- Generating with seed:
+"pair of the eyes with full of joy has di"
+----- Generated lyrics:
+pair of the eyes with full of joy has disturbed me there in the live her jour and a the dant the ha lway live ame of mometidn if you gretine
+
+----- Diversity:0.7
+----- Generating with seed:
+"pair of the eyes with full of joy has di"
+----- Generated lyrics:
+pair of the eyes with full of joy has dis ur her houg an i son line youte the to for theim love linald hear hear the goay the ster in your w
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"ore my heart finds you when it feels lon"
+----- Generated lyrics:
+ore my heart finds you when it feels lone when i as you cole in the come to me what is your some in in my live the what i stell the come in 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ore my heart finds you when it feels lon"
+----- Generated lyrics:
+ore my heart finds you when it feels lonet the that my eep in ane is in will is in your have you are are world become i have a this are the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"ore my heart finds you when it feels lon"
+----- Generated lyrics:
+ore my heart finds you when it feels loned beyand come now i how have sometes my heart what the dad the sand daes men line and see and sant 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ore my heart finds you when it feels lon"
+----- Generated lyrics:
+ore my heart finds you when it feels lones you fromedfme haves now every breame you have be not badnenday a ase deet soming in in you make t
+
+----- Diversity:0.7
+----- Generating with seed:
+"ore my heart finds you when it feels lon"
+----- Generated lyrics:
+ore my heart finds you when it feels longist ling like a bulain me bean the st eyes falles benifi ancand it betas woll you muchs my been eve
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"s transformed a dream lives in me implic"
+----- Generated lyrics:
+s transformed a dream lives in me implich me and the on stand in the sand the see the with i fang and with it you your bazy you in your with
+
+----- Diversity:0.4
+----- Generating with seed:
+"s transformed a dream lives in me implic"
+----- Generated lyrics:
+s transformed a dream lives in me implich you me and me beant your my ange me the soment every hearteransore heare ath is the heart same in 
+
+----- Diversity:0.5
+----- Generating with seed:
+"s transformed a dream lives in me implic"
+----- Generated lyrics:
+s transformed a dream lives in me implich you love wont ale are to now you are my in me my freen you the never in your wore is have you are 
+
+----- Diversity:0.6
+----- Generating with seed:
+"s transformed a dream lives in me implic"
+----- Generated lyrics:
+s transformed a dream lives in me implich that um hes the will the eaar sorensteinsone womadre have the froll have have besam come the paren
+
+----- Diversity:0.7
+----- Generating with seed:
+"s transformed a dream lives in me implic"
+----- Generated lyrics:
+s transformed a dream lives in me implican and seans morr fare nain ave are thinks every hame happansewhe dequesters me heart acp greines of
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"ed and there was no search my incomplete"
+----- Generated lyrics:
+ed and there was no search my incomplete it the swazy as crame you are stay sees in your hear in my life if the shall if my heart are sance 
+
+----- Diversity:0.4
+----- Generating with seed:
+"ed and there was no search my incomplete"
+----- Generated lyrics:
+ed and there was no search my incomplete sand the shant and you every in of you are in in my i the me how youre me hea steers in you in gate
+
+----- Diversity:0.5
+----- Generating with seed:
+"ed and there was no search my incomplete"
+----- Generated lyrics:
+ed and there was no search my incomplete a love and dam deam ad me and dream come i smiens lived is and same in that sant in me in ses in be
+
+----- Diversity:0.6
+----- Generating with seed:
+"ed and there was no search my incomplete"
+----- Generated lyrics:
+ed and there was no search my incomplete it now my hafaght mancewing see the i paranow you have bed it here the there the sore whethe every 
+
+----- Diversity:0.7
+----- Generating with seed:
+"ed and there was no search my incomplete"
+----- Generated lyrics:
+ed and there was no search my incomplete i and the weethen sone stale i raapes i enied in there that in call sere the for it of this is an c
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"y flame oh my flame thou have been my fl"
+----- Generated lyrics:
+y flame oh my flame thou have been my flaling you are the with your anfer make the say seand sand the wear with the gath wear in ane what st
+
+----- Diversity:0.4
+----- Generating with seed:
+"y flame oh my flame thou have been my fl"
+----- Generated lyrics:
+y flame oh my flame thou have been my floing the heart as the sees the call that you you the shall of me in wear be your somed the crake sta
+
+----- Diversity:0.5
+----- Generating with seed:
+"y flame oh my flame thou have been my fl"
+----- Generated lyrics:
+y flame oh my flame thou have been my flome you ave are deep dyed of are have you in me did you is my a my heart and the i have theres in av
+
+----- Diversity:0.6
+----- Generating with seed:
+"y flame oh my flame thou have been my fl"
+----- Generated lyrics:
+y flame oh my flame thou have been my flaning of men in in my dainst and of became comk in able there is and the there on the hange niared e
+
+----- Diversity:0.7
+----- Generating with seed:
+"y flame oh my flame thou have been my fl"
+----- Generated lyrics:
+y flame oh my flame thou have been my flomy every sameto leave for without givence is lile i of your o aun hare staes even beansing beer are
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"well could someone ask her what she thou"
+----- Generated lyrics:
+well could someone ask her what she thought sand and in make is sase and you are can the the stant and in me now in and been the sand in the
+
+----- Diversity:0.4
+----- Generating with seed:
+"well could someone ask her what she thou"
+----- Generated lyrics:
+well could someone ask her what she thought can is and in in when and you are and the sing in in what it my all got heart the what in and ev
+
+----- Diversity:0.5
+----- Generating with seed:
+"well could someone ask her what she thou"
+----- Generated lyrics:
+well could someone ask her what she thoug world i fall now in moment do sever of the i the in come in me my heart love you have that were ma
+
+----- Diversity:0.6
+----- Generating with seed:
+"well could someone ask her what she thou"
+----- Generated lyrics:
+well could someone ask her what she thought somentow of all in the it the the sone save with i il seadd thinks in is hatuld bed in the in an
+
+----- Diversity:0.7
+----- Generating with seed:
+"well could someone ask her what she thou"
+----- Generated lyrics:
+well could someone ask her what she thoull you ramshis you ni to somes in there see scan you have wayshef pee ofe canfing be of detawe i dar
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"e than i have in myself this heart has f"
+----- Generated lyrics:
+e than i have in myself this heart has fall the sing world but sten in the sare in in my heart now in in my heart in me line see and se shan
+
+----- Diversity:0.4
+----- Generating with seed:
+"e than i have in myself this heart has f"
+----- Generated lyrics:
+e than i have in myself this heart has fare have i mate as store is the heart is in in my life in ane steand have me the will the dee ca cal
+
+----- Diversity:0.5
+----- Generating with seed:
+"e than i have in myself this heart has f"
+----- Generated lyrics:
+e than i have in myself this heart has fallet in the nin we what your was dee naind and you jish stady you as i an in and an the braat in ma
+
+----- Diversity:0.6
+----- Generating with seed:
+"e than i have in myself this heart has f"
+----- Generated lyrics:
+e than i have in myself this heart has fanings that you the my sepening taes in is that in with youre in stazy fall fall the cungand the sel
+
+----- Diversity:0.7
+----- Generating with seed:
+"e than i have in myself this heart has f"
+----- Generated lyrics:
+e than i have in myself this heart has fromeens dive will be this lake for in nifale the sterinesundon anf ghing bea skeands gaten is an you
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"our praises are all i sing tu hi to mera"
+----- Generated lyrics:
+our praises are all i sing tu hi to merand in is me star in staen the her in the with me in the dreams the come in my heart as ath me the sh
+
+----- Diversity:0.4
+----- Generating with seed:
+"our praises are all i sing tu hi to mera"
+----- Generated lyrics:
+our praises are all i sing tu hi to merant of me have exshat core and the somen seen when af at staou here that me here go your hear and see
+
+----- Diversity:0.5
+----- Generating with seed:
+"our praises are all i sing tu hi to mera"
+----- Generated lyrics:
+our praises are all i sing tu hi to mera you it a i the in is eyes in that i have beant the like me what in stele me fare some the shand sed
+
+----- Diversity:0.6
+----- Generating with seed:
+"our praises are all i sing tu hi to mera"
+----- Generated lyrics:
+our praises are all i sing tu hi to merall if tout you hane fall this that me and what in my heart ave the with shmy des love with secer hea
+
+----- Diversity:0.7
+----- Generating with seed:
+"our praises are all i sing tu hi to mera"
+----- Generated lyrics:
+our praises are all i sing tu hi to merace sestbuthe in the gits of had cries ath you severusfopen and the dee on the me and goh your to me 
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"od from the earth to the sky i have sear"
+----- Generated lyrics:
+od from the earth to the sky i have sears in of the i have beloved with you what in the have as beauth you have i somen me and ate are are i
+
+----- Diversity:0.4
+----- Generating with seed:
+"od from the earth to the sky i have sear"
+----- Generated lyrics:
+od from the earth to the sky i have searnight me here is i live in the should when in hand are as of now you are the sand the say are with s
+
+----- Diversity:0.5
+----- Generating with seed:
+"od from the earth to the sky i have sear"
+----- Generated lyrics:
+od from the earth to the sky i have sear the sase of my paring fall in me life save as i there are and an you a heart the dont the in as to 
+
+----- Diversity:0.6
+----- Generating with seed:
+"od from the earth to the sky i have sear"
+----- Generated lyrics:
+od from the earth to the sky i have searingto hgave when at the in the what i ave the bures stort it a piins you and my what it all tell it 
+
+----- Diversity:0.7
+----- Generating with seed:
+"od from the earth to the sky i have sear"
+----- Generated lyrics:
+od from the earth to the sky i have searon with youre its the will yul sere the are my blate day i to love a a steing houd moment if ol stam
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+" time lets stop it now your streets shou"
+----- Generated lyrics:
+ time lets stop it now your streets should sance soment the ling soment in my heart for are i have sace my in the sand for the sand in it my
+
+----- Diversity:0.4
+----- Generating with seed:
+" time lets stop it now your streets shou"
+----- Generated lyrics:
+ time lets stop it now your streets should is as is with you heart and for your seme and this and sacan deant in the say and she that in me 
+
+----- Diversity:0.5
+----- Generating with seed:
+" time lets stop it now your streets shou"
+----- Generated lyrics:
+ time lets stop it now your streets shound some is youre and ac me it the in the my in my how the shand got it in my heart des some the you 
+
+----- Diversity:0.6
+----- Generating with seed:
+" time lets stop it now your streets shou"
+----- Generated lyrics:
+ time lets stop it now your streets shoures and somen the the whined bee sonce of nawe heart become astin me not lime sape camet the will in
+
+----- Diversity:0.7
+----- Generating with seed:
+" time lets stop it now your streets shou"
+----- Generated lyrics:
+ time lets stop it now your streets should criond and bedam lifel way make i sing sap to lived hier aich of there day your liskent what hale
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"hout you chorus i wont live i will die w"
+----- Generated lyrics:
+hout you chorus i wont live i will die wanc in as in and beauth a my heart in beant like me the what no le the san and in sore and in and in
+
+----- Diversity:0.4
+----- Generating with seed:
+"hout you chorus i wont live i will die w"
+----- Generated lyrics:
+hout you chorus i wont live i will die ware il fall becon can the be the bream and and in is can in your of sa caanc have as me wan the dont
+
+----- Diversity:0.5
+----- Generating with seed:
+"hout you chorus i wont live i will die w"
+----- Generated lyrics:
+hout you chorus i wont live i will die we the shas ance bun in maet in as your hat you are wan mes may one for your and it not and is your a
+
+----- Diversity:0.6
+----- Generating with seed:
+"hout you chorus i wont live i will die w"
+----- Generated lyrics:
+hout you chorus i wont live i will die world beais art all de this you anw you ning someto fer men in in the the wasthen and somband somes i
+
+----- Diversity:0.7
+----- Generating with seed:
+"hout you chorus i wont live i will die w"
+----- Generated lyrics:
+hout you chorus i wont live i will die will in ah come in is as yout the to your and all me everal ie seado i dons my llat of stere nof i my
+
+================================================================================

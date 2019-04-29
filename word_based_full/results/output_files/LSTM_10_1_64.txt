@@ -1,0 +1,861 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"help 
+ most have lost her way 
+ 
+ she"
+----- Generated lyrics:
+help 
+ most have lost her way 
+ 
+ she was a fool 
+ and i know that she was a little bit of your heart 
+ just a little bit bit of heart 
+ just a little bit of your heart 
+ just a little bit bit of heart 
+ just a little bit bit of heart 
+ just
+
+----- Diversity:0.4
+----- Generating with seed:
+"help 
+ most have lost her way 
+ 
+ she"
+----- Generated lyrics:
+help 
+ most have lost her way 
+ 
+ she was a little bit of a little bit bit bit little bit bit bit little bit bit bit i just a little bit bit bit little little bit bit bit bit bit i bit little bit of your heart 
+ just a little bit bit of heart 
+ just a
+
+----- Diversity:0.5
+----- Generating with seed:
+"help 
+ most have lost her way 
+ 
+ she"
+----- Generated lyrics:
+help 
+ most have lost her way 
+ 
+ she just to go 
+ 
+ well i would be in the road 
+ and i can't be the way 
+ 
+ i don't want to go 
+ and i want to see 
+ and i know that it's the time 
+ i know that i would be 
+ and i
+
+----- Diversity:0.6
+----- Generating with seed:
+"help 
+ most have lost her way 
+ 
+ she"
+----- Generated lyrics:
+help 
+ most have lost her way 
+ 
+ she get it gave it to the road 
+ 
+ i saw you got my soul 
+ i don't want you to see you 
+ you've got a way around 
+ i'm not over the road 
+ 
+ and i know that i dream 
+ 
+ don't know that it's a
+
+----- Diversity:0.7
+----- Generating with seed:
+"help 
+ most have lost her way 
+ 
+ she"
+----- Generated lyrics:
+help 
+ most have lost her way 
+ 
+ she does a little bit he was or woman to a little bit of a little bit bit of bit bit a little bit bit of your heart just a little bit bit of your heart just a little bit bit of your heart bit is a little bit bit your
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"in vain 
+ some people don't and go insane 
+"
+----- Generated lyrics:
+in vain 
+ some people don't and go insane 
+ some others die on the road 
+ some others die to worry no more 
+ and we ain't gonna do no no place to turn 
+ no fortune to the desert you go 
+ and the world can't go down 
+ the water and the island 
+ the one day
+
+----- Diversity:0.4
+----- Generating with seed:
+"in vain 
+ some people don't and go insane 
+"
+----- Generated lyrics:
+in vain 
+ some people don't and go insane 
+ some others die on the road 
+ some other die to turn, 
+ and die 
+ but we're going to give up to try to heaven 
+ like a child to die 
+ but it seems so long, long to try 
+ but i know the chill is the rain
+
+----- Diversity:0.5
+----- Generating with seed:
+"in vain 
+ some people don't and go insane 
+"
+----- Generated lyrics:
+in vain 
+ some people don't and go insane 
+ some others die on the road 
+ some others die to die free 
+ we're gonna die to see no more 
+ we're gonna gonna see the world that i'm gonna gonna hang around, wait around 
+ hope she'll love again again some day 
+ they say a broken heart
+
+----- Diversity:0.6
+----- Generating with seed:
+"in vain 
+ some people don't and go insane 
+"
+----- Generated lyrics:
+in vain 
+ some people don't and go insane 
+ some others die 
+ and now of the world and i'm in the open 
+ now the world to turn out and the night 
+ i gotta get it all 
+ i had just to know a road and day 
+ just a little bit of your heart (just just
+
+----- Diversity:0.7
+----- Generating with seed:
+"in vain 
+ some people don't and go insane 
+"
+----- Generated lyrics:
+in vain 
+ some people don't and go insane 
+ some others die and thing to win 
+ we're gonna stay to turn back home 
+ anytime when own both coming back back again 
+ [verse 1] 
+ a road oh, oh, oh, i just a little bit of your heart (just just a little bit of your heart (just
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"name, 
+ you look my way, 
+ it's clear you"
+----- Generated lyrics:
+name, 
+ you look my way, 
+ it's clear you trust each word i know i got 
+ but i love you so 
+ and i'm living in the road 
+ 
+ she knows that i love 
+ 
+ 
+ and she knows the way out of the 
+ 
+ she would like to play a day 
+ and all
+
+----- Diversity:0.4
+----- Generating with seed:
+"name, 
+ you look my way, 
+ it's clear you"
+----- Generated lyrics:
+name, 
+ you look my way, 
+ it's clear you trust each word i really need 
+ it's a most to each 
+ 
+ when she was a little fool 
+ and i'm a fool 
+ but a little bit of your heart is all i want 
+ just a little bit of your heart (just a little bit of
+
+----- Diversity:0.5
+----- Generating with seed:
+"name, 
+ you look my way, 
+ it's clear you"
+----- Generated lyrics:
+name, 
+ you look my way, 
+ it's clear you trust each word i know 
+ 
+ it's only by and go on your own 
+ like this is the part when i say i don't want it 
+ i'm stronger than i've been before 
+ this is the part when i say i don't want it 
+ i'm stronger
+
+----- Diversity:0.6
+----- Generating with seed:
+"name, 
+ you look my way, 
+ it's clear you"
+----- Generated lyrics:
+name, 
+ you look my way, 
+ it's clear you trust each word you know we got everything 
+ but i sit here and days 
+ so long and mine i love to so 
+ and i love so many time 
+ and i don't want to go 
+ i feel like your heart is just a little bit 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"name, 
+ you look my way, 
+ it's clear you"
+----- Generated lyrics:
+name, 
+ you look my way, 
+ it's clear you trust each word i really need 
+ everything i don't love 
+ but now i know 
+ 
+ don't you want 
+ 
+ and shining like the man 
+ and she'd be 
+ and i swear that he hung 
+ the moon above 
+ yeah yeah can tell a lot
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"ever have to be 
+ all i have to be"
+----- Generated lyrics:
+ever have to be 
+ all i have to be 
+ all i ever have to be 
+ i feel like the heart 
+ i don't know my time 
+ i was a song to a time to stand in the rain 
+ a change my world 
+ and i'm asking for the sky 
+ i'm a man of a
+
+----- Diversity:0.4
+----- Generating with seed:
+"ever have to be 
+ all i have to be"
+----- Generated lyrics:
+ever have to be 
+ all i have to be 
+ all i ever have to be 
+ i feel like my heart 
+ i don't want to go 
+ and i don't want to lose 
+ lord i don't want to lose 
+ i really want to lose your lord 
+ (hallelujah) 
+ i really walk in the light
+
+----- Diversity:0.5
+----- Generating with seed:
+"ever have to be 
+ all i have to be"
+----- Generated lyrics:
+ever have to be 
+ all i have to be 
+ all i ever have to be 
+ i feel like the heart 
+ i don't want to go 
+ and i don't want to go with you 
+ i'll be with you instead 
+ if you have to go away 
+ i want turns to night, and i turn
+
+----- Diversity:0.6
+----- Generating with seed:
+"ever have to be 
+ all i have to be"
+----- Generated lyrics:
+ever have to be 
+ all i have to be 
+ all i ever have to be 
+ i feel like i've been before i love you 
+ and when we break free 
+ as i live as it as i can do 
+ 
+ that i love you, i can't wait any longer 
+ waiting for something to come
+
+----- Diversity:0.7
+----- Generating with seed:
+"ever have to be 
+ all i have to be"
+----- Generated lyrics:
+ever have to be 
+ all i have to be 
+ i never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+ never be lonely. 
+
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"easy 
+ don't mind come on up and see me"
+----- Generated lyrics:
+easy 
+ don't mind come on up and see me 
+ rag doll baby won't you do me like you done before 
+ yes i'm movin' 
+ yes i'm movin' 
+ old ready for the big time 
+ gonna sing the rest of the world 
+ and it won't last very long, hang on 
+ it won't last very long,
+
+----- Diversity:0.4
+----- Generating with seed:
+"easy 
+ don't mind come on up and see me"
+----- Generated lyrics:
+easy 
+ don't mind come on up and see me 
+ rag doll baby won't you do me like you done before 
+ yes i'm movin' 
+ yes i'm movin' 
+ old ready for the big time 
+ i know the time is right for the ground 
+ cross the heart of the is this is the end of the
+
+----- Diversity:0.5
+----- Generating with seed:
+"easy 
+ don't mind come on up and see me"
+----- Generated lyrics:
+easy 
+ don't mind come on up and see me 
+ rag doll baby won't you do me like you done before 
+ yes i'm movin' 
+ yes i'm movin' 
+ old ready for the big time 
+ i know the time is right for the ground 
+ cross the heart i don't want to be god 
+ i want
+
+----- Diversity:0.6
+----- Generating with seed:
+"easy 
+ don't mind come on up and see me"
+----- Generated lyrics:
+easy 
+ don't mind come on up and see me 
+ rag doll baby won't you do me like you done before 
+ yes i'm movin' 
+ yes i'm movin' 
+ old ready for the big time 
+ i know a will all the people in the night 
+ and i need you and so i don't know that i
+
+----- Diversity:0.7
+----- Generating with seed:
+"easy 
+ don't mind come on up and see me"
+----- Generated lyrics:
+easy 
+ don't mind come on up and see me 
+ rag doll baby won't you do me like you done before me yes feelin' the way yes i'll be 
+ only we can be 
+ for me a dixie dream of the things that i say, i cry 
+ i know if i want to go 
+ but i'll
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"she's outta here 
+ but she's comin' through loud and"
+----- Generated lyrics:
+she's outta here 
+ but she's comin' through loud and clear 
+ clear across america tonight 
+ across america tonight blues, thinkin' clear across america 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america blues, thinkin' clear across america 
+
+
+----- Diversity:0.4
+----- Generating with seed:
+"she's outta here 
+ but she's comin' through loud and"
+----- Generated lyrics:
+she's outta here 
+ but she's comin' through loud and clear 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america blues, thinkin' clear across america 
+ see clear across america 
+ baby clear across america 
+ baby clear across america 
+ baby clear across america home 
+ clear across america
+
+----- Diversity:0.5
+----- Generating with seed:
+"she's outta here 
+ but she's comin' through loud and"
+----- Generated lyrics:
+she's outta here 
+ but she's comin' through loud and clear 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america blues, thinkin' clear across america
+
+----- Diversity:0.6
+----- Generating with seed:
+"she's outta here 
+ but she's comin' through loud and"
+----- Generated lyrics:
+she's outta here 
+ but she's comin' through loud and clear 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america blues, thinkin' clear across america 
+ i clear across america tonight 
+ clear across america tonight 
+ clear across america
+
+----- Diversity:0.7
+----- Generating with seed:
+"she's outta here 
+ but she's comin' through loud and"
+----- Generated lyrics:
+she's outta here 
+ but she's comin' through loud and clear 
+ clear across america tonight 
+ clear across america tonight 
+ clear across america blues, thinkin' clear across america 
+ hey, clear across america 
+ clear clear across america 
+ clear clear across america 
+ clear clear across america 
+ clear clear across america 
+ clear clear across america
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"just go back 
+ back back back 
+ 
+ [verse"
+----- Generated lyrics:
+just go back 
+ back back back 
+ 
+ [verse 1] 
+ oh, oh, oh, oh 
+ i don't ever ask you where you've been 
+ and i don't feel the need to 
+ know who you're with 
+ what is really do is still you can 
+ 
+ i'm a fool for you 
+ 
+ [chorus] 
+ just a
+
+----- Diversity:0.4
+----- Generating with seed:
+"just go back 
+ back back back 
+ 
+ [verse"
+----- Generated lyrics:
+just go back 
+ back back back 
+ 
+ [verse 1] 
+ oh, oh, oh, oh 
+ i don't ever ask you where you've been 
+ and i don't feel the need to know 
+ who you're with you, i can't find a straight to the i 
+ 
+ keep a sweet love 
+ maybe i can't put a kiss
+
+----- Diversity:0.5
+----- Generating with seed:
+"just go back 
+ back back back 
+ 
+ [verse"
+----- Generated lyrics:
+just go back 
+ back back back 
+ 
+ [verse 1] 
+ oh, oh, oh, oh 
+ i don't ever ask you where you've been 
+ and i don't feel the need to 
+ know who you're with 
+ what is really do is still you can 
+ 
+ i'm a little way in her 
+ 
+ the music things
+
+----- Diversity:0.6
+----- Generating with seed:
+"just go back 
+ back back back 
+ 
+ [verse"
+----- Generated lyrics:
+just go back 
+ back back back 
+ 
+ [verse 1] 
+ oh, oh, oh, oh 
+ i don't ever ask you where you've been 
+ and i don't feel the need to 
+ know who you're with you 
+ with me 
+ put a little love 
+ your heart i put a little love 
+ help me more 
+
+
+----- Diversity:0.7
+----- Generating with seed:
+"just go back 
+ back back back 
+ 
+ [verse"
+----- Generated lyrics:
+just go back 
+ back back back 
+ 
+ [verse 1] 
+ oh, oh, oh, oh 
+ i don't ever ask you where you've been 
+ and i don't feel the need to know 
+ who you're with my heart is here 
+ 'cause it is all i'm asking for 
+ it won't be my guard tonight, that is all
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"drop me a line 
+ 
+ i'll be better off"
+----- Generated lyrics:
+drop me a line 
+ 
+ i'll be better off now 
+ with somebody new 
+ and you should find someone 
+ more 
+ 
+ 
+ [chorus] 
+ 
+ and in the world that was cold and you know the time my heart was in my life is there 
+ but the world is nothing to go 
+ 
+ if
+
+----- Diversity:0.4
+----- Generating with seed:
+"drop me a line 
+ 
+ i'll be better off"
+----- Generated lyrics:
+drop me a line 
+ 
+ i'll be better off now 
+ with somebody new 
+ and you should find someone 
+ more way 
+ 
+ i can't get it 
+ i just wait and see 
+ 
+ i know just what you mean 
+ and i'll still be a fool 
+ 
+ [chorus] 
+ 
+ love you want to
+
+----- Diversity:0.5
+----- Generating with seed:
+"drop me a line 
+ 
+ i'll be better off"
+----- Generated lyrics:
+drop me a line 
+ 
+ i'll be better off now 
+ with somebody new 
+ and you should find someone 
+ more 
+ 
+ if you should have seen my eyes 
+ if i don't need to get you, i just want to see my friends to be able too many things that make 
+ i love it so
+
+----- Diversity:0.6
+----- Generating with seed:
+"drop me a line 
+ 
+ i'll be better off"
+----- Generated lyrics:
+drop me a line 
+ 
+ i'll be better off now 
+ with somebody new 
+ and you should find someone 
+ more way 
+ 
+ i'll be a mad dog 
+ cause we're through the taught me 
+ to see my heart is here 
+ 'cause you know my time is still there in the morning 
+ that keeps
+
+----- Diversity:0.7
+----- Generating with seed:
+"drop me a line 
+ 
+ i'll be better off"
+----- Generated lyrics:
+drop me a line 
+ 
+ i'll be better off now 
+ with somebody new 
+ and you should find someone 
+ more you won't do 
+ you can't find the way you 
+ not the woman in the mexico 
+ but the words you're in to 
+ the way you in the city 
+ i thought i heard a
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"time but i've made up my mind, i'm hanging up"
+----- Generated lyrics:
+time but i've made up my mind, i'm hanging up my down 
+ 
+ i'm a thinking of it 
+ and i'm still alone 
+ i get it up, 
+ a thinking of the town and the country 
+ thinking of the town and the country 
+ thinking of the town and the country 
+ thinking of the town and
+
+----- Diversity:0.4
+----- Generating with seed:
+"time but i've made up my mind, i'm hanging up"
+----- Generated lyrics:
+time but i've made up my mind, i'm hanging up my i won't make it right 
+ 
+ how i'm goin' on the river, she got to be 
+ a good man's more 
+ 
+ you got a good man 
+ i got you by the rockin' tonight 
+ oh yeah, 
+ i want to be you lord 
+ (hallelujah)
+
+----- Diversity:0.5
+----- Generating with seed:
+"time but i've made up my mind, i'm hanging up"
+----- Generated lyrics:
+time but i've made up my mind, i'm hanging up my i know 
+ i'm really gonna have it to the more 
+ i won't be here for me 
+ won't be that here they were right, the town 
+ we all went out of the crowd 
+ you were the feeling alone 
+ and you said i fell down
+
+----- Diversity:0.6
+----- Generating with seed:
+"time but i've made up my mind, i'm hanging up"
+----- Generated lyrics:
+time but i've made up my mind, i'm hanging up my down 
+ 
+ i'm so many a day 
+ i don't want to see you lord 
+ watch the time 
+ i may really cool 
+ and if i could only see you 
+ i could see my lonely mind 
+ i'm a fool and everyday now i'm running
+
+----- Diversity:0.7
+----- Generating with seed:
+"time but i've made up my mind, i'm hanging up"
+----- Generated lyrics:
+time but i've made up my mind, i'm hanging up my down 
+ 
+ i'm a thinking of it town 
+ the country 
+ i was thinking of the town and the country 
+ thinking of the town and the country 
+ in the morning everything will be the same 
+ open up and a soul 
+ 
+ i know
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"he loves you and life has just begun 
+ it's"
+----- Generated lyrics:
+he loves you and life has just begun 
+ it's the time more than any words can say 
+ and i am just a girl 
+ not the kind of woman men would like to meet 
+ just another girl 
+ no one ever looks at in the street 
+ but today i can't believe it's true 
+ when you
+
+----- Diversity:0.4
+----- Generating with seed:
+"he loves you and life has just begun 
+ it's"
+----- Generated lyrics:
+he loves you and life has just begun 
+ it's the time more than any words can say 
+ and i am just a girl 
+ not the kind of woman men would like to meet 
+ just another girl 
+ no one ever looks at in the street 
+ but today i can't believe it's true 
+ when you
+
+----- Diversity:0.5
+----- Generating with seed:
+"he loves you and life has just begun 
+ it's"
+----- Generated lyrics:
+he loves you and life has just begun 
+ it's the time more than any words can say 
+ and i am just a girl 
+ not the kind of woman men would like to meet 
+ just another girl 
+ no one ever looks at in the street 
+ but today i can't believe it's true 
+ when you
+
+----- Diversity:0.6
+----- Generating with seed:
+"he loves you and life has just begun 
+ it's"
+----- Generated lyrics:
+he loves you and life has just begun 
+ it's the much more you ever could have something 
+ say you've been easy for you 
+ you can't seem to get a light in your no matter what i need 
+ i love you so 
+ cry 
+ i don't know where i can stay 
+ and i'll never let
+
+----- Diversity:0.7
+----- Generating with seed:
+"he loves you and life has just begun 
+ it's"
+----- Generated lyrics:
+he loves you and life has just begun 
+ it's the time more than any words 
+ i know with all his style 
+ i could see in his eyes 
+ that we is goin' to now 
+ he's alive 
+ 
+ i was so much and you 
+ i was the city 
+ and the show you 
+ 
+
+
+================================================================================

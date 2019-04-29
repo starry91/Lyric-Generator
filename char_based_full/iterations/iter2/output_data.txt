@@ -1,0 +1,299 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n"
+o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n   s o m e   i   w a s   l i k e   a   p l a y   g o   t h e   s i d e   t h e   s t a n d   t h e r
+----- Diversity:0.4
+----- Generating with seed:
+"o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n"
+o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n c e   t h e   s i d e   t o   m e   a n d   m e   t o   s e e   t h a t   i   c a n   r e a l l y  
+----- Diversity:0.5
+----- Generating with seed:
+"o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n"
+o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n   t h e   m o r n   o n   t h e   g r i a   g o t   a   s t a r e   s o m e   t h e   g r a y s   f
+----- Diversity:0.6
+----- Generating with seed:
+"o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n"
+o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n c e   t o   s a y   m y   c o r e   t h e   l i f t   o n   t h e   s h a s t   s o m e   a n d   l
+----- Diversity:0.7
+----- Generating with seed:
+"o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n"
+o w   i   w o n ' t   f o r g e t   y o u   ( f a d e )   y o u   c a n   d a n   j u s t   a n d   d a y   t h e   n e a r t   b u t   i   a l l   n e v e r   m e x i e   a n d  
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s"
+e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s o m e   t h i n g   t h e   s h o u l d   t h e   w i n d   o f   t h e   s t r o n g   a n d   s o
+----- Diversity:0.4
+----- Generating with seed:
+"e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s"
+e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s o m e   o f   t h e   d a y   a n d   i   k n o w   y o u   t h i n k   i t   w e r e   i   g o t  
+----- Diversity:0.5
+----- Generating with seed:
+"e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s"
+e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s o m e   a n d   f a r   a n d   i   r e m a y   i n   t h e   s h e ' l l   l i k e   t h e   g a l
+----- Diversity:0.6
+----- Generating with seed:
+"e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s"
+e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s i d e   l a y   i ' m   l e a v e   m y   w a y   i   l o v e   a   m i n d   a   l o v e   i   c a
+----- Diversity:0.7
+----- Generating with seed:
+"e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s"
+e ' s   g o t   a   l i t t l e   s e c r e t   f r i d a y   e v e n i n g   s o m e   w h e r e   i f   y o u   g o t   a   d a y   a n d   y o u   k n o w   y o u   t a k e   a
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c"
+t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c e   a n d   i   c a n   b e   a   l i t t l e   s o n g   t o   t h e   r o a d   i   d i d n ' t  
+----- Diversity:0.4
+----- Generating with seed:
+"t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c"
+t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c e   i   a l w a y s   f a l l   h a n d   w h e n   y o u   g o t   i   h a d   a n d   y o u   w a
+----- Diversity:0.5
+----- Generating with seed:
+"t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c"
+t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c e   t h a t   s e e   w h e n   y o u   d o n ' t   w a n t   m e   t o   m a k e   i n   t h e   f
+----- Diversity:0.6
+----- Generating with seed:
+"t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c"
+t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c e   s t r e a n   m e   t o   s e e   t h e   g a l   a n d   i ' m   a   g o t   m e   a n d   i  
+----- Diversity:0.7
+----- Generating with seed:
+"t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c"
+t   f e e l   y o u ,   i   c a n ' t ,   i   c a n ' t   w a s h   m y   f a c e   i n   t h e   w i n d   t h e   t i l l   m y   h a n d   i n   t h e   l i n e   w e   c o m e
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t"
+s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t h e   s t o r m   a n d   i   s a w   t h e   s o n g   a n d   t h e   w a y   i   s a w   t h e  
+----- Diversity:0.4
+----- Generating with seed:
+"s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t"
+s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t h e   w i n d   t h e   p l a y e d   a n d   t h e   s i d e   a n d   i   f e e l   a n d   i   l
+----- Diversity:0.5
+----- Generating with seed:
+"s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t"
+s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t h e   s t r a n d   a n d   s o m e   o n   m y   l e f t   t o   f o l l o w   m y   h o l l   t h
+----- Diversity:0.6
+----- Generating with seed:
+"s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t"
+s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t h e   f a y   i   f e e l   t h a t   t h i s   s t a y   u p   a n d   s o n g   s o m e d a y   t
+----- Diversity:0.7
+----- Generating with seed:
+"s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t"
+s   i   d o   t o   y o u   i   w o u l d   s u r e l y   s a y   w e ' r e   t h e n   y o u   h a v e   t o   w h o   l a s t   a n d   t h e   l e f t   a n d   w h e n   i t  
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+"i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e"
+i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e   a r e   a   s t o p p e r   t h a t   i   w a s   a   m o o n   i   w a s   l o n g   t h e   w o
+----- Diversity:0.4
+----- Generating with seed:
+"i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e"
+i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e   a r e   a   b o t t l e   t o   t h e   b o r e   t h e   d a y   a n d   t h e   c o l d   i   w
+----- Diversity:0.5
+----- Generating with seed:
+"i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e"
+i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e   h a v e   t o   p a y   i   g o t   a   s a y   i   c o u l d   b e   t o   t h e   s i d e   t h
+----- Diversity:0.6
+----- Generating with seed:
+"i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e"
+i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e   w a s   a   f r o m   a   s u p p e r   o n   t h e   b e s t   t o   t h e   m o o n   t h e   c
+----- Diversity:0.7
+----- Generating with seed:
+"i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e"
+i n g   a w a y   f o r   a   w h i l e   o h   w e ' r e   m o v i n g ,   w e ' r e   a   f o r e s s   y o u   i   c o m e   t h a t   i   k n o w   i   k n o w   w h e n   m o
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r"
+g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r e a m s   t h e   t r a i n   a n d   i   c a n ' t   b e   t h e   d r i v e   a n d   i   s p e n
+----- Diversity:0.4
+----- Generating with seed:
+"g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r"
+g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r e a m   o f   a   l i t t l e   t o   m a k e   i t   a l l   i n   t h e   t h i n g   t h e   t h
+----- Diversity:0.5
+----- Generating with seed:
+"g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r"
+g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r i v e   a n d   i   w a n t   y o u   t o   t h e   f l o o r   h o w   t o   f e e l   t h e   t i
+----- Diversity:0.6
+----- Generating with seed:
+"g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r"
+g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r e a m   i n   t h e   p l a y i n '   a n d   a l l   o f   a n d   a n d   i   c a n ' t   h a v e
+----- Diversity:0.7
+----- Generating with seed:
+"g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r"
+g   y o u   w i s h   s p o n g e b o b   s q u a r e p a n t s   t h e n   d r a n   t o   t h e   l o v e l y   i t   b e   t h e   w o r l d   i ' l l   d o   a n d   o n c e  
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m"
+e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m e   t o   t h e   c h a n g e   i   w a s   m y   t i m e   t o   s t a y   a n d   i   c a n   b e
+----- Diversity:0.4
+----- Generating with seed:
+"e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m"
+e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m e   o f   l o v e   a n d   i ' l l   s a y   a n d   t h e   g r o w   i n   t h e   c o r n   a n
+----- Diversity:0.5
+----- Generating with seed:
+"e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m"
+e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m e   i n   t h e   p a s s i n g   a n d   i   s e e   t h a t   i   m a y   t i l d   t h e r e ' s
+----- Diversity:0.6
+----- Generating with seed:
+"e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m"
+e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m e   a n d   i   w a n t   t o   d o   t o   t h e   l i s t e   a n d   h e   w a s   a l l   s a i
+----- Diversity:0.7
+----- Generating with seed:
+"e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m"
+e   s e a   y o u   f i n a l l y   c a l l e d   a n d   i ' m   n o t   h o m e   n o w   s u n   h e r e   a n d   t h e   w a y   o f f   t h e   k i n g   t h i s   c a n   b
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a  "
+e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a   l a n g   t h a t   i   s a w   i   s a w   a n d   i   w a s   a   s o n g   t o   m e   i   w a s
+----- Diversity:0.4
+----- Generating with seed:
+"e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a  "
+e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a   d a y   a n d   t h e   l i t t l e   a n d   t h e   l o n g   o n   t h e   s a n d   t h e   p l
+----- Diversity:0.5
+----- Generating with seed:
+"e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a  "
+e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a   d a y   w e   a r e   g r o w n   t o   t h e   b o r e   i n   t h e   s t o r y   t h e   c o l d
+----- Diversity:0.6
+----- Generating with seed:
+"e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a  "
+e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a   s a i l s   o f   m i n e   a   f r i e n d s   t o   s o m e b o d y   w e   k n o w ,   i ' m   g
+----- Diversity:0.7
+----- Generating with seed:
+"e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a  "
+e   m o r n i n g   l a   l a   l a   l a   l a   l a - l a   l a   l a   l a   d r i f t   s o n g   t o   y o u   a n d   i   w a s   o n   t h e   c e t c h o r i e d   s o m e
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+"n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o"
+n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o   m o r e   o n   t h e   c h o r u s   t h e   s t r e e d   t o   t h e   s o n g   o f   t h e  
+----- Diversity:0.4
+----- Generating with seed:
+"n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o"
+n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o w   i   c a n   b e   t h e   s t o   i   s a y   t h e   s o u l s   i   f e e l   t h e   h o l d
+----- Diversity:0.5
+----- Generating with seed:
+"n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o"
+n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o   r i d e   w h e n   t h e   t r u e   a n d   t h a t   a n d   g o t   y o u   a n d   s u n   t
+----- Diversity:0.6
+----- Generating with seed:
+"n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o"
+n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o w   i   g o t   a   p l a c e   t o   m a k e   a   w o r l d   a n d   i   w a s   g o n n a   a l
+----- Diversity:0.7
+----- Generating with seed:
+"n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o"
+n e e d   y o u   a n y m o r e ,   i ' v e   h a d   e n o u g h   a n d   n o t   w a i t   a n d   i   d i e   f o l l o w   a n d   m a t e r r i l i n g   a g a i n   l i t t
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+"a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t '"
+a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t ' s   t o   t h e   s a m e   o f   t h e   g l a n d   a n d   i   c a n   s e e   t h e   l i g h t
+----- Diversity:0.4
+----- Generating with seed:
+"a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t '"
+a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t ' s   t o   b e   s o   l e t   i   k n o w   y o u   w a n t   t o   b e   a   p a r t   t h e   m i
+----- Diversity:0.5
+----- Generating with seed:
+"a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t '"
+a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t ' s   a   l i t t l e   t o   s i n g   y o u   a   s t u l f   a n d   w h e n   y o u   h a v e   y
+----- Diversity:0.6
+----- Generating with seed:
+"a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t '"
+a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t ' s   i ' m   g o n n a   s t i l l   s e e   m e   o f   a   c h o r u s   t o   r i d e   r i d i n
+----- Diversity:0.7
+----- Generating with seed:
+"a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t '"
+a t i c   f r i n g e   i t ' s   g o o d   f o r   t h e   g a n d e r   i t ' s   o n   y o u r   t h o u g h   i ' m   t o   y o u   o p e n   h a r e   o n   t h e   s u n   i
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e  "
+o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e   g a l   t h e   p l a y i n '   i n   t h e   g a l   i   w a s   a   b i t e   i   d o n ' t   k n
+----- Diversity:0.4
+----- Generating with seed:
+"o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e  "
+o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e   s o m e   s o m e   h o w   t o   p a y   t h e   w o r l d   s o m e t i m e s   i   k n o w   i  
+----- Diversity:0.5
+----- Generating with seed:
+"o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e  "
+o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e   o f   c o m e   o n   t h e   p o o r   t o   t h e   g r o u n d   o f   m y   m i n d   i n   t h
+----- Diversity:0.6
+----- Generating with seed:
+"o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e  "
+o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e   s o   c a n ' t   y o u   l e a r n   a n   a n d   p o o r   a n d   t h e   w i n d   i f   y o u
+----- Diversity:0.7
+----- Generating with seed:
+"o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e  "
+o ,   n o ,   n o   w e l l ,   g e t   a l o n g ,   s w e e t   l i t t l e   o f f   t h e   r a i n   g e t s   y o u r   s o u l   t o   s e e   t h e   p r e s t x i n g   t
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l"
+s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l   t h e   w i n d   a n d   i   k n o w   i   k n o w   i   k n o w   t h e   p l a c e   i   w a s
+----- Diversity:0.4
+----- Generating with seed:
+"s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l"
+s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l   t h e   t r a i l   i n   t h e   m o n t e r   t h a t   i   s a w   m e   t o   t h e   s i d e
+----- Diversity:0.5
+----- Generating with seed:
+"s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l"
+s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l   t h e   h o w   f o r   h e r   a l l   t h e   s t e p s   a n d   i   c a n   a l w a y s   t h
+----- Diversity:0.6
+----- Generating with seed:
+"s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l"
+s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l   t h e   c h a n g e d   s o m e b o d y   t h e   b e a g e   t h e   s o n g   w i t h   y o u  
+----- Diversity:0.7
+----- Generating with seed:
+"s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l"
+s s o u r i ,   s h e ' s   a   m i g h t   r i v e r a w a y   y o u   r o l l e r   t o   t h e   g l o r m e r i n g   b u t   t o   l e a d e   m e   a n g e l s   s u n   a n
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k"
+t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k n o w   i   s a y   a n d   i   w a s   s o   t h e   s a m e   a n d   i   c a n   b e   t h e   s
+----- Diversity:0.4
+----- Generating with seed:
+"t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k"
+t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k n o w   t h e r e   s h o u l d   b e   c o m e   o n   t h e   s t a r t   a n d   y o u   a r e  
+----- Diversity:0.5
+----- Generating with seed:
+"t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k"
+t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k n o w   y o u   w o u l d   b e   m a n y   t o   t h e   t i m e   i   w a s   t u r n i n '   i n
+----- Diversity:0.6
+----- Generating with seed:
+"t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k"
+t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k n o w   t h a t   i ' l l   s e e   m e   t o   y o u   t r u e   i   s e e   a n d   i   w a s   t
+----- Diversity:0.7
+----- Generating with seed:
+"t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k"
+t   m a t t e r   w h e r e   w e   g o   i   a l w a y s   w i l l   y o u   k n o w   m y   m i n d   w a s   r e a d y   a n d   w h e r e   i ' m   j u s t   g o i n g   w h y
+================================================================================

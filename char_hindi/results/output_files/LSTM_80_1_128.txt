@@ -1,0 +1,660 @@
+
+----- Generating text after Epoch: 0
+----- Diversity:0.3
+----- Generating with seed:
+"t you share my pain now that you share my pain every pain is beautiful now that "
+----- Generated lyrics:
+t you share my pain now that you share my pain every pain is beautiful now that saall all and in babot and abeat in abe a canaing and and and and and and a ancanaing and and and an
+
+----- Diversity:0.4
+----- Generating with seed:
+"t you share my pain now that you share my pain every pain is beautiful now that "
+----- Generated lyrics:
+t you share my pain now that you share my pain every pain is beautiful now that sea that in the beautiful abeat thing that ant in and ane and arant in and one all ande sanda and an
+
+----- Diversity:0.5
+----- Generating with seed:
+"t you share my pain now that you share my pain every pain is beautiful now that "
+----- Generated lyrics:
+t you share my pain now that you share my pain every pain is beautiful now that beathe alo ane the and the beat thing aboung of a have wain what beaute in and of love that and in f
+
+----- Diversity:0.6
+----- Generating with seed:
+"t you share my pain now that you share my pain every pain is beautiful now that "
+----- Generated lyrics:
+t you share my pain now that you share my pain every pain is beautiful now that have bream afai be ave aleart and sanging fore and sad at of lass nots love awastaning ande a laave 
+
+----- Diversity:0.7
+----- Generating with seed:
+"t you share my pain now that you share my pain every pain is beautiful now that "
+----- Generated lyrics:
+t you share my pain now that you share my pain every pain is beautiful now that stading lips all cone sears hams angs hai thes beat of sare in got you in mvingsabeen in langing lif
+
+================================================================================
+
+----- Generating text after Epoch: 1
+----- Diversity:0.3
+----- Generating with seed:
+"a thousand times you my beloved my beloved your eyes pierce me my love your brea"
+----- Generated lyrics:
+a thousand times you my beloved my beloved your eyes pierce me my love your breaths god in when while stay in the and song beautiful as now the and has sang and with have with me b
+
+----- Diversity:0.4
+----- Generating with seed:
+"a thousand times you my beloved my beloved your eyes pierce me my love your brea"
+----- Generated lyrics:
+a thousand times you my beloved my beloved your eyes pierce me my love your breaths alway stale and the in and my heart sometime shadows god the bad theart the bation and the was h
+
+----- Diversity:0.5
+----- Generating with seed:
+"a thousand times you my beloved my beloved your eyes pierce me my love your brea"
+----- Generated lyrics:
+a thousand times you my beloved my beloved your eyes pierce me my love your breath in every separated every face and beautiful in you shadth me are stalked and in in that in lovers
+
+----- Diversity:0.6
+----- Generating with seed:
+"a thousand times you my beloved my beloved your eyes pierce me my love your brea"
+----- Generated lyrics:
+a thousand times you my beloved my beloved your eyes pierce me my love your breaths beautiful betare sing with you name with see every and to sunstart is abetonge shadawing heart a
+
+----- Diversity:0.7
+----- Generating with seed:
+"a thousand times you my beloved my beloved your eyes pierce me my love your brea"
+----- Generated lyrics:
+a thousand times you my beloved my beloved your eyes pierce me my love your breath what become caning stace ara in in the sond what so god away a had beauty in badist and stor do h
+
+================================================================================
+
+----- Generating text after Epoch: 2
+----- Diversity:0.3
+----- Generating with seed:
+"s make me crazy come shake it shake it some more o baby rock tha dance floor roc"
+----- Generated lyrics:
+s make me crazy come shake it shake it some more o baby rock tha dance floor roch beautiful moment sanging of you crazy forgiven angle stay a fall of any away season you are and on
+
+----- Diversity:0.4
+----- Generating with seed:
+"s make me crazy come shake it shake it some more o baby rock tha dance floor roc"
+----- Generated lyrics:
+s make me crazy come shake it shake it some more o baby rock tha dance floor roch bature of has sact bad someti have become of are the see of a are a staking i have sang the kun i 
+
+----- Diversity:0.5
+----- Generating with seed:
+"s make me crazy come shake it shake it some more o baby rock tha dance floor roc"
+----- Generated lyrics:
+s make me crazy come shake it shake it some more o baby rock tha dance floor roch beautiful in my craziness is are before given away froe lover saod distick of you i will me go and
+
+----- Diversity:0.6
+----- Generating with seed:
+"s make me crazy come shake it shake it some more o baby rock tha dance floor roc"
+----- Generated lyrics:
+s make me crazy come shake it shake it some more o baby rock tha dance floor roch mank the blange and and kind of nair sing afaugh take us with about senain to angu do nange sainf 
+
+----- Diversity:0.7
+----- Generating with seed:
+"s make me crazy come shake it shake it some more o baby rock tha dance floor roc"
+----- Generated lyrics:
+s make me crazy come shake it shake it some more o baby rock tha dance floor roches the boda shall somotice even of airs apin eyes have say could a are on and and has shall whike w
+
+================================================================================
+
+----- Generating text after Epoch: 3
+----- Diversity:0.3
+----- Generating with seed:
+"tiful i saw her in that weather i became crazy in just one moment now she is set"
+----- Generated lyrics:
+tiful i saw her in that weather i became crazy in just one moment now she is setan to for can firly even am god mad be who such corning i have statee and of made her listen so ther
+
+----- Diversity:0.4
+----- Generating with seed:
+"tiful i saw her in that weather i became crazy in just one moment now she is set"
+----- Generated lyrics:
+tiful i saw her in that weather i became crazy in just one moment now she is setan the hair abegane guname my heart have uns same i have been moment shanth have beloved bhen hearin
+
+----- Diversity:0.5
+----- Generating with seed:
+"tiful i saw her in that weather i became crazy in just one moment now she is set"
+----- Generated lyrics:
+tiful i saw her in that weather i became crazy in just one moment now she is setilf is have given will life has be its be you conscome botions has beget the slould counare you smal
+
+----- Diversity:0.6
+----- Generating with seed:
+"tiful i saw her in that weather i became crazy in just one moment now she is set"
+----- Generated lyrics:
+tiful i saw her in that weather i became crazy in just one moment now she is setalk is and therefore and my heart with become a god starteath the soul boce atwo have she good of an
+
+----- Diversity:0.7
+----- Generating with seed:
+"tiful i saw her in that weather i became crazy in just one moment now she is set"
+----- Generated lyrics:
+tiful i saw her in that weather i became crazy in just one moment now she is setyen bugh love for burn am go worbhe buth my breath from and mace beloved be day take ahe and every m
+
+================================================================================
+
+----- Generating text after Epoch: 4
+----- Diversity:0.3
+----- Generating with seed:
+" even four steps i wish to change my path and join you even if the world forgets"
+----- Generated lyrics:
+ even four steps i wish to change my path and join you even if the world forgets was fron in the have onl same for but you i have come to one was in my beloved it ane say yes are m
+
+----- Diversity:0.4
+----- Generating with seed:
+" even four steps i wish to change my path and join you even if the world forgets"
+----- Generated lyrics:
+ even four steps i wish to change my path and join you even if the world forgets then to failing and away say fain my could have againated and has naws to anger i am god and an nam
+
+----- Diversity:0.5
+----- Generating with seed:
+" even four steps i wish to change my path and join you even if the world forgets"
+----- Generated lyrics:
+ even four steps i wish to change my path and join you even if the world forgets world seen love are are and with the slow i such her the was you now that bahk beautiful became bre
+
+----- Diversity:0.6
+----- Generating with seed:
+" even four steps i wish to change my path and join you even if the world forgets"
+----- Generated lyrics:
+ even four steps i wish to change my path and join you even if the world forgets was are fain sance a this sorl down has faith away seasonfy away it i have without you badri away s
+
+----- Diversity:0.7
+----- Generating with seed:
+" even four steps i wish to change my path and join you even if the world forgets"
+----- Generated lyrics:
+ even four steps i wish to change my path and join you even if the world forgets say fronfed in the without since ever life fall one tell i god go nath me beautiful sees a with hea
+
+================================================================================
+
+----- Generating text after Epoch: 5
+----- Diversity:0.3
+----- Generating with seed:
+"ou every time whether it is day or evening it seems that i have cherished thy ey"
+----- Generated lyrics:
+ou every time whether it is day or evening it seems that i have cherished thy eyes like a state my beloveave you are my dreams hair now dont you the mine look if you i lave me even
+
+----- Diversity:0.4
+----- Generating with seed:
+"ou every time whether it is day or evening it seems that i have cherished thy ey"
+----- Generated lyrics:
+ou every time whether it is day or evening it seems that i have cherished thy eyes is can i can only seead you feels of said the blame in your name in learn and straneer him the an
+
+----- Diversity:0.5
+----- Generating with seed:
+"ou every time whether it is day or evening it seems that i have cherished thy ey"
+----- Generated lyrics:
+ou every time whether it is day or evening it seems that i have cherished thy eyes asking it is your said my life in my season you are such and bell lau take see angirgate for in i
+
+----- Diversity:0.6
+----- Generating with seed:
+"ou every time whether it is day or evening it seems that i have cherished thy ey"
+----- Generated lyrics:
+ou every time whether it is day or evening it seems that i have cherished thy eyes like a story one ive and and what a since king faithfollows always sanday i some giving my diar s
+
+----- Diversity:0.7
+----- Generating with seed:
+"ou every time whether it is day or evening it seems that i have cherished thy ey"
+----- Generated lyrics:
+ou every time whether it is day or evening it seems that i have cherished thy eyes and named you are with me in your eyes as beautiful in my heart dont yearny of mine in in my fram
+
+================================================================================
+
+----- Generating text after Epoch: 6
+----- Diversity:0.3
+----- Generating with seed:
+"es intoxicated due to me you wont be able to withstand this burn in love o o o o"
+----- Generated lyrics:
+es intoxicated due to me you wont be able to withstand this burn in love o o o of youre in the state in i lover at it will like a pearls stole are the say in passes the mish worrie
+
+----- Diversity:0.4
+----- Generating with seed:
+"es intoxicated due to me you wont be able to withstand this burn in love o o o o"
+----- Generated lyrics:
+es intoxicated due to me you wont be able to withstand this burn in love o o o of you i take for you every seen in my eyes care with me sorrow the my braness blaness a separate the
+
+----- Diversity:0.5
+----- Generating with seed:
+"es intoxicated due to me you wont be able to withstand this burn in love o o o o"
+----- Generated lyrics:
+es intoxicated due to me you wont be able to withstand this burn in love o o o of you i have seadnink love in my by i do will with you rest of your beats my go i am day you like my
+
+----- Diversity:0.6
+----- Generating with seed:
+"es intoxicated due to me you wont be able to withstand this burn in love o o o o"
+----- Generated lyrics:
+es intoxicated due to me you wont be able to withstand this burn in love o o o of yours in the recome bodies and the sane in your even the in the sare with a search in the heart is
+
+----- Diversity:0.7
+----- Generating with seed:
+"es intoxicated due to me you wont be able to withstand this burn in love o o o o"
+----- Generated lyrics:
+es intoxicated due to me you wont be able to withstand this burn in love o o o of was whats and the care sometime kindife met is the for the searthing the that i have and i like me
+
+================================================================================
+
+----- Generating text after Epoch: 7
+----- Diversity:0.3
+----- Generating with seed:
+"me lovelorn craving for him and i have fallen for him now he left me lovelorn cr"
+----- Generated lyrics:
+me lovelorn craving for him and i have fallen for him now he left me lovelorn crazy yes with an you leave think look but was leaving i have to now only life will with you are the a
+
+----- Diversity:0.4
+----- Generating with seed:
+"me lovelorn craving for him and i have fallen for him now he left me lovelorn cr"
+----- Generated lyrics:
+me lovelorn craving for him and i have fallen for him now he left me lovelorn crazy of the breath for not think love in that leave only love like my blersing there started the love
+
+----- Diversity:0.5
+----- Generating with seed:
+"me lovelorn craving for him and i have fallen for him now he left me lovelorn cr"
+----- Generated lyrics:
+me lovelorn craving for him and i have fallen for him now he left me lovelorn crazy only in my heart trots of youre my eyes ole are then you are he clouds it learn you come realing
+
+----- Diversity:0.6
+----- Generating with seed:
+"me lovelorn craving for him and i have fallen for him now he left me lovelorn cr"
+----- Generated lyrics:
+me lovelorn craving for him and i have fallen for him now he left me lovelorn crazy o for memeri see not fall dive prayed soul at i to love living there thing afe then with of love
+
+----- Diversity:0.7
+----- Generating with seed:
+"me lovelorn craving for him and i have fallen for him now he left me lovelorn cr"
+----- Generated lyrics:
+me lovelorn craving for him and i have fallen for him now he left me lovelorn crazy in any im now me the state do found that never on keep earling a feel it made therefore on your 
+
+================================================================================
+
+----- Generating text after Epoch: 8
+----- Diversity:0.3
+----- Generating with seed:
+" my breaths miss you every moment when you not around but always on my mind see "
+----- Generated lyrics:
+ my breaths miss you every moment when you not around but always on my mind see you even what was say with my love of take my life is the eyes i will live carite you not up wheneve
+
+----- Diversity:0.4
+----- Generating with seed:
+" my breaths miss you every moment when you not around but always on my mind see "
+----- Generated lyrics:
+ my breaths miss you every moment when you not around but always on my mind see you even wears and for and with you under always a that i feel and as beautiful a still away saath f
+
+----- Diversity:0.5
+----- Generating with seed:
+" my breaths miss you every moment when you not around but always on my mind see "
+----- Generated lyrics:
+ my breaths miss you every moment when you not around but always on my mind see you every moment i starteds you in the startedet the state fair in every the world the started the e
+
+----- Diversity:0.6
+----- Generating with seed:
+" my breaths miss you every moment when you not around but always on my mind see "
+----- Generated lyrics:
+ my breaths miss you every moment when you not around but always on my mind see you are mine given ats me leave only the will like care life in my lips and to cansing to game to yo
+
+----- Diversity:0.7
+----- Generating with seed:
+" my breaths miss you every moment when you not around but always on my mind see "
+----- Generated lyrics:
+ my breaths miss you every moment when you not around but always on my mind see you every moment seems like crazy be that i made dee life in in my eyes and that every sees in met m
+
+================================================================================
+
+----- Generating text after Epoch: 9
+----- Diversity:0.3
+----- Generating with seed:
+" on a spike a little patience id borrow from you only i have learnt what you hav"
+----- Generated lyrics:
+ on a spike a little patience id borrow from you only i have learnt what you have ive without you in my beautiful the will been you are the in love ace for attance in love are star
+
+----- Diversity:0.4
+----- Generating with seed:
+" on a spike a little patience id borrow from you only i have learnt what you hav"
+----- Generated lyrics:
+ on a spike a little patience id borrow from you only i have learnt what you have ive in my love not and to stop of secreto of the mine you crazy flame nease in me teans always you
+
+----- Diversity:0.5
+----- Generating with seed:
+" on a spike a little patience id borrow from you only i have learnt what you hav"
+----- Generated lyrics:
+ on a spike a little patience id borrow from you only i have learnt what you have ive without your love of what you have meet on i am of the mine fall now to say it the but even an
+
+----- Diversity:0.6
+----- Generating with seed:
+" on a spike a little patience id borrow from you only i have learnt what you hav"
+----- Generated lyrics:
+ on a spike a little patience id borrow from you only i have learnt what you have ive in my song ince who was second on are a stay even and the life and to named you can to crazy w
+
+----- Diversity:0.7
+----- Generating with seed:
+" on a spike a little patience id borrow from you only i have learnt what you hav"
+----- Generated lyrics:
+ on a spike a little patience id borrow from you only i have learnt what you have ive without you us of take me your memories all of the the raining are on and morn all take me wil
+
+================================================================================
+
+----- Generating text after Epoch: 10
+----- Diversity:0.3
+----- Generating with seed:
+"if you go far from me ill die i swear it on your name my beloved ooo i swear it "
+----- Generated lyrics:
+if you go far from me ill die i swear it on your name my beloved ooo i swear it on my heart am there in i world be to you live i will the become away sint and you in my theres and 
+
+----- Diversity:0.4
+----- Generating with seed:
+"if you go far from me ill die i swear it on your name my beloved ooo i swear it "
+----- Generated lyrics:
+if you go far from me ill die i swear it on your name my beloved ooo i swear it on you in loneliness only as in my behong my gone you are the pain of shall my life is in yours the 
+
+----- Diversity:0.5
+----- Generating with seed:
+"if you go far from me ill die i swear it on your name my beloved ooo i swear it "
+----- Generated lyrics:
+if you go far from me ill die i swear it on your name my beloved ooo i swear it on my heart am there time with me you today loon with me love with like any love me for you shall my
+
+----- Diversity:0.6
+----- Generating with seed:
+"if you go far from me ill die i swear it on your name my beloved ooo i swear it "
+----- Generated lyrics:
+if you go far from me ill die i swear it on your name my beloved ooo i swear it on your name my beloved ooo myself i ask the give only you are my life is will me charming in your a
+
+----- Diversity:0.7
+----- Generating with seed:
+"if you go far from me ill die i swear it on your name my beloved ooo i swear it "
+----- Generated lyrics:
+if you go far from me ill die i swear it on your name my beloved ooo i swear it on my heart belong with me in swo stolen it was learn the because body with to heart only with i wan
+
+================================================================================
+
+----- Generating text after Epoch: 11
+----- Diversity:0.3
+----- Generating with seed:
+"ound in your street i found your house my seeds bird food are in your hands whil"
+----- Generated lyrics:
+ound in your street i found your house my seeds bird food are in your hands while heart me bringing in my dream in my eyes and fain the beats in the strong in my eyes and my life i
+
+----- Diversity:0.4
+----- Generating with seed:
+"ound in your street i found your house my seeds bird food are in your hands whil"
+----- Generated lyrics:
+ound in your street i found your house my seeds bird food are in your hands while there my breaths and mine you and the and tears letten tase in the fall in love can you and come t
+
+----- Diversity:0.5
+----- Generating with seed:
+"ound in your street i found your house my seeds bird food are in your hands whil"
+----- Generated lyrics:
+ound in your street i found your house my seeds bird food are in your hands while heart me broke of lost you in my life and teivers with you now all there is such a on even only th
+
+----- Diversity:0.6
+----- Generating with seed:
+"ound in your street i found your house my seeds bird food are in your hands whil"
+----- Generated lyrics:
+ound in your street i found your house my seeds bird food are in your hands while here the bring of your eyes always is sare a pain if my life do not be i see who my dife i love wi
+
+----- Diversity:0.7
+----- Generating with seed:
+"ound in your street i found your house my seeds bird food are in your hands whil"
+----- Generated lyrics:
+ound in your street i found your house my seeds bird food are in your hands while there my breaths i say yeshe enes they was abseant with you of love with love in the rust you and 
+
+================================================================================
+
+----- Generating text after Epoch: 12
+----- Diversity:0.3
+----- Generating with seed:
+"on her lips look everyone look at what she thinks of herselfplease accept this i"
+----- Generated lyrics:
+on her lips look everyone look at what she thinks of herselfplease accept this is too deering the and there in the sorrow colors the give ans theres i the care me ask on you deepe 
+
+----- Diversity:0.4
+----- Generating with seed:
+"on her lips look everyone look at what she thinks of herselfplease accept this i"
+----- Generated lyrics:
+on her lips look everyone look at what she thinks of herselfplease accept this is too of to look in my traces i will never be for such is love a beats for you in love put in the fa
+
+----- Diversity:0.5
+----- Generating with seed:
+"on her lips look everyone look at what she thinks of herselfplease accept this i"
+----- Generated lyrics:
+on her lips look everyone look at what she thinks of herselfplease accept this is too out of the made of me eyes and sway can na the pain the said you are to crazy pather am a the 
+
+----- Diversity:0.6
+----- Generating with seed:
+"on her lips look everyone look at what she thinks of herselfplease accept this i"
+----- Generated lyrics:
+on her lips look everyone look at what she thinks of herselfplease accept this is too dear rate singlest accept stay say the dreams it tell the said to keeps theres a passes come s
+
+----- Diversity:0.7
+----- Generating with seed:
+"on her lips look everyone look at what she thinks of herselfplease accept this i"
+----- Generated lyrics:
+on her lips look everyone look at what she thinks of herselfplease accept this is too of there your state call only of the blaness in the say there is the rine your please there as
+
+================================================================================
+
+----- Generating text after Epoch: 13
+----- Diversity:0.3
+----- Generating with seed:
+"away just let go do what i say after touching you it felt like i touched a burni"
+----- Generated lyrics:
+away just let go do what i say after touching you it felt like i touched a burning colorfulity sappeero i want from the way and on love in tell world now whats i will leat and with
+
+----- Diversity:0.4
+----- Generating with seed:
+"away just let go do what i say after touching you it felt like i touched a burni"
+----- Generated lyrics:
+away just let go do what i say after touching you it felt like i touched a burning closel and your the hare weets this care only one who are sang goes and not i have stayed you lov
+
+----- Diversity:0.5
+----- Generating with seed:
+"away just let go do what i say after touching you it felt like i touched a burni"
+----- Generated lyrics:
+away just let go do what i say after touching you it felt like i touched a burning in the away saffection who fall of the pain of a what as dreams like prayer this pain is made wit
+
+----- Diversity:0.6
+----- Generating with seed:
+"away just let go do what i say after touching you it felt like i touched a burni"
+----- Generated lyrics:
+away just let go do what i say after touching you it felt like i touched a burning it wayyour ol said thinking you hipe you bodish loves are my happen on my eyes gole of started to
+
+----- Diversity:0.7
+----- Generating with seed:
+"away just let go do what i say after touching you it felt like i touched a burni"
+----- Generated lyrics:
+away just let go do what i say after touching you it felt like i touched a burning crazy ta that parts call left its if youre drouns a though lips with at in the started of saan un
+
+================================================================================
+
+----- Generating text after Epoch: 14
+----- Diversity:0.3
+----- Generating with seed:
+"so why should i worry this is the reason to live and will die for this it oblige"
+----- Generated lyrics:
+so why should i worry this is the reason to live and will die for this it obliget me things i am and and fall and story will if i am staring in my eyes a lonely is with me even too
+
+----- Diversity:0.4
+----- Generating with seed:
+"so why should i worry this is the reason to live and will die for this it oblige"
+----- Generated lyrics:
+so why should i worry this is the reason to live and will die for this it oblige in your any i have to say this will her you ill be became you are to live without you good ill in t
+
+----- Diversity:0.5
+----- Generating with seed:
+"so why should i worry this is the reason to live and will die for this it oblige"
+----- Generated lyrics:
+so why should i worry this is the reason to live and will die for this it obliget i will to stay you only it ill forgot it for you i for you is my passes are and up a siful and liv
+
+----- Diversity:0.6
+----- Generating with seed:
+"so why should i worry this is the reason to live and will die for this it oblige"
+----- Generated lyrics:
+so why should i worry this is the reason to live and will die for this it obligets in the secret of yes are i said come only is love is lost stay you calws i go my breathro one bli
+
+----- Diversity:0.7
+----- Generating with seed:
+"so why should i worry this is the reason to live and will die for this it oblige"
+----- Generated lyrics:
+so why should i worry this is the reason to live and will die for this it obliges me second sometime appear in the dreams i have seen thous a with eart unspeaking of always i cill 
+
+================================================================================
+
+----- Generating text after Epoch: 15
+----- Diversity:0.3
+----- Generating with seed:
+"k of you but you dont understand girl let me be your man i wanna be your lover b"
+----- Generated lyrics:
+k of you but you dont understand girl let me be your man i wanna be your lover boy in love world is may are can letter live can you are live without some too and whon rage and then
+
+----- Diversity:0.4
+----- Generating with seed:
+"k of you but you dont understand girl let me be your man i wanna be your lover b"
+----- Generated lyrics:
+k of you but you dont understand girl let me be your man i wanna be your lover boy in love without a few or couldnt stop me crazy stars it you kud the started of there are is dont 
+
+----- Diversity:0.5
+----- Generating with seed:
+"k of you but you dont understand girl let me be your man i wanna be your lover b"
+----- Generated lyrics:
+k of you but you dont understand girl let me be your man i wanna be your lover boy in love of my love become and i will love you only beloved in my beloved of there is a become ins
+
+----- Diversity:0.6
+----- Generating with seed:
+"k of you but you dont understand girl let me be your man i wanna be your lover b"
+----- Generated lyrics:
+k of you but you dont understand girl let me be your man i wanna be your lover body i crazy then dreams are crazy them in my bresstan to and cloudan at you love to love only you ev
+
+----- Diversity:0.7
+----- Generating with seed:
+"k of you but you dont understand girl let me be your man i wanna be your lover b"
+----- Generated lyrics:
+k of you but you dont understand girl let me be your man i wanna be your lover boy because it now love you cant there is moment sometime appear into and me lituts is your eyes as i
+
+================================================================================
+
+----- Generating text after Epoch: 16
+----- Diversity:0.3
+----- Generating with seed:
+"ry part of my being cries out now my life can be stolen i can leave this world b"
+----- Generated lyrics:
+ry part of my being cries out now my life can be stolen i can leave this world but my lover blossom is eyef and in my love in the saying in your soon your lover as you are like the
+
+----- Diversity:0.4
+----- Generating with seed:
+"ry part of my being cries out now my life can be stolen i can leave this world b"
+----- Generated lyrics:
+ry part of my being cries out now my life can be stolen i can leave this world but my heart bless and it it will the finished the it is so you i am theres the sees and tole it to t
+
+----- Diversity:0.5
+----- Generating with seed:
+"ry part of my being cries out now my life can be stolen i can leave this world b"
+----- Generated lyrics:
+ry part of my being cries out now my life can be stolen i can leave this world breaths telling my breaths acce in this stayer face this she raining conscious aa little to think is 
+
+----- Diversity:0.6
+----- Generating with seed:
+"ry part of my being cries out now my life can be stolen i can leave this world b"
+----- Generated lyrics:
+ry part of my being cries out now my life can be stolen i can leave this world but my heart ole you why yes and i have to you are my beloved today of the are heart im of can but i 
+
+----- Diversity:0.7
+----- Generating with seed:
+"ry part of my being cries out now my life can be stolen i can leave this world b"
+----- Generated lyrics:
+ry part of my being cries out now my life can be stolen i can leave this world but the let will be world god here die is on i trans of why of heart would every moment in the second
+
+================================================================================
+
+----- Generating text after Epoch: 17
+----- Diversity:0.3
+----- Generating with seed:
+"our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver"
+----- Generated lyrics:
+our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver colercenlice will the rain this heart a since sence eyes fere always as you it there eyes as you ar
+
+----- Diversity:0.4
+----- Generating with seed:
+"our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver"
+----- Generated lyrics:
+our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver colors with this staleer the its was said heart a for you lost it is with theres do i am into state
+
+----- Diversity:0.5
+----- Generating with seed:
+"our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver"
+----- Generated lyrics:
+our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver my stoless are called the since yeah say there life seeinesse all the presents there asking raals h
+
+----- Diversity:0.6
+----- Generating with seed:
+"our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver"
+----- Generated lyrics:
+our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver colerced off you are met the beloved fall of the girl life and you there are eye seen going and it 
+
+----- Diversity:0.7
+----- Generating with seed:
+"our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver"
+----- Generated lyrics:
+our eyes oh eyes deceivers yeah deceivers your eyes are big time cheats deceiver cotsing loose for you are theres sailf youre are the naughing let the love sometime appear in the r
+
+================================================================================
+
+----- Generating text after Epoch: 18
+----- Diversity:0.3
+----- Generating with seed:
+"th whom can i go and share the din in my heart oh my love our love is true but f"
+----- Generated lyrics:
+th whom can i go and share the din in my heart oh my love our love is true but from saying in your going on blow is have to i have become only without how like thought ups or cited
+
+----- Diversity:0.4
+----- Generating with seed:
+"th whom can i go and share the din in my heart oh my love our love is true but f"
+----- Generated lyrics:
+th whom can i go and share the din in my heart oh my love our love is true but for all the is you are the those of your eyes and its i stranger that i have theres of there are bark
+
+----- Diversity:0.5
+----- Generating with seed:
+"th whom can i go and share the din in my heart oh my love our love is true but f"
+----- Generated lyrics:
+th whom can i go and share the din in my heart oh my love our love is true but for and the mine blaction on blow it there to lonelab ot spatiot of benlight that love without you ar
+
+----- Diversity:0.6
+----- Generating with seed:
+"th whom can i go and share the din in my heart oh my love our love is true but f"
+----- Generated lyrics:
+th whom can i go and share the din in my heart oh my love our love is true but fair name i am not in its on crazy in your arms on my named the earti and in the moin every moment th
+
+----- Diversity:0.7
+----- Generating with seed:
+"th whom can i go and share the din in my heart oh my love our love is true but f"
+----- Generated lyrics:
+th whom can i go and share the din in my heart oh my love our love is true but for all the look blooming those who one bade youre me on my of saain will will have not in your graas
+
+================================================================================
+
+----- Generating text after Epoch: 19
+----- Diversity:0.3
+----- Generating with seed:
+"p of your and mine it doesnt have a face and yet its so deep these moments these"
+----- Generated lyrics:
+p of your and mine it doesnt have a face and yet its so deep these moments these as your say fared its see the say you are the say yes or even the saying sometime terest you every 
+
+----- Diversity:0.4
+----- Generating with seed:
+"p of your and mine it doesnt have a face and yet its so deep these moments these"
+----- Generated lyrics:
+p of your and mine it doesnt have a face and yet its so deep these moments these as your say fared heart do it a single to theres and the eyes and badly it let is talk to oh god i 
+
+----- Diversity:0.5
+----- Generating with seed:
+"p of your and mine it doesnt have a face and yet its so deep these moments these"
+----- Generated lyrics:
+p of your and mine it doesnt have a face and yet its so deep these moments these as pestinatione kyunco when the sun to braase between you comforain to keeper not that i dive are g
+
+----- Diversity:0.6
+----- Generating with seed:
+"p of your and mine it doesnt have a face and yet its so deep these moments these"
+----- Generated lyrics:
+p of your and mine it doesnt have a face and yet its so deep these moments these as on you every the completes the forgiven path to live got away state cannon a started that from t
+
+----- Diversity:0.7
+----- Generating with seed:
+"p of your and mine it doesnt have a face and yet its so deep these moments these"
+----- Generated lyrics:
+p of your and mine it doesnt have a face and yet its so deep these moments these as your hain separation to lost what is theresss lost my heart theres stars you to the love for got
+
+================================================================================
