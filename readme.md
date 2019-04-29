@@ -14,7 +14,7 @@
     * [3. Lyric generator based on char-level RNN](#3-lyric-generator-based-on-char-level-RNN)
 * [Word-level RNN](#word-level-rnn)
     * [1. Using the corpus vocabulary for one-hot-encoding](#1-using-the-corpus-vocabulary-for-one-hot-encoding)
-    * [2. Lyric generator based on word-level RNN](#2-lyric-generator-based-on-word-level RNN)
+    * [2. Lyric generator based on word-level RNN](#2-lyric-generator-based-on-word-level-rnn)
 * [Concluding remarks](#concluding-remarks)
 * [Reference](#reference)
 * [Acknowledgement](#acknowledgement)
@@ -25,7 +25,7 @@
 
 ### 1. Motivation
 
-Natural language processing is among the most attractive and difficult field in machine learning. Different from computer vision and other machine learning tasks, NLP does not convey meaning through any physical manifestation. By the virtue of deep learning, NLP achieved tremendous progress in keyword search, machine translation, semantic analysis and etc. In this project, I would like to make a lyrics generator by using both character level and word level RNN(recurrent neural network).
+This project demonstrates the effectiveness of Recurrent Neural Networks in an efforts to generate song lyrics. The goal of this project is to try out different model architectures and understand how recurrent Neural networks are able to learn the song lyric structures. The experiments were conducted on an English dataset and on a Hindi to English translated lyric versions
 
 
 Neural network
@@ -33,7 +33,7 @@ Neural network
 <img src="images/neural.jpeg" ></img>
 
 ### 2. Dataset Preparation:
-1. English: The dataset is from kaggle with lyrics from 55,000 songs
+1. English(songdata.csv): The dataset is from kaggle with lyrics from 55,000 songs
 
 | index | lyrics                                            |
 |-------|---------------------------------------------------|
@@ -43,7 +43,7 @@ Neural network
 | 3     | Making somebody happy is a question of give an... |
 | 4     | Making somebody happy is a question of give an... |
 
-1. Hindi-to-English translated: The dataset is obtained from internet via scraping
+2. Hindi-to-English translated(hindi_songs.xlx): The dataset is obtained from internet via scraping
 
 | index | lyrics                                            |
 |-------|---------------------------------------------------|
@@ -101,7 +101,7 @@ _________________________________________________________________
     ```
     input: 'hello, world' -> output: 'n', true output: 'p'
     ```
-* Calculate cross entropy and backpropagate the neural network to update 568,687 parameters.
+* Calculate cross entropy and backpropagate the neural network to update the parameters.
 * Slide the window to the right by one character. Extract new input and iterate above process until cost function reaches the minimum.
 
 
@@ -187,8 +187,7 @@ the bride of badri
 * Takeaways for tunning hyperparameters:
     ```
     1. It is easy to overfit the model. It is necessay to add Dropout layer after each LSTM layer.
-    2. Sometimes GRU is better than LSTM and computationally cheaper.
-    3. Initialization and luck are very important. Try to restart kernel if model is stuck at local minimum.
+    2. Sometimes GRU is better than LSTM
     ```
 * Future work:
     ```
