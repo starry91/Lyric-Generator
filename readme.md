@@ -210,5 +210,3 @@ the bride of badri
 ## Acknowledgement
 
 * The above work is contributed by myself, Aman Joshi, Arpit Gupta and Shubham Pokhriyal.
-
-* Dataset is from [Kaggle](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics).
